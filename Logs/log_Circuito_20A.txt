@@ -1,0 +1,466 @@
+Tempo Decorrido: 0.89s
+
+Tempo Decorrido: 0.89s
+
+Tempo Decorrido: 0.80s
+
+Tempo Decorrido: 0.77s
+
+Tempo Decorrido: 0.78s
+
+Tempo Decorrido: 0.78s
+
+Tempo Decorrido: 0.81s
+
+Tempo Decorrido: 0.74s
+
+Tempo Decorrido: 0.70s
+
+Tempo Decorrido: 0.80s
+
+Tempo Decorrido: 0.70s
+
+Tempo Decorrido: 0.80s
+
+Tempo Decorrido: 0.70s
+
+Tempo Decorrido: 1.18s
+
+Tempo Decorrido: 1.18s
+
+Tempo Decorrido: 0.80s
+
+Tempo Decorrido: 0.73s
+
+Tempo Decorrido: 0.76s
+
+Tempo Decorrido: 0.85s
+
+Tempo Decorrido: 0.82s
+
+Tempo Decorrido: 0.72s
+
+Tempo Decorrido: 1.21s
+
+Tempo Decorrido: 0.73s
+
+Tempo Decorrido: 0.67s
+
+Tempo Decorrido: 0.79s
+
+Tempo Decorrido: 0.70s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.75s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.76s
+
+Tempo Decorrido: 0.91s
+
+Tempo Decorrido: 0.66s
+
+Tempo Decorrido: 0.68s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.78s
+
+Tempo Decorrido: 0.74s
+
+Tempo Decorrido: 0.86s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.66s
+
+Tempo Decorrido: 0.68s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.67s
+
+Tempo Decorrido: 0.80s
+
+Tempo Decorrido: 0.73s
+
+Tempo Decorrido: 0.73s
+
+Tempo Decorrido: 0.68s
+
+Tempo Decorrido: 0.67s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.75s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.66s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.68s
+
+Tempo Decorrido: 0.71s
+
+Tempo Decorrido: 0.75s
+
+Tempo Decorrido: 0.69s
+
+Tempo Decorrido: 0.68s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.67s
+
+Tempo Decorrido: 0.82s
+
+Tempo Decorrido: 0.66s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.67s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.67s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.70s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.80s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.70s
+
+Tempo Decorrido: 0.69s
+
+Tempo Decorrido: 0.74s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.83s
+
+Tempo Decorrido: 1.16s
+
+Tempo Decorrido: 0.75s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.75s
+
+Tempo Decorrido: 0.68s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.82s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.68s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.65s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.67s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.67s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.69s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.58s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.64s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.63s
+
+Tempo Decorrido: 0.62s
+
+Tempo Decorrido: 0.61s
+
+Tempo Decorrido: 0.60s
+
+Tempo Decorrido: 0.59s
+
+Tempo Decorrido: 0.86s
+
+Tempo Decorrido: 0.56s
+
+Tempo Decorrido: 0.57s
+
+Tempo Decorrido: 0.58s
+
