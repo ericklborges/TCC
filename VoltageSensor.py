@@ -1,7 +1,6 @@
 from math import sqrt
 from time import time
-from time import sleep
-from gpiozero import MCP3008
+from MCP3008 import MCP3008
 
 ADC_RESOLUTION = 10
 ADC_COUNT = 1 << ADC_RESOLUTION
@@ -29,7 +28,7 @@ class VoltageSensor:
 
     # Returns a voltage sample
     def getVoltageSample(self):
-        return self.analogSignal.value * 1000.0
+        return self.analogSignal.sample()
 
     # Returns a voltage sample when
     # waveform is close to zero
@@ -84,17 +83,8 @@ class VoltageSensor:
             timedOut = (time() - startTime) > TIMEOUT
             reachedLimitOfCrossings = crossCount >= CROSSINGS
             numberOfSamples += 1
-
-        print("firstVoltageSample: %.2f" %(self.firstVoltageSample))
-        print("voltageSample: %.2f" %(voltageSample))
-        print("offsetVoltage: %.2f" %(self.offsetVoltage))
-        print("filteredVoltage: %.2f" %(filteredVoltage))
-        print("sumVoltage: %.2f" %(sumVoltage))
-        print("numberOfSamples: %.2f" %(numberOfSamples))
-        print("ADC_COUNT: %.2f" %(ADC_COUNT))
         
         voltageRatio = self.callibrationVoltage * SUPPLY_VOLTAGE / ADC_COUNT
-        print("voltageRatio: %.2f\n" %(voltageRatio))
         return voltageRatio * sqrt(sumVoltage / numberOfSamples)
 
 
