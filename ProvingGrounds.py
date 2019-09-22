@@ -1,10 +1,17 @@
 import subprocess
+from gpiozero import LED, Button
+from signal import pause
 from time import sleep
 
-log = open('log.txt', 'a')
+led = LED(18)
+button = Button(23)
 
-for i in range(5):
-    log.write("Hello World %d !" %(i))
-    log.write("\n")
+led.blink(0.5,0.5,None,True)
+
+button.when_pressed = led.on
+
+pause()
+
+
+
     
-log.close()
