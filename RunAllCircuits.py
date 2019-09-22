@@ -25,15 +25,15 @@ def run():
     stopLedBlinking()
     
     global circuit10AProcess
-    circuit10AProcess = subprocess.Popen(["python", "Circuit_10A.py"])
+    circuit10AProcess = subprocess.Popen(["python3", "/home/pi/Git/TCC/Circuit_10A.py"])
     sleep(delay)
     
     global circuit20AProcess
-    circuit20AProcess = subprocess.Popen(["python", "Circuit_20A.py"])
+    circuit20AProcess = subprocess.Popen(["python3", "/home/pi/Git/TCC/Circuit_20A.py"])
     sleep(delay)
 
     global circuit32AProcess
-    circuit32AProcess = subprocess.Popen(["python", "Circuit_32A.py"])
+    circuit32AProcess = subprocess.Popen(["python3", "/home/pi/Git/TCC/Circuit_32A.py"])
     sleep(delay)
 
 def stop():
