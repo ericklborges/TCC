@@ -8,23 +8,26 @@ zmpt = VoltageSensor(channel = 4, callibrationVoltage = 845)
 
 sct = CurrentSensor(channel = 5, numberOfSamples = 1480, callibrationCurrent = 91)
 
+count = 0
+
 while True:
-    startTime = time()
-    
-    print("Circuito 32A")
-    
+    startTime = time() * 1000
+
     current = sct.getIrms()
-    print("Corrente : %.2f" %(current))
+    # print("Corrente : %.2f" %(current))
     
     voltage = zmpt.getVrms()
-    print("Tensão: %.2f" %(voltage))
+    # print("Tensão: %.2f" %(voltage))
 
-    endTime = time()
-
+    endTime = time() * 1000
+    
     log = open('Logs/log_Circuito_32A.txt', 'a')
-    log.write("Tempo Decorrido: %.2fs\n" %(endTime - startTime))
+    log.write("Amostra: {}}ms\n".format(count))
+    log.write("TempoDecorrido: {}ms\n".format(endTime - startTime))
+    log.write("TempoTotal: {}ms\n".format(endTime - startTime))
     log.write("\n")
     log.close()
     
-    sleep(0.5)
-    
+    count += 1
+
+    sleep(0.05)
