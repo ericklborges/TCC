@@ -1,0 +1,7168 @@
+Amostra: 0
+TempoDecorrido: 77.021484375ms
+TempoTotal: 77.0576171875ms
+
+Amostra: 1
+TempoDecorrido: 114.51171875ms
+TempoTotal: 246.307861328125ms
+
+Amostra: 2
+TempoDecorrido: 104.783935546875ms
+TempoTotal: 401.80419921875ms
+
+Amostra: 3
+TempoDecorrido: 81.459228515625ms
+TempoTotal: 533.945068359375ms
+
+Amostra: 4
+TempoDecorrido: 104.10009765625ms
+TempoTotal: 688.428955078125ms
+
+Amostra: 5
+TempoDecorrido: 97.982177734375ms
+TempoTotal: 836.798095703125ms
+
+Amostra: 6
+TempoDecorrido: 101.16015625ms
+TempoTotal: 988.33740234375ms
+
+Amostra: 7
+TempoDecorrido: 97.47216796875ms
+TempoTotal: 1136.2021484375ms
+
+Amostra: 8
+TempoDecorrido: 101.525390625ms
+TempoTotal: 1288.113037109375ms
+
+Amostra: 9
+TempoDecorrido: 86.51416015625ms
+TempoTotal: 1425.059326171875ms
+
+Amostra: 10
+TempoDecorrido: 95.1708984375ms
+TempoTotal: 1570.62353515625ms
+
+Amostra: 11
+TempoDecorrido: 100.14013671875ms
+TempoTotal: 1721.1689453125ms
+
+Amostra: 12
+TempoDecorrido: 86.49072265625ms
+TempoTotal: 1858.07861328125ms
+
+Amostra: 13
+TempoDecorrido: 82.81298828125ms
+TempoTotal: 1991.322265625ms
+
+Amostra: 14
+TempoDecorrido: 93.8779296875ms
+TempoTotal: 2135.59033203125ms
+
+Amostra: 15
+TempoDecorrido: 89.19873046875ms
+TempoTotal: 2275.173583984375ms
+
+Amostra: 16
+TempoDecorrido: 93.47412109375ms
+TempoTotal: 2419.08984375ms
+
+Amostra: 17
+TempoDecorrido: 79.87646484375ms
+TempoTotal: 2549.418212890625ms
+
+Amostra: 18
+TempoDecorrido: 104.156005859375ms
+TempoTotal: 2703.9755859375ms
+
+Amostra: 19
+TempoDecorrido: 86.700927734375ms
+TempoTotal: 2841.101318359375ms
+
+Amostra: 20
+TempoDecorrido: 93.125732421875ms
+TempoTotal: 2984.625ms
+
+Amostra: 21
+TempoDecorrido: 90.7060546875ms
+TempoTotal: 3125.73486328125ms
+
+Amostra: 22
+TempoDecorrido: 91.189453125ms
+TempoTotal: 3267.346435546875ms
+
+Amostra: 23
+TempoDecorrido: 80.9365234375ms
+TempoTotal: 3398.68310546875ms
+
+Amostra: 24
+TempoDecorrido: 82.856201171875ms
+TempoTotal: 3531.94384765625ms
+
+Amostra: 25
+TempoDecorrido: 93.19384765625ms
+TempoTotal: 3675.54296875ms
+
+Amostra: 26
+TempoDecorrido: 89.907470703125ms
+TempoTotal: 3815.84716796875ms
+
+Amostra: 27
+TempoDecorrido: 92.466552734375ms
+TempoTotal: 3958.708740234375ms
+
+Amostra: 28
+TempoDecorrido: 100.302001953125ms
+TempoTotal: 4109.399169921875ms
+
+Amostra: 29
+TempoDecorrido: 98.082763671875ms
+TempoTotal: 4257.89208984375ms
+
+Amostra: 30
+TempoDecorrido: 99.082275390625ms
+TempoTotal: 4407.38720703125ms
+
+Amostra: 31
+TempoDecorrido: 101.1474609375ms
+TempoTotal: 4558.94873046875ms
+
+Amostra: 32
+TempoDecorrido: 88.457763671875ms
+TempoTotal: 4697.7998046875ms
+
+Amostra: 33
+TempoDecorrido: 95.330810546875ms
+TempoTotal: 4843.5361328125ms
+
+Amostra: 34
+TempoDecorrido: 92.04833984375ms
+TempoTotal: 4985.99853515625ms
+
+Amostra: 35
+TempoDecorrido: 80.109130859375ms
+TempoTotal: 5116.54443359375ms
+
+Amostra: 36
+TempoDecorrido: 80.68115234375ms
+TempoTotal: 5247.732666015625ms
+
+Amostra: 37
+TempoDecorrido: 90.98583984375ms
+TempoTotal: 5389.126220703125ms
+
+Amostra: 38
+TempoDecorrido: 101.096923828125ms
+TempoTotal: 5540.66357421875ms
+
+Amostra: 39
+TempoDecorrido: 100.66064453125ms
+TempoTotal: 5691.6943359375ms
+
+Amostra: 40
+TempoDecorrido: 100.15673828125ms
+TempoTotal: 5842.216552734375ms
+
+Amostra: 41
+TempoDecorrido: 98.873291015625ms
+TempoTotal: 5991.499755859375ms
+
+Amostra: 42
+TempoDecorrido: 84.998291015625ms
+TempoTotal: 6126.8935546875ms
+
+Amostra: 43
+TempoDecorrido: 95.5546875ms
+TempoTotal: 6272.827880859375ms
+
+Amostra: 44
+TempoDecorrido: 86.892578125ms
+TempoTotal: 6410.16015625ms
+
+Amostra: 45
+TempoDecorrido: 95.93310546875ms
+TempoTotal: 6556.50244140625ms
+
+Amostra: 46
+TempoDecorrido: 91.965576171875ms
+TempoTotal: 6698.852294921875ms
+
+Amostra: 47
+TempoDecorrido: 80.6591796875ms
+TempoTotal: 6829.91650390625ms
+
+Amostra: 48
+TempoDecorrido: 95.73681640625ms
+TempoTotal: 6976.045166015625ms
+
+Amostra: 49
+TempoDecorrido: 88.474609375ms
+TempoTotal: 7114.921142578125ms
+
+Amostra: 50
+TempoDecorrido: 82.399169921875ms
+TempoTotal: 7247.735107421875ms
+
+Amostra: 51
+TempoDecorrido: 100.919921875ms
+TempoTotal: 7399.044677734375ms
+
+Amostra: 52
+TempoDecorrido: 101.43701171875ms
+TempoTotal: 7550.859375ms
+
+Amostra: 53
+TempoDecorrido: 86.941162109375ms
+TempoTotal: 7688.1923828125ms
+
+Amostra: 54
+TempoDecorrido: 82.540771484375ms
+TempoTotal: 7821.1796875ms
+
+Amostra: 55
+TempoDecorrido: 93.637939453125ms
+TempoTotal: 7965.246826171875ms
+
+Amostra: 56
+TempoDecorrido: 80.447998046875ms
+TempoTotal: 8096.127685546875ms
+
+Amostra: 57
+TempoDecorrido: 82.6005859375ms
+TempoTotal: 8229.119873046875ms
+
+Amostra: 58
+TempoDecorrido: 104.234619140625ms
+TempoTotal: 8383.74462890625ms
+
+Amostra: 59
+TempoDecorrido: 94.83447265625ms
+TempoTotal: 8528.968017578125ms
+
+Amostra: 60
+TempoDecorrido: 99.56103515625ms
+TempoTotal: 8678.887939453125ms
+
+Amostra: 61
+TempoDecorrido: 99.7509765625ms
+TempoTotal: 8829.011962890625ms
+
+Amostra: 62
+TempoDecorrido: 99.939697265625ms
+TempoTotal: 8979.293701171875ms
+
+Amostra: 63
+TempoDecorrido: 99.614501953125ms
+TempoTotal: 9129.28173828125ms
+
+Amostra: 64
+TempoDecorrido: 99.035400390625ms
+TempoTotal: 9278.708984375ms
+
+Amostra: 65
+TempoDecorrido: 111.772705078125ms
+TempoTotal: 9440.847900390625ms
+
+Amostra: 66
+TempoDecorrido: 97.020263671875ms
+TempoTotal: 9588.308349609375ms
+
+Amostra: 67
+TempoDecorrido: 94.04736328125ms
+TempoTotal: 9732.75048828125ms
+
+Amostra: 68
+TempoDecorrido: 89.873779296875ms
+TempoTotal: 9873.077392578125ms
+
+Amostra: 69
+TempoDecorrido: 91.170654296875ms
+TempoTotal: 10014.6611328125ms
+
+Amostra: 70
+TempoDecorrido: 79.707763671875ms
+TempoTotal: 10144.78857421875ms
+
+Amostra: 71
+TempoDecorrido: 83.588623046875ms
+TempoTotal: 10278.779052734375ms
+
+Amostra: 72
+TempoDecorrido: 92.813720703125ms
+TempoTotal: 10422.02099609375ms
+
+Amostra: 73
+TempoDecorrido: 100.309326171875ms
+TempoTotal: 10572.7744140625ms
+
+Amostra: 74
+TempoDecorrido: 88.053955078125ms
+TempoTotal: 10711.24365234375ms
+
+Amostra: 75
+TempoDecorrido: 104.24560546875ms
+TempoTotal: 10865.882568359375ms
+
+Amostra: 76
+TempoDecorrido: 86.430908203125ms
+TempoTotal: 11002.73681640625ms
+
+Amostra: 77
+TempoDecorrido: 91.31787109375ms
+TempoTotal: 11144.43017578125ms
+
+Amostra: 78
+TempoDecorrido: 91.00537109375ms
+TempoTotal: 11285.815673828125ms
+
+Amostra: 79
+TempoDecorrido: 91.275146484375ms
+TempoTotal: 11427.4794921875ms
+
+Amostra: 80
+TempoDecorrido: 93.181884765625ms
+TempoTotal: 11571.07080078125ms
+
+Amostra: 81
+TempoDecorrido: 89.166748046875ms
+TempoTotal: 11710.62060546875ms
+
+Amostra: 82
+TempoDecorrido: 104.503173828125ms
+TempoTotal: 11865.509765625ms
+
+Amostra: 83
+TempoDecorrido: 86.13525390625ms
+TempoTotal: 12002.028564453125ms
+
+Amostra: 84
+TempoDecorrido: 83.96044921875ms
+TempoTotal: 12136.388671875ms
+
+Amostra: 85
+TempoDecorrido: 81.896728515625ms
+TempoTotal: 12268.6875ms
+
+Amostra: 86
+TempoDecorrido: 96.099609375ms
+TempoTotal: 12415.183349609375ms
+
+Amostra: 87
+TempoDecorrido: 87.075439453125ms
+TempoTotal: 12552.6630859375ms
+
+Amostra: 88
+TempoDecorrido: 94.0673828125ms
+TempoTotal: 12697.13330078125ms
+
+Amostra: 89
+TempoDecorrido: 91.29931640625ms
+TempoTotal: 12838.843017578125ms
+
+Amostra: 90
+TempoDecorrido: 93.118408203125ms
+TempoTotal: 12982.357666015625ms
+
+Amostra: 91
+TempoDecorrido: 85.485107421875ms
+TempoTotal: 13118.322998046875ms
+
+Amostra: 92
+TempoDecorrido: 91.532470703125ms
+TempoTotal: 13260.257080078125ms
+
+Amostra: 93
+TempoDecorrido: 92.02880859375ms
+TempoTotal: 13402.70849609375ms
+
+Amostra: 94
+TempoDecorrido: 101.03564453125ms
+TempoTotal: 13554.15966796875ms
+
+Amostra: 95
+TempoDecorrido: 88.637939453125ms
+TempoTotal: 13693.19677734375ms
+
+Amostra: 96
+TempoDecorrido: 103.991455078125ms
+TempoTotal: 13847.643798828125ms
+
+Amostra: 97
+TempoDecorrido: 86.849609375ms
+TempoTotal: 13984.906494140625ms
+
+Amostra: 98
+TempoDecorrido: 82.637939453125ms
+TempoTotal: 14117.941650390625ms
+
+Amostra: 99
+TempoDecorrido: 95.85400390625ms
+TempoTotal: 14264.23095703125ms
+
+Amostra: 100
+TempoDecorrido: 77.995849609375ms
+TempoTotal: 14392.62744140625ms
+
+Amostra: 101
+TempoDecorrido: 91.22802734375ms
+TempoTotal: 14534.235107421875ms
+
+Amostra: 102
+TempoDecorrido: 104.257568359375ms
+TempoTotal: 14688.892822265625ms
+
+Amostra: 103
+TempoDecorrido: 86.411865234375ms
+TempoTotal: 14825.688232421875ms
+
+Amostra: 104
+TempoDecorrido: 95.6982421875ms
+TempoTotal: 14971.787109375ms
+
+Amostra: 105
+TempoDecorrido: 99.729248046875ms
+TempoTotal: 15121.917724609375ms
+
+Amostra: 106
+TempoDecorrido: 86.462890625ms
+TempoTotal: 15258.861572265625ms
+
+Amostra: 107
+TempoDecorrido: 82.92041015625ms
+TempoTotal: 15392.265869140625ms
+
+Amostra: 108
+TempoDecorrido: 82.635986328125ms
+TempoTotal: 15525.30029296875ms
+
+Amostra: 109
+TempoDecorrido: 104.3134765625ms
+TempoTotal: 15680.095703125ms
+
+Amostra: 110
+TempoDecorrido: 97.117919921875ms
+TempoTotal: 15827.707763671875ms
+
+Amostra: 111
+TempoDecorrido: 88.610595703125ms
+TempoTotal: 15966.735107421875ms
+
+Amostra: 112
+TempoDecorrido: 93.8486328125ms
+TempoTotal: 16110.959716796875ms
+
+Amostra: 113
+TempoDecorrido: 92.526123046875ms
+TempoTotal: 16253.860595703125ms
+
+Amostra: 114
+TempoDecorrido: 92.5830078125ms
+TempoTotal: 16396.863037109375ms
+
+Amostra: 115
+TempoDecorrido: 86.373046875ms
+TempoTotal: 16533.668701171875ms
+
+Amostra: 116
+TempoDecorrido: 91.46142578125ms
+TempoTotal: 16675.544677734375ms
+
+Amostra: 117
+TempoDecorrido: 93.366943359375ms
+TempoTotal: 16819.305908203125ms
+
+Amostra: 118
+TempoDecorrido: 88.43505859375ms
+TempoTotal: 16958.154296875ms
+
+Amostra: 119
+TempoDecorrido: 94.188232421875ms
+TempoTotal: 17102.749267578125ms
+
+Amostra: 120
+TempoDecorrido: 88.113037109375ms
+TempoTotal: 17241.266845703125ms
+
+Amostra: 121
+TempoDecorrido: 94.444580078125ms
+TempoTotal: 17386.11328125ms
+
+Amostra: 122
+TempoDecorrido: 92.66357421875ms
+TempoTotal: 17529.174072265625ms
+
+Amostra: 123
+TempoDecorrido: 91.38232421875ms
+TempoTotal: 17671.00732421875ms
+
+Amostra: 124
+TempoDecorrido: 91.49755859375ms
+TempoTotal: 17812.936279296875ms
+
+Amostra: 125
+TempoDecorrido: 77.03076171875ms
+TempoTotal: 17940.3798828125ms
+
+Amostra: 126
+TempoDecorrido: 91.4658203125ms
+TempoTotal: 18082.2314453125ms
+
+Amostra: 127
+TempoDecorrido: 99.16552734375ms
+TempoTotal: 18231.720947265625ms
+
+Amostra: 128
+TempoDecorrido: 112.09326171875ms
+TempoTotal: 18394.15576171875ms
+
+Amostra: 129
+TempoDecorrido: 111.8505859375ms
+TempoTotal: 18556.336181640625ms
+
+Amostra: 130
+TempoDecorrido: 121.365478515625ms
+TempoTotal: 18728.0419921875ms
+
+Amostra: 131
+TempoDecorrido: 107.66650390625ms
+TempoTotal: 18886.139404296875ms
+
+Amostra: 132
+TempoDecorrido: 86.515869140625ms
+TempoTotal: 19023.073974609375ms
+
+Amostra: 133
+TempoDecorrido: 93.718505859375ms
+TempoTotal: 19167.2080078125ms
+
+Amostra: 134
+TempoDecorrido: 91.822509765625ms
+TempoTotal: 19309.429443359375ms
+
+Amostra: 135
+TempoDecorrido: 92.42919921875ms
+TempoTotal: 19452.262451171875ms
+
+Amostra: 136
+TempoDecorrido: 78.01318359375ms
+TempoTotal: 19580.693359375ms
+
+Amostra: 137
+TempoDecorrido: 96.184326171875ms
+TempoTotal: 19727.264404296875ms
+
+Amostra: 138
+TempoDecorrido: 99.388916015625ms
+TempoTotal: 19877.0830078125ms
+
+Amostra: 139
+TempoDecorrido: 86.146240234375ms
+TempoTotal: 20013.6123046875ms
+
+Amostra: 140
+TempoDecorrido: 103.535400390625ms
+TempoTotal: 20167.528564453125ms
+
+Amostra: 141
+TempoDecorrido: 87.221923828125ms
+TempoTotal: 20305.15625ms
+
+Amostra: 142
+TempoDecorrido: 103.04736328125ms
+TempoTotal: 20458.67333984375ms
+
+Amostra: 143
+TempoDecorrido: 95.826904296875ms
+TempoTotal: 20604.861572265625ms
+
+Amostra: 144
+TempoDecorrido: 91.21533203125ms
+TempoTotal: 20746.50244140625ms
+
+Amostra: 145
+TempoDecorrido: 91.471435546875ms
+TempoTotal: 20888.454345703125ms
+
+Amostra: 146
+TempoDecorrido: 94.46630859375ms
+TempoTotal: 21033.36328125ms
+
+Amostra: 147
+TempoDecorrido: 89.758056640625ms
+TempoTotal: 21173.559326171875ms
+
+Amostra: 148
+TempoDecorrido: 81.7861328125ms
+TempoTotal: 21305.84033203125ms
+
+Amostra: 149
+TempoDecorrido: 81.25927734375ms
+TempoTotal: 21437.5283203125ms
+
+Amostra: 150
+TempoDecorrido: 104.184326171875ms
+TempoTotal: 21592.134765625ms
+
+Amostra: 151
+TempoDecorrido: 97.52001953125ms
+TempoTotal: 21740.145263671875ms
+
+Amostra: 152
+TempoDecorrido: 88.09814453125ms
+TempoTotal: 21878.67333984375ms
+
+Amostra: 153
+TempoDecorrido: 91.184326171875ms
+TempoTotal: 22020.270751953125ms
+
+Amostra: 154
+TempoDecorrido: 99.684326171875ms
+TempoTotal: 22170.30859375ms
+
+Amostra: 155
+TempoDecorrido: 100.976806640625ms
+TempoTotal: 22321.640625ms
+
+Amostra: 156
+TempoDecorrido: 97.9462890625ms
+TempoTotal: 22469.97802734375ms
+
+Amostra: 157
+TempoDecorrido: 101.732421875ms
+TempoTotal: 22622.1015625ms
+
+Amostra: 158
+TempoDecorrido: 109.3173828125ms
+TempoTotal: 22781.882568359375ms
+
+Amostra: 159
+TempoDecorrido: 95.353271484375ms
+TempoTotal: 22927.627685546875ms
+
+Amostra: 160
+TempoDecorrido: 93.88037109375ms
+TempoTotal: 23071.923095703125ms
+
+Amostra: 161
+TempoDecorrido: 93.423828125ms
+TempoTotal: 23215.828369140625ms
+
+Amostra: 162
+TempoDecorrido: 91.11328125ms
+TempoTotal: 23357.363525390625ms
+
+Amostra: 163
+TempoDecorrido: 88.682373046875ms
+TempoTotal: 23496.4990234375ms
+
+Amostra: 164
+TempoDecorrido: 92.908203125ms
+TempoTotal: 23639.92138671875ms
+
+Amostra: 165
+TempoDecorrido: 77.90234375ms
+TempoTotal: 23768.22021484375ms
+
+Amostra: 166
+TempoDecorrido: 82.6650390625ms
+TempoTotal: 23901.265869140625ms
+
+Amostra: 167
+TempoDecorrido: 104.41015625ms
+TempoTotal: 24056.058349609375ms
+
+Amostra: 168
+TempoDecorrido: 99.517822265625ms
+TempoTotal: 24205.9794921875ms
+
+Amostra: 169
+TempoDecorrido: 86.70361328125ms
+TempoTotal: 24343.072021484375ms
+
+Amostra: 170
+TempoDecorrido: 82.213134765625ms
+TempoTotal: 24475.69091796875ms
+
+Amostra: 171
+TempoDecorrido: 103.03173828125ms
+TempoTotal: 24629.1015625ms
+
+Amostra: 172
+TempoDecorrido: 87.656982421875ms
+TempoTotal: 24767.177490234375ms
+
+Amostra: 173
+TempoDecorrido: 104.020263671875ms
+TempoTotal: 24921.5908203125ms
+
+Amostra: 174
+TempoDecorrido: 87.007568359375ms
+TempoTotal: 25058.963623046875ms
+
+Amostra: 175
+TempoDecorrido: 95.8671875ms
+TempoTotal: 25205.237548828125ms
+
+Amostra: 176
+TempoDecorrido: 79.159423828125ms
+TempoTotal: 25334.819580078125ms
+
+Amostra: 177
+TempoDecorrido: 81.0361328125ms
+TempoTotal: 25466.357666015625ms
+
+Amostra: 178
+TempoDecorrido: 92.198974609375ms
+TempoTotal: 25608.948486328125ms
+
+Amostra: 179
+TempoDecorrido: 89.59716796875ms
+TempoTotal: 25748.939208984375ms
+
+Amostra: 180
+TempoDecorrido: 99.229248046875ms
+TempoTotal: 25898.5185546875ms
+
+Amostra: 181
+TempoDecorrido: 99.88037109375ms
+TempoTotal: 26048.71728515625ms
+
+Amostra: 182
+TempoDecorrido: 99.581298828125ms
+TempoTotal: 26198.612060546875ms
+
+Amostra: 183
+TempoDecorrido: 111.76220703125ms
+TempoTotal: 26360.694580078125ms
+
+Amostra: 184
+TempoDecorrido: 116.804931640625ms
+TempoTotal: 26527.81494140625ms
+
+Amostra: 185
+TempoDecorrido: 102.89697265625ms
+TempoTotal: 26681.066650390625ms
+
+Amostra: 186
+TempoDecorrido: 109.577392578125ms
+TempoTotal: 26840.988037109375ms
+
+Amostra: 187
+TempoDecorrido: 98.94775390625ms
+TempoTotal: 26990.319580078125ms
+
+Amostra: 188
+TempoDecorrido: 90.517822265625ms
+TempoTotal: 27131.22021484375ms
+
+Amostra: 189
+TempoDecorrido: 83.38916015625ms
+TempoTotal: 27265.045166015625ms
+
+Amostra: 190
+TempoDecorrido: 75.517333984375ms
+TempoTotal: 27390.997802734375ms
+
+Amostra: 191
+TempoDecorrido: 89.054931640625ms
+TempoTotal: 27530.4296875ms
+
+Amostra: 192
+TempoDecorrido: 104.08056640625ms
+TempoTotal: 27684.882080078125ms
+
+Amostra: 193
+TempoDecorrido: 99.3720703125ms
+TempoTotal: 27834.65185546875ms
+
+Amostra: 194
+TempoDecorrido: 89.07373046875ms
+TempoTotal: 27974.14453125ms
+
+Amostra: 195
+TempoDecorrido: 88.998779296875ms
+TempoTotal: 28113.54248046875ms
+
+Amostra: 196
+TempoDecorrido: 103.549072265625ms
+TempoTotal: 28267.490478515625ms
+
+Amostra: 197
+TempoDecorrido: 86.3515625ms
+TempoTotal: 28404.256103515625ms
+
+Amostra: 198
+TempoDecorrido: 93.25341796875ms
+TempoTotal: 28547.90234375ms
+
+Amostra: 199
+TempoDecorrido: 90.577392578125ms
+TempoTotal: 28688.933349609375ms
+
+Amostra: 200
+TempoDecorrido: 94.175048828125ms
+TempoTotal: 28833.49658203125ms
+
+Amostra: 201
+TempoDecorrido: 86.065185546875ms
+TempoTotal: 28969.971435546875ms
+
+Amostra: 202
+TempoDecorrido: 91.21728515625ms
+TempoTotal: 29111.633056640625ms
+
+Amostra: 203
+TempoDecorrido: 104.231689453125ms
+TempoTotal: 29266.25146484375ms
+
+Amostra: 204
+TempoDecorrido: 87.44287109375ms
+TempoTotal: 29404.169189453125ms
+
+Amostra: 205
+TempoDecorrido: 81.509521484375ms
+TempoTotal: 29536.1669921875ms
+
+Amostra: 206
+TempoDecorrido: 96.009521484375ms
+TempoTotal: 29682.64111328125ms
+
+Amostra: 207
+TempoDecorrido: 77.605224609375ms
+TempoTotal: 29810.711669921875ms
+
+Amostra: 208
+TempoDecorrido: 82.751708984375ms
+TempoTotal: 29943.853271484375ms
+
+Amostra: 209
+TempoDecorrido: 91.088134765625ms
+TempoTotal: 30085.381103515625ms
+
+Amostra: 210
+TempoDecorrido: 91.11767578125ms
+TempoTotal: 30226.873046875ms
+
+Amostra: 211
+TempoDecorrido: 99.8955078125ms
+TempoTotal: 30377.1396484375ms
+
+Amostra: 212
+TempoDecorrido: 101.615234375ms
+TempoTotal: 30529.2255859375ms
+
+Amostra: 213
+TempoDecorrido: 96.74365234375ms
+TempoTotal: 30676.323486328125ms
+
+Amostra: 214
+TempoDecorrido: 99.558349609375ms
+TempoTotal: 30826.258056640625ms
+
+Amostra: 215
+TempoDecorrido: 101.372802734375ms
+TempoTotal: 30977.98876953125ms
+
+Amostra: 216
+TempoDecorrido: 102.96630859375ms
+TempoTotal: 31131.354248046875ms
+
+Amostra: 217
+TempoDecorrido: 96.323486328125ms
+TempoTotal: 31278.087646484375ms
+
+Amostra: 218
+TempoDecorrido: 80.887939453125ms
+TempoTotal: 31409.4921875ms
+
+Amostra: 219
+TempoDecorrido: 85.171630859375ms
+TempoTotal: 31545.08203125ms
+
+Amostra: 220
+TempoDecorrido: 80.50732421875ms
+TempoTotal: 31676.03564453125ms
+
+Amostra: 221
+TempoDecorrido: 82.285400390625ms
+TempoTotal: 31808.737548828125ms
+
+Amostra: 222
+TempoDecorrido: 94.590087890625ms
+TempoTotal: 31953.715087890625ms
+
+Amostra: 223
+TempoDecorrido: 98.6240234375ms
+TempoTotal: 32102.755615234375ms
+
+Amostra: 224
+TempoDecorrido: 88.316162109375ms
+TempoTotal: 32241.46826171875ms
+
+Amostra: 225
+TempoDecorrido: 87.663818359375ms
+TempoTotal: 32379.53515625ms
+
+Amostra: 226
+TempoDecorrido: 94.518798828125ms
+TempoTotal: 32524.42431640625ms
+
+Amostra: 227
+TempoDecorrido: 100.822998046875ms
+TempoTotal: 32675.644775390625ms
+
+Amostra: 228
+TempoDecorrido: 98.06005859375ms
+TempoTotal: 32824.07275390625ms
+
+Amostra: 229
+TempoDecorrido: 103.215087890625ms
+TempoTotal: 32977.65380859375ms
+
+Amostra: 230
+TempoDecorrido: 98.15234375ms
+TempoTotal: 33126.221923828125ms
+
+Amostra: 231
+TempoDecorrido: 92.34912109375ms
+TempoTotal: 33269.0029296875ms
+
+Amostra: 232
+TempoDecorrido: 91.05029296875ms
+TempoTotal: 33410.501220703125ms
+
+Amostra: 233
+TempoDecorrido: 90.510498046875ms
+TempoTotal: 33551.43310546875ms
+
+Amostra: 234
+TempoDecorrido: 79.736572265625ms
+TempoTotal: 33681.599365234375ms
+
+Amostra: 235
+TempoDecorrido: 96.051025390625ms
+TempoTotal: 33828.035400390625ms
+
+Amostra: 236
+TempoDecorrido: 89.76708984375ms
+TempoTotal: 33968.202880859375ms
+
+Amostra: 237
+TempoDecorrido: 93.228515625ms
+TempoTotal: 34111.826416015625ms
+
+Amostra: 238
+TempoDecorrido: 77.193115234375ms
+TempoTotal: 34239.45361328125ms
+
+Amostra: 239
+TempoDecorrido: 93.103271484375ms
+TempoTotal: 34382.946044921875ms
+
+Amostra: 240
+TempoDecorrido: 89.085205078125ms
+TempoTotal: 34522.41845703125ms
+
+Amostra: 241
+TempoDecorrido: 99.60888671875ms
+TempoTotal: 34672.36962890625ms
+
+Amostra: 242
+TempoDecorrido: 99.50341796875ms
+TempoTotal: 34822.1982421875ms
+
+Amostra: 243
+TempoDecorrido: 100.133056640625ms
+TempoTotal: 34972.669921875ms
+
+Amostra: 244
+TempoDecorrido: 101.391357421875ms
+TempoTotal: 35124.429931640625ms
+
+Amostra: 245
+TempoDecorrido: 93.51123046875ms
+TempoTotal: 35268.33447265625ms
+
+Amostra: 246
+TempoDecorrido: 107.756591796875ms
+TempoTotal: 35426.44189453125ms
+
+Amostra: 247
+TempoDecorrido: 106.06201171875ms
+TempoTotal: 35582.9873046875ms
+
+Amostra: 248
+TempoDecorrido: 88.394287109375ms
+TempoTotal: 35721.76318359375ms
+
+Amostra: 249
+TempoDecorrido: 83.194091796875ms
+TempoTotal: 35855.34814453125ms
+
+Amostra: 250
+TempoDecorrido: 85.08349609375ms
+TempoTotal: 35990.869873046875ms
+
+Amostra: 251
+TempoDecorrido: 89.515380859375ms
+TempoTotal: 36130.7880859375ms
+
+Amostra: 252
+TempoDecorrido: 92.44140625ms
+TempoTotal: 36273.6474609375ms
+
+Amostra: 253
+TempoDecorrido: 101.674560546875ms
+TempoTotal: 36425.809326171875ms
+
+Amostra: 254
+TempoDecorrido: 87.07470703125ms
+TempoTotal: 36563.282470703125ms
+
+Amostra: 255
+TempoDecorrido: 94.520751953125ms
+TempoTotal: 36708.242919921875ms
+
+Amostra: 256
+TempoDecorrido: 90.094482421875ms
+TempoTotal: 36848.794189453125ms
+
+Amostra: 257
+TempoDecorrido: 89.642578125ms
+TempoTotal: 36988.8505859375ms
+
+Amostra: 258
+TempoDecorrido: 89.73291015625ms
+TempoTotal: 37128.982177734375ms
+
+Amostra: 259
+TempoDecorrido: 91.772705078125ms
+TempoTotal: 37271.15771484375ms
+
+Amostra: 260
+TempoDecorrido: 103.80517578125ms
+TempoTotal: 37425.359619140625ms
+
+Amostra: 261
+TempoDecorrido: 99.47900390625ms
+TempoTotal: 37575.35400390625ms
+
+Amostra: 262
+TempoDecorrido: 79.422607421875ms
+TempoTotal: 37705.205810546875ms
+
+Amostra: 263
+TempoDecorrido: 81.42333984375ms
+TempoTotal: 37837.030029296875ms
+
+Amostra: 264
+TempoDecorrido: 82.818115234375ms
+TempoTotal: 37970.2431640625ms
+
+Amostra: 265
+TempoDecorrido: 103.41552734375ms
+TempoTotal: 38124.0576171875ms
+
+Amostra: 266
+TempoDecorrido: 96.413330078125ms
+TempoTotal: 38270.863037109375ms
+
+Amostra: 267
+TempoDecorrido: 101.470947265625ms
+TempoTotal: 38422.722412109375ms
+
+Amostra: 268
+TempoDecorrido: 97.88671875ms
+TempoTotal: 38571.00439453125ms
+
+Amostra: 269
+TempoDecorrido: 90.6904296875ms
+TempoTotal: 38712.09521484375ms
+
+Amostra: 270
+TempoDecorrido: 82.623779296875ms
+TempoTotal: 38845.1298828125ms
+
+Amostra: 271
+TempoDecorrido: 95.676513671875ms
+TempoTotal: 38991.194091796875ms
+
+Amostra: 272
+TempoDecorrido: 90.866455078125ms
+TempoTotal: 39132.49560546875ms
+
+Amostra: 273
+TempoDecorrido: 78.433837890625ms
+TempoTotal: 39261.400146484375ms
+
+Amostra: 274
+TempoDecorrido: 93.59423828125ms
+TempoTotal: 39405.390625ms
+
+Amostra: 275
+TempoDecorrido: 97.679443359375ms
+TempoTotal: 39553.45068359375ms
+
+Amostra: 276
+TempoDecorrido: 99.1904296875ms
+TempoTotal: 39703.034423828125ms
+
+Amostra: 277
+TempoDecorrido: 99.6279296875ms
+TempoTotal: 39853.03857421875ms
+
+Amostra: 278
+TempoDecorrido: 99.892578125ms
+TempoTotal: 40003.280029296875ms
+
+Amostra: 279
+TempoDecorrido: 110.3779296875ms
+TempoTotal: 40164.1162109375ms
+
+Amostra: 280
+TempoDecorrido: 114.198974609375ms
+TempoTotal: 40328.792236328125ms
+
+Amostra: 281
+TempoDecorrido: 107.110107421875ms
+TempoTotal: 40486.38818359375ms
+
+Amostra: 282
+TempoDecorrido: 103.4404296875ms
+TempoTotal: 40645.0537109375ms
+
+Amostra: 283
+TempoDecorrido: 109.764404296875ms
+TempoTotal: 40805.28515625ms
+
+Amostra: 284
+TempoDecorrido: 108.875ms
+TempoTotal: 40964.6689453125ms
+
+Amostra: 285
+TempoDecorrido: 106.039794921875ms
+TempoTotal: 41121.1826171875ms
+
+Amostra: 286
+TempoDecorrido: 109.228759765625ms
+TempoTotal: 41280.86328125ms
+
+Amostra: 287
+TempoDecorrido: 109.034912109375ms
+TempoTotal: 41440.36474609375ms
+
+Amostra: 288
+TempoDecorrido: 95.029296875ms
+TempoTotal: 41585.862060546875ms
+
+Amostra: 289
+TempoDecorrido: 82.712646484375ms
+TempoTotal: 41719.041748046875ms
+
+Amostra: 290
+TempoDecorrido: 75.296875ms
+TempoTotal: 41844.791259765625ms
+
+Amostra: 291
+TempoDecorrido: 76.629638671875ms
+TempoTotal: 41971.8310546875ms
+
+Amostra: 292
+TempoDecorrido: 96.87060546875ms
+TempoTotal: 42119.109130859375ms
+
+Amostra: 293
+TempoDecorrido: 98.982666015625ms
+TempoTotal: 42268.4580078125ms
+
+Amostra: 294
+TempoDecorrido: 112.014404296875ms
+TempoTotal: 42430.83154296875ms
+
+Amostra: 295
+TempoDecorrido: 104.30859375ms
+TempoTotal: 42585.51025390625ms
+
+Amostra: 296
+TempoDecorrido: 108.068359375ms
+TempoTotal: 42743.943603515625ms
+
+Amostra: 297
+TempoDecorrido: 111.9814453125ms
+TempoTotal: 42906.345703125ms
+
+Amostra: 298
+TempoDecorrido: 96.812744140625ms
+TempoTotal: 43053.55810546875ms
+
+Amostra: 299
+TempoDecorrido: 100.70849609375ms
+TempoTotal: 43204.695068359375ms
+
+Amostra: 300
+TempoDecorrido: 100.400146484375ms
+TempoTotal: 43355.545166015625ms
+
+Amostra: 301
+TempoDecorrido: 96.531494140625ms
+TempoTotal: 43502.52978515625ms
+
+Amostra: 302
+TempoDecorrido: 103.555419921875ms
+TempoTotal: 43656.54150390625ms
+
+Amostra: 303
+TempoDecorrido: 94.77880859375ms
+TempoTotal: 43801.7509765625ms
+
+Amostra: 304
+TempoDecorrido: 104.208984375ms
+TempoTotal: 43956.39697265625ms
+
+Amostra: 305
+TempoDecorrido: 86.5849609375ms
+TempoTotal: 44093.442138671875ms
+
+Amostra: 306
+TempoDecorrido: 82.97216796875ms
+TempoTotal: 44226.916748046875ms
+
+Amostra: 307
+TempoDecorrido: 95.506103515625ms
+TempoTotal: 44372.857666015625ms
+
+Amostra: 308
+TempoDecorrido: 89.758544921875ms
+TempoTotal: 44513.07177734375ms
+
+Amostra: 309
+TempoDecorrido: 91.077880859375ms
+TempoTotal: 44654.64697265625ms
+
+Amostra: 310
+TempoDecorrido: 79.02099609375ms
+TempoTotal: 44784.14404296875ms
+
+Amostra: 311
+TempoDecorrido: 95.33056640625ms
+TempoTotal: 44929.87548828125ms
+
+Amostra: 312
+TempoDecorrido: 87.09619140625ms
+TempoTotal: 45067.3740234375ms
+
+Amostra: 313
+TempoDecorrido: 104.9951171875ms
+TempoTotal: 45222.8349609375ms
+
+Amostra: 314
+TempoDecorrido: 97.935791015625ms
+TempoTotal: 45371.256103515625ms
+
+Amostra: 315
+TempoDecorrido: 101.008544921875ms
+TempoTotal: 45522.72412109375ms
+
+Amostra: 316
+TempoDecorrido: 95.043701171875ms
+TempoTotal: 45672.4765625ms
+
+Amostra: 317
+TempoDecorrido: 87.92138671875ms
+TempoTotal: 45810.85791015625ms
+
+Amostra: 318
+TempoDecorrido: 84.521728515625ms
+TempoTotal: 45945.8271484375ms
+
+Amostra: 319
+TempoDecorrido: 91.167724609375ms
+TempoTotal: 46087.406494140625ms
+
+Amostra: 320
+TempoDecorrido: 83.99365234375ms
+TempoTotal: 46221.80419921875ms
+
+Amostra: 321
+TempoDecorrido: 99.484375ms
+TempoTotal: 46371.655029296875ms
+
+Amostra: 322
+TempoDecorrido: 100.365478515625ms
+TempoTotal: 46522.45263671875ms
+
+Amostra: 323
+TempoDecorrido: 97.09765625ms
+TempoTotal: 46669.991455078125ms
+
+Amostra: 324
+TempoDecorrido: 102.36279296875ms
+TempoTotal: 46822.797607421875ms
+
+Amostra: 325
+TempoDecorrido: 97.256103515625ms
+TempoTotal: 46970.6298828125ms
+
+Amostra: 326
+TempoDecorrido: 101.11376953125ms
+TempoTotal: 47122.21875ms
+
+Amostra: 327
+TempoDecorrido: 99.483154296875ms
+TempoTotal: 47272.158935546875ms
+
+Amostra: 328
+TempoDecorrido: 99.5830078125ms
+TempoTotal: 47422.219482421875ms
+
+Amostra: 329
+TempoDecorrido: 98.310791015625ms
+TempoTotal: 47570.98388671875ms
+
+Amostra: 330
+TempoDecorrido: 100.594970703125ms
+TempoTotal: 47722.081787109375ms
+
+Amostra: 331
+TempoDecorrido: 98.900146484375ms
+TempoTotal: 47871.513427734375ms
+
+Amostra: 332
+TempoDecorrido: 86.7529296875ms
+TempoTotal: 48008.732421875ms
+
+Amostra: 333
+TempoDecorrido: 85.215087890625ms
+TempoTotal: 48144.4248046875ms
+
+Amostra: 334
+TempoDecorrido: 93.100341796875ms
+TempoTotal: 48288.020751953125ms
+
+Amostra: 335
+TempoDecorrido: 89.855224609375ms
+TempoTotal: 48428.364990234375ms
+
+Amostra: 336
+TempoDecorrido: 92.15625ms
+TempoTotal: 48570.999755859375ms
+
+Amostra: 337
+TempoDecorrido: 90.162353515625ms
+TempoTotal: 48711.6181640625ms
+
+Amostra: 338
+TempoDecorrido: 91.963134765625ms
+TempoTotal: 48854.07861328125ms
+
+Amostra: 339
+TempoDecorrido: 90.35400390625ms
+TempoTotal: 48994.879150390625ms
+
+Amostra: 340
+TempoDecorrido: 89.15234375ms
+TempoTotal: 49134.471435546875ms
+
+Amostra: 341
+TempoDecorrido: 90.876708984375ms
+TempoTotal: 49275.77880859375ms
+
+Amostra: 342
+TempoDecorrido: 92.83935546875ms
+TempoTotal: 49419.053466796875ms
+
+Amostra: 343
+TempoDecorrido: 102.064453125ms
+TempoTotal: 49571.5576171875ms
+
+Amostra: 344
+TempoDecorrido: 95.787353515625ms
+TempoTotal: 49717.794921875ms
+
+Amostra: 345
+TempoDecorrido: 94.486083984375ms
+TempoTotal: 49862.74658203125ms
+
+Amostra: 346
+TempoDecorrido: 86.93896484375ms
+TempoTotal: 50000.116455078125ms
+
+Amostra: 347
+TempoDecorrido: 82.567138671875ms
+TempoTotal: 50133.146484375ms
+
+Amostra: 348
+TempoDecorrido: 82.030517578125ms
+TempoTotal: 50265.6318359375ms
+
+Amostra: 349
+TempoDecorrido: 94.442138671875ms
+TempoTotal: 50410.6103515625ms
+
+Amostra: 350
+TempoDecorrido: 87.857177734375ms
+TempoTotal: 50548.891357421875ms
+
+Amostra: 351
+TempoDecorrido: 97.90478515625ms
+TempoTotal: 50702.056884765625ms
+
+Amostra: 352
+TempoDecorrido: 101.615234375ms
+TempoTotal: 50854.1318359375ms
+
+Amostra: 353
+TempoDecorrido: 99.59716796875ms
+TempoTotal: 51004.232666015625ms
+
+Amostra: 354
+TempoDecorrido: 77.962646484375ms
+TempoTotal: 51132.65283203125ms
+
+Amostra: 355
+TempoDecorrido: 84.967041015625ms
+TempoTotal: 51268.052490234375ms
+
+Amostra: 356
+TempoDecorrido: 90.496337890625ms
+TempoTotal: 51408.944580078125ms
+
+Amostra: 357
+TempoDecorrido: 102.1708984375ms
+TempoTotal: 51561.537109375ms
+
+Amostra: 358
+TempoDecorrido: 86.5380859375ms
+TempoTotal: 51698.467529296875ms
+
+Amostra: 359
+TempoDecorrido: 91.17529296875ms
+TempoTotal: 51840.05615234375ms
+
+Amostra: 360
+TempoDecorrido: 102.478515625ms
+TempoTotal: 51992.926513671875ms
+
+Amostra: 361
+TempoDecorrido: 97.68017578125ms
+TempoTotal: 52141.033203125ms
+
+Amostra: 362
+TempoDecorrido: 102.820068359375ms
+TempoTotal: 52294.270263671875ms
+
+Amostra: 363
+TempoDecorrido: 95.692626953125ms
+TempoTotal: 52440.417724609375ms
+
+Amostra: 364
+TempoDecorrido: 91.3671875ms
+TempoTotal: 52582.292236328125ms
+
+Amostra: 365
+TempoDecorrido: 94.38720703125ms
+TempoTotal: 52727.12744140625ms
+
+Amostra: 366
+TempoDecorrido: 88.203369140625ms
+TempoTotal: 52865.783935546875ms
+
+Amostra: 367
+TempoDecorrido: 82.147216796875ms
+TempoTotal: 52998.384765625ms
+
+Amostra: 368
+TempoDecorrido: 82.312744140625ms
+TempoTotal: 53131.159423828125ms
+
+Amostra: 369
+TempoDecorrido: 94.009033203125ms
+TempoTotal: 53275.570556640625ms
+
+Amostra: 370
+TempoDecorrido: 88.23876953125ms
+TempoTotal: 53414.2353515625ms
+
+Amostra: 371
+TempoDecorrido: 92.720703125ms
+TempoTotal: 53557.36669921875ms
+
+Amostra: 372
+TempoDecorrido: 103.2021484375ms
+TempoTotal: 53711.024658203125ms
+
+Amostra: 373
+TempoDecorrido: 86.321533203125ms
+TempoTotal: 53847.784423828125ms
+
+Amostra: 374
+TempoDecorrido: 83.16796875ms
+TempoTotal: 53981.394287109375ms
+
+Amostra: 375
+TempoDecorrido: 81.958984375ms
+TempoTotal: 54113.794677734375ms
+
+Amostra: 376
+TempoDecorrido: 96.242431640625ms
+TempoTotal: 54260.450927734375ms
+
+Amostra: 377
+TempoDecorrido: 86.045166015625ms
+TempoTotal: 54396.92822265625ms
+
+Amostra: 378
+TempoDecorrido: 87.011474609375ms
+TempoTotal: 54534.345703125ms
+
+Amostra: 379
+TempoDecorrido: 96.683349609375ms
+TempoTotal: 54681.428466796875ms
+
+Amostra: 380
+TempoDecorrido: 103.4443359375ms
+TempoTotal: 54835.28564453125ms
+
+Amostra: 381
+TempoDecorrido: 98.280517578125ms
+TempoTotal: 54984.01123046875ms
+
+Amostra: 382
+TempoDecorrido: 96.436279296875ms
+TempoTotal: 55130.90380859375ms
+
+Amostra: 383
+TempoDecorrido: 103.560546875ms
+TempoTotal: 55284.926513671875ms
+
+Amostra: 384
+TempoDecorrido: 94.987060546875ms
+TempoTotal: 55430.40869140625ms
+
+Amostra: 385
+TempoDecorrido: 103.946044921875ms
+TempoTotal: 55584.821044921875ms
+
+Amostra: 386
+TempoDecorrido: 102.14501953125ms
+TempoTotal: 55746.618408203125ms
+
+Amostra: 387
+TempoDecorrido: 99.531005859375ms
+TempoTotal: 55896.65234375ms
+
+Amostra: 388
+TempoDecorrido: 103.79736328125ms
+TempoTotal: 56050.946044921875ms
+
+Amostra: 389
+TempoDecorrido: 95.170166015625ms
+TempoTotal: 56196.574462890625ms
+
+Amostra: 390
+TempoDecorrido: 82.56982421875ms
+TempoTotal: 56329.60791015625ms
+
+Amostra: 391
+TempoDecorrido: 87.611083984375ms
+TempoTotal: 56467.7099609375ms
+
+Amostra: 392
+TempoDecorrido: 77.278564453125ms
+TempoTotal: 56595.485107421875ms
+
+Amostra: 393
+TempoDecorrido: 94.7939453125ms
+TempoTotal: 56740.7099609375ms
+
+Amostra: 394
+TempoDecorrido: 87.62060546875ms
+TempoTotal: 56878.734375ms
+
+Amostra: 395
+TempoDecorrido: 104.047607421875ms
+TempoTotal: 57033.166748046875ms
+
+Amostra: 396
+TempoDecorrido: 97.815185546875ms
+TempoTotal: 57181.38232421875ms
+
+Amostra: 397
+TempoDecorrido: 101.691650390625ms
+TempoTotal: 57333.505126953125ms
+
+Amostra: 398
+TempoDecorrido: 97.06103515625ms
+TempoTotal: 57481.01611328125ms
+
+Amostra: 399
+TempoDecorrido: 89.924560546875ms
+TempoTotal: 57621.388671875ms
+
+Amostra: 400
+TempoDecorrido: 92.962646484375ms
+TempoTotal: 57764.802734375ms
+
+Amostra: 401
+TempoDecorrido: 84.852294921875ms
+TempoTotal: 57900.0986328125ms
+
+Amostra: 402
+TempoDecorrido: 87.02880859375ms
+TempoTotal: 58037.577392578125ms
+
+Amostra: 403
+TempoDecorrido: 90.99462890625ms
+TempoTotal: 58179.03369140625ms
+
+Amostra: 404
+TempoDecorrido: 95.15966796875ms
+TempoTotal: 58324.647705078125ms
+
+Amostra: 405
+TempoDecorrido: 86.269287109375ms
+TempoTotal: 58461.377197265625ms
+
+Amostra: 406
+TempoDecorrido: 82.829833984375ms
+TempoTotal: 58594.637451171875ms
+
+Amostra: 407
+TempoDecorrido: 83.212890625ms
+TempoTotal: 58728.309814453125ms
+
+Amostra: 408
+TempoDecorrido: 94.19482421875ms
+TempoTotal: 58872.91796875ms
+
+Amostra: 409
+TempoDecorrido: 86.958984375ms
+TempoTotal: 59010.294677734375ms
+
+Amostra: 410
+TempoDecorrido: 91.586669921875ms
+TempoTotal: 59152.3056640625ms
+
+Amostra: 411
+TempoDecorrido: 91.286376953125ms
+TempoTotal: 59293.999755859375ms
+
+Amostra: 412
+TempoDecorrido: 90.79443359375ms
+TempoTotal: 59435.21240234375ms
+
+Amostra: 413
+TempoDecorrido: 91.358154296875ms
+TempoTotal: 59576.971435546875ms
+
+Amostra: 414
+TempoDecorrido: 87.06787109375ms
+TempoTotal: 59714.460205078125ms
+
+Amostra: 415
+TempoDecorrido: 96.263916015625ms
+TempoTotal: 59861.1328125ms
+
+Amostra: 416
+TempoDecorrido: 90.3828125ms
+TempoTotal: 60001.973388671875ms
+
+Amostra: 417
+TempoDecorrido: 91.3623046875ms
+TempoTotal: 60143.775146484375ms
+
+Amostra: 418
+TempoDecorrido: 91.469970703125ms
+TempoTotal: 60285.697265625ms
+
+Amostra: 419
+TempoDecorrido: 90.745849609375ms
+TempoTotal: 60426.891357421875ms
+
+Amostra: 420
+TempoDecorrido: 87.138916015625ms
+TempoTotal: 60564.47412109375ms
+
+Amostra: 421
+TempoDecorrido: 99.566650390625ms
+TempoTotal: 60714.477294921875ms
+
+Amostra: 422
+TempoDecorrido: 97.1064453125ms
+TempoTotal: 60862.056884765625ms
+
+Amostra: 423
+TempoDecorrido: 90.780029296875ms
+TempoTotal: 61003.294189453125ms
+
+Amostra: 424
+TempoDecorrido: 93.86083984375ms
+TempoTotal: 61147.625732421875ms
+
+Amostra: 425
+TempoDecorrido: 88.329833984375ms
+TempoTotal: 61286.422119140625ms
+
+Amostra: 426
+TempoDecorrido: 93.725830078125ms
+TempoTotal: 61430.60693359375ms
+
+Amostra: 427
+TempoDecorrido: 89.634765625ms
+TempoTotal: 61570.708251953125ms
+
+Amostra: 428
+TempoDecorrido: 91.957763671875ms
+TempoTotal: 61713.096435546875ms
+
+Amostra: 429
+TempoDecorrido: 89.951416015625ms
+TempoTotal: 61853.511474609375ms
+
+Amostra: 430
+TempoDecorrido: 89.593505859375ms
+TempoTotal: 61993.53271484375ms
+
+Amostra: 431
+TempoDecorrido: 90.40087890625ms
+TempoTotal: 62134.406005859375ms
+
+Amostra: 432
+TempoDecorrido: 92.8916015625ms
+TempoTotal: 62277.75244140625ms
+
+Amostra: 433
+TempoDecorrido: 102.14306640625ms
+TempoTotal: 62430.330810546875ms
+
+Amostra: 434
+TempoDecorrido: 94.984375ms
+TempoTotal: 62575.77197265625ms
+
+Amostra: 435
+TempoDecorrido: 82.0751953125ms
+TempoTotal: 62708.302734375ms
+
+Amostra: 436
+TempoDecorrido: 82.21435546875ms
+TempoTotal: 62840.97412109375ms
+
+Amostra: 437
+TempoDecorrido: 94.09912109375ms
+TempoTotal: 62985.470703125ms
+
+Amostra: 438
+TempoDecorrido: 88.35205078125ms
+TempoTotal: 63124.21142578125ms
+
+Amostra: 439
+TempoDecorrido: 103.9755859375ms
+TempoTotal: 63278.66455078125ms
+
+Amostra: 440
+TempoDecorrido: 96.74462890625ms
+TempoTotal: 63425.8330078125ms
+
+Amostra: 441
+TempoDecorrido: 100.727783203125ms
+TempoTotal: 63577.034912109375ms
+
+Amostra: 442
+TempoDecorrido: 83.845458984375ms
+TempoTotal: 63711.375244140625ms
+
+Amostra: 443
+TempoDecorrido: 91.039794921875ms
+TempoTotal: 63852.879150390625ms
+
+Amostra: 444
+TempoDecorrido: 90.625244140625ms
+TempoTotal: 63993.99560546875ms
+
+Amostra: 445
+TempoDecorrido: 89.593505859375ms
+TempoTotal: 64134.08154296875ms
+
+Amostra: 446
+TempoDecorrido: 91.41748046875ms
+TempoTotal: 64275.998779296875ms
+
+Amostra: 447
+TempoDecorrido: 101.85400390625ms
+TempoTotal: 64428.33154296875ms
+
+Amostra: 448
+TempoDecorrido: 99.033203125ms
+TempoTotal: 64577.8193359375ms
+
+Amostra: 449
+TempoDecorrido: 96.0673828125ms
+TempoTotal: 64724.3369140625ms
+
+Amostra: 450
+TempoDecorrido: 103.225830078125ms
+TempoTotal: 64878.017578125ms
+
+Amostra: 451
+TempoDecorrido: 107.73974609375ms
+TempoTotal: 65036.20849609375ms
+
+Amostra: 452
+TempoDecorrido: 96.810791015625ms
+TempoTotal: 65183.4931640625ms
+
+Amostra: 453
+TempoDecorrido: 92.36474609375ms
+TempoTotal: 65326.304931640625ms
+
+Amostra: 454
+TempoDecorrido: 79.71728515625ms
+TempoTotal: 65456.50244140625ms
+
+Amostra: 455
+TempoDecorrido: 83.162109375ms
+TempoTotal: 65590.11157226562ms
+
+Amostra: 456
+TempoDecorrido: 103.075439453125ms
+TempoTotal: 65743.61303710938ms
+
+Amostra: 457
+TempoDecorrido: 105.788330078125ms
+TempoTotal: 65899.83666992188ms
+
+Amostra: 458
+TempoDecorrido: 88.290771484375ms
+TempoTotal: 66038.62768554688ms
+
+Amostra: 459
+TempoDecorrido: 91.89990234375ms
+TempoTotal: 66180.94384765625ms
+
+Amostra: 460
+TempoDecorrido: 90.41455078125ms
+TempoTotal: 66321.79052734375ms
+
+Amostra: 461
+TempoDecorrido: 92.725830078125ms
+TempoTotal: 66464.96826171875ms
+
+Amostra: 462
+TempoDecorrido: 102.98828125ms
+TempoTotal: 66618.38671875ms
+
+Amostra: 463
+TempoDecorrido: 99.606201171875ms
+TempoTotal: 66768.44677734375ms
+
+Amostra: 464
+TempoDecorrido: 86.252197265625ms
+TempoTotal: 66905.1650390625ms
+
+Amostra: 465
+TempoDecorrido: 82.887939453125ms
+TempoTotal: 67038.51513671875ms
+
+Amostra: 466
+TempoDecorrido: 85.111572265625ms
+TempoTotal: 67174.08178710938ms
+
+Amostra: 467
+TempoDecorrido: 80.005615234375ms
+TempoTotal: 67304.51342773438ms
+
+Amostra: 468
+TempoDecorrido: 90.933837890625ms
+TempoTotal: 67445.90405273438ms
+
+Amostra: 469
+TempoDecorrido: 103.298828125ms
+TempoTotal: 67599.60302734375ms
+
+Amostra: 470
+TempoDecorrido: 95.785400390625ms
+TempoTotal: 67745.80517578125ms
+
+Amostra: 471
+TempoDecorrido: 95.871337890625ms
+TempoTotal: 67892.07373046875ms
+
+Amostra: 472
+TempoDecorrido: 94.54931640625ms
+TempoTotal: 68037.05419921875ms
+
+Amostra: 473
+TempoDecorrido: 93.4326171875ms
+TempoTotal: 68180.91381835938ms
+
+Amostra: 474
+TempoDecorrido: 92.78271484375ms
+TempoTotal: 68324.11865234375ms
+
+Amostra: 475
+TempoDecorrido: 100.8125ms
+TempoTotal: 68475.38549804688ms
+
+Amostra: 476
+TempoDecorrido: 96.694580078125ms
+TempoTotal: 68622.51611328125ms
+
+Amostra: 477
+TempoDecorrido: 91.71826171875ms
+TempoTotal: 68764.71020507812ms
+
+Amostra: 478
+TempoDecorrido: 92.05810546875ms
+TempoTotal: 68907.2236328125ms
+
+Amostra: 479
+TempoDecorrido: 91.911865234375ms
+TempoTotal: 69049.5888671875ms
+
+Amostra: 480
+TempoDecorrido: 89.337158203125ms
+TempoTotal: 69189.38940429688ms
+
+Amostra: 481
+TempoDecorrido: 91.920166015625ms
+TempoTotal: 69331.76416015625ms
+
+Amostra: 482
+TempoDecorrido: 89.3408203125ms
+TempoTotal: 69471.56079101562ms
+
+Amostra: 483
+TempoDecorrido: 94.3740234375ms
+TempoTotal: 69616.37133789062ms
+
+Amostra: 484
+TempoDecorrido: 99.224609375ms
+TempoTotal: 69766.06201171875ms
+
+Amostra: 485
+TempoDecorrido: 88.72705078125ms
+TempoTotal: 69905.2548828125ms
+
+Amostra: 486
+TempoDecorrido: 79.960693359375ms
+TempoTotal: 70035.66723632812ms
+
+Amostra: 487
+TempoDecorrido: 93.73095703125ms
+TempoTotal: 70179.80200195312ms
+
+Amostra: 488
+TempoDecorrido: 88.448974609375ms
+TempoTotal: 70318.66552734375ms
+
+Amostra: 489
+TempoDecorrido: 91.321044921875ms
+TempoTotal: 70460.38354492188ms
+
+Amostra: 490
+TempoDecorrido: 91.1279296875ms
+TempoTotal: 70601.89428710938ms
+
+Amostra: 491
+TempoDecorrido: 102.58203125ms
+TempoTotal: 70754.91748046875ms
+
+Amostra: 492
+TempoDecorrido: 101.993896484375ms
+TempoTotal: 70907.39599609375ms
+
+Amostra: 493
+TempoDecorrido: 107.31494140625ms
+TempoTotal: 71065.23510742188ms
+
+Amostra: 494
+TempoDecorrido: 107.78515625ms
+TempoTotal: 71223.50512695312ms
+
+Amostra: 495
+TempoDecorrido: 94.67041015625ms
+TempoTotal: 71368.6650390625ms
+
+Amostra: 496
+TempoDecorrido: 82.5615234375ms
+TempoTotal: 71501.724609375ms
+
+Amostra: 497
+TempoDecorrido: 87.771728515625ms
+TempoTotal: 71639.919921875ms
+
+Amostra: 498
+TempoDecorrido: 77.352783203125ms
+TempoTotal: 71767.77124023438ms
+
+Amostra: 499
+TempoDecorrido: 92.463623046875ms
+TempoTotal: 71910.69116210938ms
+
+Amostra: 500
+TempoDecorrido: 89.570556640625ms
+TempoTotal: 72050.80224609375ms
+
+Amostra: 501
+TempoDecorrido: 104.227294921875ms
+TempoTotal: 72205.49658203125ms
+
+Amostra: 502
+TempoDecorrido: 86.40625ms
+TempoTotal: 72342.33740234375ms
+
+Amostra: 503
+TempoDecorrido: 91.421630859375ms
+TempoTotal: 72484.17504882812ms
+
+Amostra: 504
+TempoDecorrido: 86.816650390625ms
+TempoTotal: 72621.39526367188ms
+
+Amostra: 505
+TempoDecorrido: 100.4765625ms
+TempoTotal: 72772.30883789062ms
+
+Amostra: 506
+TempoDecorrido: 97.68115234375ms
+TempoTotal: 72920.4580078125ms
+
+Amostra: 507
+TempoDecorrido: 88.154541015625ms
+TempoTotal: 73059.06616210938ms
+
+Amostra: 508
+TempoDecorrido: 95.86962890625ms
+TempoTotal: 73205.3759765625ms
+
+Amostra: 509
+TempoDecorrido: 86.59326171875ms
+TempoTotal: 73342.41772460938ms
+
+Amostra: 510
+TempoDecorrido: 95.3330078125ms
+TempoTotal: 73488.21533203125ms
+
+Amostra: 511
+TempoDecorrido: 99.84716796875ms
+TempoTotal: 73638.5615234375ms
+
+Amostra: 512
+TempoDecorrido: 82.350341796875ms
+TempoTotal: 73771.52734375ms
+
+Amostra: 513
+TempoDecorrido: 88.337158203125ms
+TempoTotal: 73910.326171875ms
+
+Amostra: 514
+TempoDecorrido: 94.307861328125ms
+TempoTotal: 74055.076171875ms
+
+Amostra: 515
+TempoDecorrido: 86.7529296875ms
+TempoTotal: 74192.2900390625ms
+
+Amostra: 516
+TempoDecorrido: 92.843994140625ms
+TempoTotal: 74335.56884765625ms
+
+Amostra: 517
+TempoDecorrido: 101.5166015625ms
+TempoTotal: 74487.5166015625ms
+
+Amostra: 518
+TempoDecorrido: 97.06103515625ms
+TempoTotal: 74635.01171875ms
+
+Amostra: 519
+TempoDecorrido: 99.1337890625ms
+TempoTotal: 74784.59765625ms
+
+Amostra: 520
+TempoDecorrido: 97.60400390625ms
+TempoTotal: 74932.69580078125ms
+
+Amostra: 521
+TempoDecorrido: 100.31787109375ms
+TempoTotal: 75083.46337890625ms
+
+Amostra: 522
+TempoDecorrido: 90.0263671875ms
+TempoTotal: 75223.9541015625ms
+
+Amostra: 523
+TempoDecorrido: 95.723388671875ms
+TempoTotal: 75370.19555664062ms
+
+Amostra: 524
+TempoDecorrido: 87.314453125ms
+TempoTotal: 75507.96533203125ms
+
+Amostra: 525
+TempoDecorrido: 95.22314453125ms
+TempoTotal: 75653.62841796875ms
+
+Amostra: 526
+TempoDecorrido: 77.9423828125ms
+TempoTotal: 75782.0302734375ms
+
+Amostra: 527
+TempoDecorrido: 95.179931640625ms
+TempoTotal: 75927.68383789062ms
+
+Amostra: 528
+TempoDecorrido: 86.26513671875ms
+TempoTotal: 76064.37524414062ms
+
+Amostra: 529
+TempoDecorrido: 91.548583984375ms
+TempoTotal: 76206.33471679688ms
+
+Amostra: 530
+TempoDecorrido: 103.768798828125ms
+TempoTotal: 76360.49194335938ms
+
+Amostra: 531
+TempoDecorrido: 96.863525390625ms
+TempoTotal: 76507.76196289062ms
+
+Amostra: 532
+TempoDecorrido: 101.8955078125ms
+TempoTotal: 76660.09350585938ms
+
+Amostra: 533
+TempoDecorrido: 91.993896484375ms
+TempoTotal: 76802.52465820312ms
+
+Amostra: 534
+TempoDecorrido: 99.549072265625ms
+TempoTotal: 76952.51879882812ms
+
+Amostra: 535
+TempoDecorrido: 98.89453125ms
+TempoTotal: 77101.857421875ms
+
+Amostra: 536
+TempoDecorrido: 99.916748046875ms
+TempoTotal: 77252.23583984375ms
+
+Amostra: 537
+TempoDecorrido: 99.5732421875ms
+TempoTotal: 77402.25390625ms
+
+Amostra: 538
+TempoDecorrido: 99.089599609375ms
+TempoTotal: 77551.79565429688ms
+
+Amostra: 539
+TempoDecorrido: 99.6552734375ms
+TempoTotal: 77701.90966796875ms
+
+Amostra: 540
+TempoDecorrido: 99.507568359375ms
+TempoTotal: 77851.86450195312ms
+
+Amostra: 541
+TempoDecorrido: 99.158203125ms
+TempoTotal: 78001.4892578125ms
+
+Amostra: 542
+TempoDecorrido: 99.49755859375ms
+TempoTotal: 78151.42724609375ms
+
+Amostra: 543
+TempoDecorrido: 86.601806640625ms
+TempoTotal: 78288.48999023438ms
+
+Amostra: 544
+TempoDecorrido: 83.62744140625ms
+TempoTotal: 78422.58129882812ms
+
+Amostra: 545
+TempoDecorrido: 81.451904296875ms
+TempoTotal: 78554.48388671875ms
+
+Amostra: 546
+TempoDecorrido: 91.462158203125ms
+TempoTotal: 78696.36596679688ms
+
+Amostra: 547
+TempoDecorrido: 94.53076171875ms
+TempoTotal: 78841.37646484375ms
+
+Amostra: 548
+TempoDecorrido: 87.767333984375ms
+TempoTotal: 78979.60546875ms
+
+Amostra: 549
+TempoDecorrido: 83.017578125ms
+TempoTotal: 79113.10009765625ms
+
+Amostra: 550
+TempoDecorrido: 82.111328125ms
+TempoTotal: 79245.68823242188ms
+
+Amostra: 551
+TempoDecorrido: 93.803955078125ms
+TempoTotal: 79389.90893554688ms
+
+Amostra: 552
+TempoDecorrido: 91.52880859375ms
+TempoTotal: 79531.87133789062ms
+
+Amostra: 553
+TempoDecorrido: 87.966796875ms
+TempoTotal: 79670.318359375ms
+
+Amostra: 554
+TempoDecorrido: 91.267578125ms
+TempoTotal: 79812.0625ms
+
+Amostra: 555
+TempoDecorrido: 91.6005859375ms
+TempoTotal: 79954.18310546875ms
+
+Amostra: 556
+TempoDecorrido: 90.39404296875ms
+TempoTotal: 80094.99438476562ms
+
+Amostra: 557
+TempoDecorrido: 91.605712890625ms
+TempoTotal: 80237.01171875ms
+
+Amostra: 558
+TempoDecorrido: 91.167724609375ms
+TempoTotal: 80378.58544921875ms
+
+Amostra: 559
+TempoDecorrido: 91.24072265625ms
+TempoTotal: 80520.22094726562ms
+
+Amostra: 560
+TempoDecorrido: 90.818115234375ms
+TempoTotal: 80661.4482421875ms
+
+Amostra: 561
+TempoDecorrido: 91.4931640625ms
+TempoTotal: 80803.36254882812ms
+
+Amostra: 562
+TempoDecorrido: 90.736083984375ms
+TempoTotal: 80944.49853515625ms
+
+Amostra: 563
+TempoDecorrido: 87.5986328125ms
+TempoTotal: 81082.54248046875ms
+
+Amostra: 564
+TempoDecorrido: 100.056396484375ms
+TempoTotal: 81233.03271484375ms
+
+Amostra: 565
+TempoDecorrido: 116.21435546875ms
+TempoTotal: 81399.71801757812ms
+
+Amostra: 566
+TempoDecorrido: 85.783935546875ms
+TempoTotal: 81536.14331054688ms
+
+Amostra: 567
+TempoDecorrido: 83.12744140625ms
+TempoTotal: 81669.74609375ms
+
+Amostra: 568
+TempoDecorrido: 84.09130859375ms
+TempoTotal: 81804.27905273438ms
+
+Amostra: 569
+TempoDecorrido: 94.609130859375ms
+TempoTotal: 81949.33862304688ms
+
+Amostra: 570
+TempoDecorrido: 88.8759765625ms
+TempoTotal: 82088.67504882812ms
+
+Amostra: 571
+TempoDecorrido: 90.90625ms
+TempoTotal: 82230.02758789062ms
+
+Amostra: 572
+TempoDecorrido: 84.37060546875ms
+TempoTotal: 82364.89111328125ms
+
+Amostra: 573
+TempoDecorrido: 99.34130859375ms
+TempoTotal: 82514.65087890625ms
+
+Amostra: 574
+TempoDecorrido: 99.017578125ms
+TempoTotal: 82664.10620117188ms
+
+Amostra: 575
+TempoDecorrido: 97.632080078125ms
+TempoTotal: 82812.19458007812ms
+
+Amostra: 576
+TempoDecorrido: 102.638427734375ms
+TempoTotal: 82965.28833007812ms
+
+Amostra: 577
+TempoDecorrido: 95.421630859375ms
+TempoTotal: 83111.17700195312ms
+
+Amostra: 578
+TempoDecorrido: 94.893798828125ms
+TempoTotal: 83256.51831054688ms
+
+Amostra: 579
+TempoDecorrido: 87.2978515625ms
+TempoTotal: 83394.28125ms
+
+Amostra: 580
+TempoDecorrido: 82.1123046875ms
+TempoTotal: 83526.833984375ms
+
+Amostra: 581
+TempoDecorrido: 82.805908203125ms
+TempoTotal: 83660.0830078125ms
+
+Amostra: 582
+TempoDecorrido: 82.1181640625ms
+TempoTotal: 83792.6181640625ms
+
+Amostra: 583
+TempoDecorrido: 94.447265625ms
+TempoTotal: 83937.45068359375ms
+
+Amostra: 584
+TempoDecorrido: 88.008056640625ms
+TempoTotal: 84075.88623046875ms
+
+Amostra: 585
+TempoDecorrido: 91.184814453125ms
+TempoTotal: 84217.45947265625ms
+
+Amostra: 586
+TempoDecorrido: 95.484375ms
+TempoTotal: 84363.34643554688ms
+
+Amostra: 587
+TempoDecorrido: 103.51318359375ms
+TempoTotal: 84517.24438476562ms
+
+Amostra: 588
+TempoDecorrido: 113.195556640625ms
+TempoTotal: 84680.833984375ms
+
+Amostra: 589
+TempoDecorrido: 107.7646484375ms
+TempoTotal: 84839.0263671875ms
+
+Amostra: 590
+TempoDecorrido: 106.449462890625ms
+TempoTotal: 84995.9365234375ms
+
+Amostra: 591
+TempoDecorrido: 107.0361328125ms
+TempoTotal: 85153.4208984375ms
+
+Amostra: 592
+TempoDecorrido: 105.23876953125ms
+TempoTotal: 85308.97436523438ms
+
+Amostra: 593
+TempoDecorrido: 110.91259765625ms
+TempoTotal: 85470.35864257812ms
+
+Amostra: 594
+TempoDecorrido: 104.719482421875ms
+TempoTotal: 85625.39208984375ms
+
+Amostra: 595
+TempoDecorrido: 109.107421875ms
+TempoTotal: 85784.95556640625ms
+
+Amostra: 596
+TempoDecorrido: 106.394775390625ms
+TempoTotal: 85941.66967773438ms
+
+Amostra: 597
+TempoDecorrido: 120.544921875ms
+TempoTotal: 86112.6572265625ms
+
+Amostra: 598
+TempoDecorrido: 114.6865234375ms
+TempoTotal: 86277.71142578125ms
+
+Amostra: 599
+TempoDecorrido: 96.111083984375ms
+TempoTotal: 86424.19775390625ms
+
+Amostra: 600
+TempoDecorrido: 104.9638671875ms
+TempoTotal: 86579.63940429688ms
+
+Amostra: 601
+TempoDecorrido: 99.3095703125ms
+TempoTotal: 86729.41870117188ms
+
+Amostra: 602
+TempoDecorrido: 88.591796875ms
+TempoTotal: 86868.51318359375ms
+
+Amostra: 603
+TempoDecorrido: 75.41796875ms
+TempoTotal: 86994.41381835938ms
+
+Amostra: 604
+TempoDecorrido: 79.109375ms
+TempoTotal: 87123.98022460938ms
+
+Amostra: 605
+TempoDecorrido: 101.642578125ms
+TempoTotal: 87275.97607421875ms
+
+Amostra: 606
+TempoDecorrido: 108.10693359375ms
+TempoTotal: 87434.42041015625ms
+
+Amostra: 607
+TempoDecorrido: 107.09619140625ms
+TempoTotal: 87591.88354492188ms
+
+Amostra: 608
+TempoDecorrido: 109.014404296875ms
+TempoTotal: 87751.39770507812ms
+
+Amostra: 609
+TempoDecorrido: 108.107177734375ms
+TempoTotal: 87909.86791992188ms
+
+Amostra: 610
+TempoDecorrido: 104.66650390625ms
+TempoTotal: 88064.8837890625ms
+
+Amostra: 611
+TempoDecorrido: 117.07421875ms
+TempoTotal: 88232.30078125ms
+
+Amostra: 612
+TempoDecorrido: 115.428955078125ms
+TempoTotal: 88398.10913085938ms
+
+Amostra: 613
+TempoDecorrido: 116.025146484375ms
+TempoTotal: 88564.49243164062ms
+
+Amostra: 614
+TempoDecorrido: 116.167236328125ms
+TempoTotal: 88731.02465820312ms
+
+Amostra: 615
+TempoDecorrido: 129.1435546875ms
+TempoTotal: 88910.5263671875ms
+
+Amostra: 616
+TempoDecorrido: 111.5400390625ms
+TempoTotal: 89072.35229492188ms
+
+Amostra: 617
+TempoDecorrido: 116.924072265625ms
+TempoTotal: 89239.6025390625ms
+
+Amostra: 618
+TempoDecorrido: 95.08984375ms
+TempoTotal: 89385.1806640625ms
+
+Amostra: 619
+TempoDecorrido: 98.3779296875ms
+TempoTotal: 89533.95776367188ms
+
+Amostra: 620
+TempoDecorrido: 97.11767578125ms
+TempoTotal: 89681.529296875ms
+
+Amostra: 621
+TempoDecorrido: 103.12548828125ms
+TempoTotal: 89835.107421875ms
+
+Amostra: 622
+TempoDecorrido: 108.456298828125ms
+TempoTotal: 89994.00512695312ms
+
+Amostra: 623
+TempoDecorrido: 95.594970703125ms
+TempoTotal: 90140.05834960938ms
+
+Amostra: 624
+TempoDecorrido: 94.7080078125ms
+TempoTotal: 90285.26391601562ms
+
+Amostra: 625
+TempoDecorrido: 89.398681640625ms
+TempoTotal: 90425.12158203125ms
+
+Amostra: 626
+TempoDecorrido: 82.214599609375ms
+TempoTotal: 90557.7998046875ms
+
+Amostra: 627
+TempoDecorrido: 80.03369140625ms
+TempoTotal: 90688.3046875ms
+
+Amostra: 628
+TempoDecorrido: 92.326904296875ms
+TempoTotal: 90831.02124023438ms
+
+Amostra: 629
+TempoDecorrido: 90.03515625ms
+TempoTotal: 90971.45947265625ms
+
+Amostra: 630
+TempoDecorrido: 103.395751953125ms
+TempoTotal: 91125.32495117188ms
+
+Amostra: 631
+TempoDecorrido: 98.741455078125ms
+TempoTotal: 91274.55908203125ms
+
+Amostra: 632
+TempoDecorrido: 101.543701171875ms
+TempoTotal: 91426.57055664062ms
+
+Amostra: 633
+TempoDecorrido: 97.092529296875ms
+TempoTotal: 91574.12866210938ms
+
+Amostra: 634
+TempoDecorrido: 89.348388671875ms
+TempoTotal: 91713.93530273438ms
+
+Amostra: 635
+TempoDecorrido: 95.372802734375ms
+TempoTotal: 91859.771484375ms
+
+Amostra: 636
+TempoDecorrido: 78.42919921875ms
+TempoTotal: 91988.6513671875ms
+
+Amostra: 637
+TempoDecorrido: 81.782958984375ms
+TempoTotal: 92120.888671875ms
+
+Amostra: 638
+TempoDecorrido: 104.328369140625ms
+TempoTotal: 92275.61352539062ms
+
+Amostra: 639
+TempoDecorrido: 97.6005859375ms
+TempoTotal: 92423.63745117188ms
+
+Amostra: 640
+TempoDecorrido: 101.79248046875ms
+TempoTotal: 92575.85083007812ms
+
+Amostra: 641
+TempoDecorrido: 82.139404296875ms
+TempoTotal: 92708.44165039062ms
+
+Amostra: 642
+TempoDecorrido: 86.634765625ms
+TempoTotal: 92845.49731445312ms
+
+Amostra: 643
+TempoDecorrido: 87.216796875ms
+TempoTotal: 92983.13916015625ms
+
+Amostra: 644
+TempoDecorrido: 96.1982421875ms
+TempoTotal: 93129.73364257812ms
+
+Amostra: 645
+TempoDecorrido: 103.88525390625ms
+TempoTotal: 93284.01635742188ms
+
+Amostra: 646
+TempoDecorrido: 96.254638671875ms
+TempoTotal: 93430.7119140625ms
+
+Amostra: 647
+TempoDecorrido: 91.36181640625ms
+TempoTotal: 93572.517578125ms
+
+Amostra: 648
+TempoDecorrido: 94.293212890625ms
+TempoTotal: 93717.26293945312ms
+
+Amostra: 649
+TempoDecorrido: 88.33251953125ms
+TempoTotal: 93856.04370117188ms
+
+Amostra: 650
+TempoDecorrido: 80.83203125ms
+TempoTotal: 93987.33764648438ms
+
+Amostra: 651
+TempoDecorrido: 82.01953125ms
+TempoTotal: 94119.80126953125ms
+
+Amostra: 652
+TempoDecorrido: 104.243896484375ms
+TempoTotal: 94274.4443359375ms
+
+Amostra: 653
+TempoDecorrido: 98.575439453125ms
+TempoTotal: 94423.47631835938ms
+
+Amostra: 654
+TempoDecorrido: 99.708740234375ms
+TempoTotal: 94573.6337890625ms
+
+Amostra: 655
+TempoDecorrido: 98.37158203125ms
+TempoTotal: 94722.47338867188ms
+
+Amostra: 656
+TempoDecorrido: 89.170654296875ms
+TempoTotal: 94862.09692382812ms
+
+Amostra: 657
+TempoDecorrido: 93.155517578125ms
+TempoTotal: 95005.71142578125ms
+
+Amostra: 658
+TempoDecorrido: 90.8330078125ms
+TempoTotal: 95147.04809570312ms
+
+Amostra: 659
+TempoDecorrido: 90.92529296875ms
+TempoTotal: 95288.47192382812ms
+
+Amostra: 660
+TempoDecorrido: 91.33349609375ms
+TempoTotal: 95430.27001953125ms
+
+Amostra: 661
+TempoDecorrido: 90.780029296875ms
+TempoTotal: 95571.52221679688ms
+
+Amostra: 662
+TempoDecorrido: 91.602294921875ms
+TempoTotal: 95713.57788085938ms
+
+Amostra: 663
+TempoDecorrido: 89.979248046875ms
+TempoTotal: 95854.00219726562ms
+
+Amostra: 664
+TempoDecorrido: 93.54443359375ms
+TempoTotal: 95998.00146484375ms
+
+Amostra: 665
+TempoDecorrido: 87.398681640625ms
+TempoTotal: 96135.86474609375ms
+
+Amostra: 666
+TempoDecorrido: 95.443115234375ms
+TempoTotal: 96281.859375ms
+
+Amostra: 667
+TempoDecorrido: 86.416015625ms
+TempoTotal: 96418.77026367188ms
+
+Amostra: 668
+TempoDecorrido: 94.364013671875ms
+TempoTotal: 96563.55419921875ms
+
+Amostra: 669
+TempoDecorrido: 90.53759765625ms
+TempoTotal: 96704.56127929688ms
+
+Amostra: 670
+TempoDecorrido: 79.400634765625ms
+TempoTotal: 96834.42602539062ms
+
+Amostra: 671
+TempoDecorrido: 94.00830078125ms
+TempoTotal: 96978.86499023438ms
+
+Amostra: 672
+TempoDecorrido: 101.451904296875ms
+TempoTotal: 97130.91772460938ms
+
+Amostra: 673
+TempoDecorrido: 99.736083984375ms
+TempoTotal: 97281.0859375ms
+
+Amostra: 674
+TempoDecorrido: 95.599365234375ms
+TempoTotal: 97427.13940429688ms
+
+Amostra: 675
+TempoDecorrido: 101.51904296875ms
+TempoTotal: 97579.11547851562ms
+
+Amostra: 676
+TempoDecorrido: 97.989501953125ms
+TempoTotal: 97727.62255859375ms
+
+Amostra: 677
+TempoDecorrido: 100.30029296875ms
+TempoTotal: 97878.38134765625ms
+
+Amostra: 678
+TempoDecorrido: 98.31201171875ms
+TempoTotal: 98027.15112304688ms
+
+Amostra: 679
+TempoDecorrido: 101.3515625ms
+TempoTotal: 98178.98828125ms
+
+Amostra: 680
+TempoDecorrido: 108.997802734375ms
+TempoTotal: 98338.43237304688ms
+
+Amostra: 681
+TempoDecorrido: 95.27001953125ms
+TempoTotal: 98484.16333007812ms
+
+Amostra: 682
+TempoDecorrido: 82.179931640625ms
+TempoTotal: 98616.80517578125ms
+
+Amostra: 683
+TempoDecorrido: 87.3818359375ms
+TempoTotal: 98754.66943359375ms
+
+Amostra: 684
+TempoDecorrido: 77.613037109375ms
+TempoTotal: 98882.73803710938ms
+
+Amostra: 685
+TempoDecorrido: 92.99462890625ms
+TempoTotal: 99026.1376953125ms
+
+Amostra: 686
+TempoDecorrido: 89.294677734375ms
+TempoTotal: 99165.84741210938ms
+
+Amostra: 687
+TempoDecorrido: 104.163818359375ms
+TempoTotal: 99320.4287109375ms
+
+Amostra: 688
+TempoDecorrido: 98.146484375ms
+TempoTotal: 99468.97827148438ms
+
+Amostra: 689
+TempoDecorrido: 101.4267578125ms
+TempoTotal: 99620.84716796875ms
+
+Amostra: 690
+TempoDecorrido: 97.265625ms
+TempoTotal: 99768.57763671875ms
+
+Amostra: 691
+TempoDecorrido: 88.652099609375ms
+TempoTotal: 99907.67041015625ms
+
+Amostra: 692
+TempoDecorrido: 82.468994140625ms
+TempoTotal: 100040.60424804688ms
+
+Amostra: 693
+TempoDecorrido: 83.930419921875ms
+TempoTotal: 100174.97412109375ms
+
+Amostra: 694
+TempoDecorrido: 81.098388671875ms
+TempoTotal: 100306.5205078125ms
+
+Amostra: 695
+TempoDecorrido: 94.029052734375ms
+TempoTotal: 100450.95947265625ms
+
+Amostra: 696
+TempoDecorrido: 90.74658203125ms
+TempoTotal: 100592.125ms
+
+Amostra: 697
+TempoDecorrido: 88.52001953125ms
+TempoTotal: 100731.09887695312ms
+
+Amostra: 698
+TempoDecorrido: 91.26708984375ms
+TempoTotal: 100872.7646484375ms
+
+Amostra: 699
+TempoDecorrido: 91.2001953125ms
+TempoTotal: 101014.38745117188ms
+
+Amostra: 700
+TempoDecorrido: 104.53759765625ms
+TempoTotal: 101169.35571289062ms
+
+Amostra: 701
+TempoDecorrido: 107.47314453125ms
+TempoTotal: 101327.30834960938ms
+
+Amostra: 702
+TempoDecorrido: 105.98583984375ms
+TempoTotal: 101483.77319335938ms
+
+Amostra: 703
+TempoDecorrido: 109.46533203125ms
+TempoTotal: 101643.68725585938ms
+
+Amostra: 704
+TempoDecorrido: 103.11962890625ms
+TempoTotal: 101797.28955078125ms
+
+Amostra: 705
+TempoDecorrido: 91.821044921875ms
+TempoTotal: 101939.56884765625ms
+
+Amostra: 706
+TempoDecorrido: 94.622314453125ms
+TempoTotal: 102084.6572265625ms
+
+Amostra: 707
+TempoDecorrido: 83.3291015625ms
+TempoTotal: 102218.46948242188ms
+
+Amostra: 708
+TempoDecorrido: 87.2705078125ms
+TempoTotal: 102356.24047851562ms
+
+Amostra: 709
+TempoDecorrido: 94.75634765625ms
+TempoTotal: 102501.45629882812ms
+
+Amostra: 710
+TempoDecorrido: 88.571044921875ms
+TempoTotal: 102640.4873046875ms
+
+Amostra: 711
+TempoDecorrido: 88.20703125ms
+TempoTotal: 102779.10400390625ms
+
+Amostra: 712
+TempoDecorrido: 90.797607421875ms
+TempoTotal: 102920.380859375ms
+
+Amostra: 713
+TempoDecorrido: 91.25341796875ms
+TempoTotal: 103062.10327148438ms
+
+Amostra: 714
+TempoDecorrido: 101.973876953125ms
+TempoTotal: 103214.53540039062ms
+
+Amostra: 715
+TempoDecorrido: 97.93359375ms
+TempoTotal: 103362.89404296875ms
+
+Amostra: 716
+TempoDecorrido: 103.330810546875ms
+TempoTotal: 103516.68676757812ms
+
+Amostra: 717
+TempoDecorrido: 95.14111328125ms
+TempoTotal: 103662.2822265625ms
+
+Amostra: 718
+TempoDecorrido: 103.97314453125ms
+TempoTotal: 103816.70947265625ms
+
+Amostra: 719
+TempoDecorrido: 94.888916015625ms
+TempoTotal: 103962.05981445312ms
+
+Amostra: 720
+TempoDecorrido: 103.8935546875ms
+TempoTotal: 104116.45703125ms
+
+Amostra: 721
+TempoDecorrido: 94.68994140625ms
+TempoTotal: 104261.6044921875ms
+
+Amostra: 722
+TempoDecorrido: 103.87353515625ms
+TempoTotal: 104415.93090820312ms
+
+Amostra: 723
+TempoDecorrido: 86.571533203125ms
+TempoTotal: 104552.96215820312ms
+
+Amostra: 724
+TempoDecorrido: 95.595947265625ms
+TempoTotal: 104699.00463867188ms
+
+Amostra: 725
+TempoDecorrido: 95.063232421875ms
+TempoTotal: 104844.55615234375ms
+
+Amostra: 726
+TempoDecorrido: 84.533935546875ms
+TempoTotal: 104979.607421875ms
+
+Amostra: 727
+TempoDecorrido: 89.380859375ms
+TempoTotal: 105119.43896484375ms
+
+Amostra: 728
+TempoDecorrido: 93.32666015625ms
+TempoTotal: 105263.21801757812ms
+
+Amostra: 729
+TempoDecorrido: 87.86376953125ms
+TempoTotal: 105401.51635742188ms
+
+Amostra: 730
+TempoDecorrido: 90.781982421875ms
+TempoTotal: 105542.71435546875ms
+
+Amostra: 731
+TempoDecorrido: 92.07568359375ms
+TempoTotal: 105685.21142578125ms
+
+Amostra: 732
+TempoDecorrido: 90.19091796875ms
+TempoTotal: 105825.82666015625ms
+
+Amostra: 733
+TempoDecorrido: 91.850830078125ms
+TempoTotal: 105968.111328125ms
+
+Amostra: 734
+TempoDecorrido: 90.47900390625ms
+TempoTotal: 106109.00048828125ms
+
+Amostra: 735
+TempoDecorrido: 92.680419921875ms
+TempoTotal: 106252.08178710938ms
+
+Amostra: 736
+TempoDecorrido: 92.92431640625ms
+TempoTotal: 106395.45947265625ms
+
+Amostra: 737
+TempoDecorrido: 101.101806640625ms
+TempoTotal: 106547.00439453125ms
+
+Amostra: 738
+TempoDecorrido: 95.841796875ms
+TempoTotal: 106693.298828125ms
+
+Amostra: 739
+TempoDecorrido: 100.7900390625ms
+TempoTotal: 106844.53588867188ms
+
+Amostra: 740
+TempoDecorrido: 99.09228515625ms
+TempoTotal: 106994.07397460938ms
+
+Amostra: 741
+TempoDecorrido: 98.674560546875ms
+TempoTotal: 107143.20971679688ms
+
+Amostra: 742
+TempoDecorrido: 100.712158203125ms
+TempoTotal: 107294.37670898438ms
+
+Amostra: 743
+TempoDecorrido: 90.146728515625ms
+TempoTotal: 107434.97607421875ms
+
+Amostra: 744
+TempoDecorrido: 93.80517578125ms
+TempoTotal: 107579.23095703125ms
+
+Amostra: 745
+TempoDecorrido: 91.408447265625ms
+TempoTotal: 107721.12963867188ms
+
+Amostra: 746
+TempoDecorrido: 88.520751953125ms
+TempoTotal: 107860.11499023438ms
+
+Amostra: 747
+TempoDecorrido: 79.790771484375ms
+TempoTotal: 107990.33325195312ms
+
+Amostra: 748
+TempoDecorrido: 93.650146484375ms
+TempoTotal: 108134.419921875ms
+
+Amostra: 749
+TempoDecorrido: 91.27685546875ms
+TempoTotal: 108276.1650390625ms
+
+Amostra: 750
+TempoDecorrido: 88.5966796875ms
+TempoTotal: 108415.19677734375ms
+
+Amostra: 751
+TempoDecorrido: 90.66357421875ms
+TempoTotal: 108556.25415039062ms
+
+Amostra: 752
+TempoDecorrido: 92.552734375ms
+TempoTotal: 108699.21728515625ms
+
+Amostra: 753
+TempoDecorrido: 103.330322265625ms
+TempoTotal: 108853.03247070312ms
+
+Amostra: 754
+TempoDecorrido: 99.2861328125ms
+TempoTotal: 109002.78881835938ms
+
+Amostra: 755
+TempoDecorrido: 99.431884765625ms
+TempoTotal: 109152.68286132812ms
+
+Amostra: 756
+TempoDecorrido: 99.637451171875ms
+TempoTotal: 109302.77954101562ms
+
+Amostra: 757
+TempoDecorrido: 99.396240234375ms
+TempoTotal: 109452.63720703125ms
+
+Amostra: 758
+TempoDecorrido: 99.253173828125ms
+TempoTotal: 109602.35546875ms
+
+Amostra: 759
+TempoDecorrido: 99.327880859375ms
+TempoTotal: 109752.14794921875ms
+
+Amostra: 760
+TempoDecorrido: 99.591796875ms
+TempoTotal: 109902.18090820312ms
+
+Amostra: 761
+TempoDecorrido: 99.435302734375ms
+TempoTotal: 110052.07397460938ms
+
+Amostra: 762
+TempoDecorrido: 99.483154296875ms
+TempoTotal: 110202.0478515625ms
+
+Amostra: 763
+TempoDecorrido: 102.79833984375ms
+TempoTotal: 110355.30932617188ms
+
+Amostra: 764
+TempoDecorrido: 82.89892578125ms
+TempoTotal: 110488.73608398438ms
+
+Amostra: 765
+TempoDecorrido: 85.31787109375ms
+TempoTotal: 110624.50244140625ms
+
+Amostra: 766
+TempoDecorrido: 91.484619140625ms
+TempoTotal: 110766.4423828125ms
+
+Amostra: 767
+TempoDecorrido: 101.0361328125ms
+TempoTotal: 110918.02685546875ms
+
+Amostra: 768
+TempoDecorrido: 97.39599609375ms
+TempoTotal: 111065.86328125ms
+
+Amostra: 769
+TempoDecorrido: 99.80322265625ms
+TempoTotal: 111216.12353515625ms
+
+Amostra: 770
+TempoDecorrido: 88.100830078125ms
+TempoTotal: 111354.7138671875ms
+
+Amostra: 771
+TempoDecorrido: 82.59765625ms
+TempoTotal: 111487.76782226562ms
+
+Amostra: 772
+TempoDecorrido: 95.13330078125ms
+TempoTotal: 111633.33178710938ms
+
+Amostra: 773
+TempoDecorrido: 87.02392578125ms
+TempoTotal: 111770.78979492188ms
+
+Amostra: 774
+TempoDecorrido: 94.555908203125ms
+TempoTotal: 111915.78125ms
+
+Amostra: 775
+TempoDecorrido: 87.973876953125ms
+TempoTotal: 112054.21630859375ms
+
+Amostra: 776
+TempoDecorrido: 83.516357421875ms
+TempoTotal: 112188.13940429688ms
+
+Amostra: 777
+TempoDecorrido: 102.85498046875ms
+TempoTotal: 112341.41967773438ms
+
+Amostra: 778
+TempoDecorrido: 98.753662109375ms
+TempoTotal: 112490.58154296875ms
+
+Amostra: 779
+TempoDecorrido: 99.009521484375ms
+TempoTotal: 112640.09350585938ms
+
+Amostra: 780
+TempoDecorrido: 98.722900390625ms
+TempoTotal: 112789.27465820312ms
+
+Amostra: 781
+TempoDecorrido: 99.922119140625ms
+TempoTotal: 112939.64477539062ms
+
+Amostra: 782
+TempoDecorrido: 90.843505859375ms
+TempoTotal: 113080.96997070312ms
+
+Amostra: 783
+TempoDecorrido: 84.093017578125ms
+TempoTotal: 113215.53002929688ms
+
+Amostra: 784
+TempoDecorrido: 92.0869140625ms
+TempoTotal: 113358.06396484375ms
+
+Amostra: 785
+TempoDecorrido: 86.7734375ms
+TempoTotal: 113495.28295898438ms
+
+Amostra: 786
+TempoDecorrido: 91.742919921875ms
+TempoTotal: 113637.45483398438ms
+
+Amostra: 787
+TempoDecorrido: 103.1943359375ms
+TempoTotal: 113791.09252929688ms
+
+Amostra: 788
+TempoDecorrido: 95.515625ms
+TempoTotal: 113937.05053710938ms
+
+Amostra: 789
+TempoDecorrido: 94.08642578125ms
+TempoTotal: 114081.5888671875ms
+
+Amostra: 790
+TempoDecorrido: 87.210205078125ms
+TempoTotal: 114219.24829101562ms
+
+Amostra: 791
+TempoDecorrido: 94.95458984375ms
+TempoTotal: 114364.6650390625ms
+
+Amostra: 792
+TempoDecorrido: 89.78125ms
+TempoTotal: 114504.900390625ms
+
+Amostra: 793
+TempoDecorrido: 79.759033203125ms
+TempoTotal: 114635.11376953125ms
+
+Amostra: 794
+TempoDecorrido: 93.824951171875ms
+TempoTotal: 114779.34936523438ms
+
+Amostra: 795
+TempoDecorrido: 88.564208984375ms
+TempoTotal: 114918.33837890625ms
+
+Amostra: 796
+TempoDecorrido: 91.17431640625ms
+TempoTotal: 115059.89819335938ms
+
+Amostra: 797
+TempoDecorrido: 101.96728515625ms
+TempoTotal: 115212.24780273438ms
+
+Amostra: 798
+TempoDecorrido: 97.9384765625ms
+TempoTotal: 115360.61547851562ms
+
+Amostra: 799
+TempoDecorrido: 103.536865234375ms
+TempoTotal: 115514.65673828125ms
+
+Amostra: 800
+TempoDecorrido: 107.946044921875ms
+TempoTotal: 115673.06665039062ms
+
+Amostra: 801
+TempoDecorrido: 94.788330078125ms
+TempoTotal: 115818.326171875ms
+
+Amostra: 802
+TempoDecorrido: 92.015869140625ms
+TempoTotal: 115960.83178710938ms
+
+Amostra: 803
+TempoDecorrido: 83.6845703125ms
+TempoTotal: 116094.9794921875ms
+
+Amostra: 804
+TempoDecorrido: 85.852294921875ms
+TempoTotal: 116231.3310546875ms
+
+Amostra: 805
+TempoDecorrido: 88.6865234375ms
+TempoTotal: 116370.4609375ms
+
+Amostra: 806
+TempoDecorrido: 90.272705078125ms
+TempoTotal: 116511.17553710938ms
+
+Amostra: 807
+TempoDecorrido: 89.119873046875ms
+TempoTotal: 116650.73510742188ms
+
+Amostra: 808
+TempoDecorrido: 103.754150390625ms
+TempoTotal: 116804.87353515625ms
+
+Amostra: 809
+TempoDecorrido: 95.372314453125ms
+TempoTotal: 116950.64990234375ms
+
+Amostra: 810
+TempoDecorrido: 104.8505859375ms
+TempoTotal: 117105.892578125ms
+
+Amostra: 811
+TempoDecorrido: 97.58642578125ms
+TempoTotal: 117253.9267578125ms
+
+Amostra: 812
+TempoDecorrido: 99.820556640625ms
+TempoTotal: 117404.2138671875ms
+
+Amostra: 813
+TempoDecorrido: 97.455810546875ms
+TempoTotal: 117552.1025390625ms
+
+Amostra: 814
+TempoDecorrido: 101.52490234375ms
+TempoTotal: 117704.11450195312ms
+
+Amostra: 815
+TempoDecorrido: 90.311767578125ms
+TempoTotal: 117844.88598632812ms
+
+Amostra: 816
+TempoDecorrido: 93.25927734375ms
+TempoTotal: 117988.6142578125ms
+
+Amostra: 817
+TempoDecorrido: 105.36962890625ms
+TempoTotal: 118144.4462890625ms
+
+Amostra: 818
+TempoDecorrido: 89.324462890625ms
+TempoTotal: 118284.29052734375ms
+
+Amostra: 819
+TempoDecorrido: 82.509765625ms
+TempoTotal: 118417.26391601562ms
+
+Amostra: 820
+TempoDecorrido: 82.090087890625ms
+TempoTotal: 118549.80615234375ms
+
+Amostra: 821
+TempoDecorrido: 94.4111328125ms
+TempoTotal: 118694.623046875ms
+
+Amostra: 822
+TempoDecorrido: 101.605712890625ms
+TempoTotal: 118846.64038085938ms
+
+Amostra: 823
+TempoDecorrido: 97.275146484375ms
+TempoTotal: 118994.34936523438ms
+
+Amostra: 824
+TempoDecorrido: 99.656005859375ms
+TempoTotal: 119144.45703125ms
+
+Amostra: 825
+TempoDecorrido: 99.851318359375ms
+TempoTotal: 119294.765625ms
+
+Amostra: 826
+TempoDecorrido: 99.59521484375ms
+TempoTotal: 119444.81982421875ms
+
+Amostra: 827
+TempoDecorrido: 88.156982421875ms
+TempoTotal: 119583.43383789062ms
+
+Amostra: 828
+TempoDecorrido: 94.623779296875ms
+TempoTotal: 119728.52124023438ms
+
+Amostra: 829
+TempoDecorrido: 91.4765625ms
+TempoTotal: 119870.44189453125ms
+
+Amostra: 830
+TempoDecorrido: 79.005615234375ms
+TempoTotal: 119999.88256835938ms
+
+Amostra: 831
+TempoDecorrido: 82.282470703125ms
+TempoTotal: 120132.65771484375ms
+
+Amostra: 832
+TempoDecorrido: 104.2119140625ms
+TempoTotal: 120287.26538085938ms
+
+Amostra: 833
+TempoDecorrido: 86.512451171875ms
+TempoTotal: 120424.208984375ms
+
+Amostra: 834
+TempoDecorrido: 104.148193359375ms
+TempoTotal: 120578.7744140625ms
+
+Amostra: 835
+TempoDecorrido: 97.207763671875ms
+TempoTotal: 120726.3935546875ms
+
+Amostra: 836
+TempoDecorrido: 102.483642578125ms
+TempoTotal: 120879.32080078125ms
+
+Amostra: 837
+TempoDecorrido: 107.956298828125ms
+TempoTotal: 121037.73803710938ms
+
+Amostra: 838
+TempoDecorrido: 94.71923828125ms
+TempoTotal: 121182.91748046875ms
+
+Amostra: 839
+TempoDecorrido: 103.75341796875ms
+TempoTotal: 121337.11499023438ms
+
+Amostra: 840
+TempoDecorrido: 95.021484375ms
+TempoTotal: 121482.62841796875ms
+
+Amostra: 841
+TempoDecorrido: 104.3056640625ms
+TempoTotal: 121637.4150390625ms
+
+Amostra: 842
+TempoDecorrido: 107.744140625ms
+TempoTotal: 121795.6259765625ms
+
+Amostra: 843
+TempoDecorrido: 107.973388671875ms
+TempoTotal: 121954.0712890625ms
+
+Amostra: 844
+TempoDecorrido: 115.78515625ms
+TempoTotal: 122120.32153320312ms
+
+Amostra: 845
+TempoDecorrido: 124.29150390625ms
+TempoTotal: 122294.93408203125ms
+
+Amostra: 846
+TempoDecorrido: 107.931396484375ms
+TempoTotal: 122453.22387695312ms
+
+Amostra: 847
+TempoDecorrido: 103.139404296875ms
+TempoTotal: 122606.736328125ms
+
+Amostra: 848
+TempoDecorrido: 99.528564453125ms
+TempoTotal: 122756.64916992188ms
+
+Amostra: 849
+TempoDecorrido: 100.48046875ms
+TempoTotal: 122907.51416015625ms
+
+Amostra: 850
+TempoDecorrido: 90.32763671875ms
+TempoTotal: 123048.26928710938ms
+
+Amostra: 851
+TempoDecorrido: 96.432373046875ms
+TempoTotal: 123195.1005859375ms
+
+Amostra: 852
+TempoDecorrido: 91.090576171875ms
+TempoTotal: 123336.67895507812ms
+
+Amostra: 853
+TempoDecorrido: 80.8369140625ms
+TempoTotal: 123468.02270507812ms
+
+Amostra: 854
+TempoDecorrido: 79.74267578125ms
+TempoTotal: 123598.20971679688ms
+
+Amostra: 855
+TempoDecorrido: 104.21728515625ms
+TempoTotal: 123752.85034179688ms
+
+Amostra: 856
+TempoDecorrido: 97.963623046875ms
+TempoTotal: 123901.208984375ms
+
+Amostra: 857
+TempoDecorrido: 88.048583984375ms
+TempoTotal: 124039.6875ms
+
+Amostra: 858
+TempoDecorrido: 103.01904296875ms
+TempoTotal: 124193.12670898438ms
+
+Amostra: 859
+TempoDecorrido: 100.702392578125ms
+TempoTotal: 124344.28002929688ms
+
+Amostra: 860
+TempoDecorrido: 90.6044921875ms
+TempoTotal: 124485.3056640625ms
+
+Amostra: 861
+TempoDecorrido: 81.882080078125ms
+TempoTotal: 124617.60205078125ms
+
+Amostra: 862
+TempoDecorrido: 90.269775390625ms
+TempoTotal: 124758.30786132812ms
+
+Amostra: 863
+TempoDecorrido: 80.64892578125ms
+TempoTotal: 124889.353515625ms
+
+Amostra: 864
+TempoDecorrido: 82.955322265625ms
+TempoTotal: 125022.72436523438ms
+
+Amostra: 865
+TempoDecorrido: 93.49951171875ms
+TempoTotal: 125166.650390625ms
+
+Amostra: 866
+TempoDecorrido: 89.534912109375ms
+TempoTotal: 125306.57275390625ms
+
+Amostra: 867
+TempoDecorrido: 101.417236328125ms
+TempoTotal: 125458.39013671875ms
+
+Amostra: 868
+TempoDecorrido: 88.560302734375ms
+TempoTotal: 125597.36059570312ms
+
+Amostra: 869
+TempoDecorrido: 91.250732421875ms
+TempoTotal: 125739.02880859375ms
+
+Amostra: 870
+TempoDecorrido: 112.954833984375ms
+TempoTotal: 125902.34936523438ms
+
+Amostra: 871
+TempoDecorrido: 91.140869140625ms
+TempoTotal: 126044.00341796875ms
+
+Amostra: 872
+TempoDecorrido: 91.43896484375ms
+TempoTotal: 126185.90185546875ms
+
+Amostra: 873
+TempoDecorrido: 78.142578125ms
+TempoTotal: 126314.4794921875ms
+
+Amostra: 874
+TempoDecorrido: 81.76123046875ms
+TempoTotal: 126446.65625ms
+
+Amostra: 875
+TempoDecorrido: 101.142822265625ms
+TempoTotal: 126598.14672851562ms
+
+Amostra: 876
+TempoDecorrido: 98.006591796875ms
+TempoTotal: 126746.51977539062ms
+
+Amostra: 877
+TempoDecorrido: 112.88623046875ms
+TempoTotal: 126909.72607421875ms
+
+Amostra: 878
+TempoDecorrido: 107.322021484375ms
+TempoTotal: 127067.44555664062ms
+
+Amostra: 879
+TempoDecorrido: 98.700927734375ms
+TempoTotal: 127216.52514648438ms
+
+Amostra: 880
+TempoDecorrido: 101.728759765625ms
+TempoTotal: 127368.67138671875ms
+
+Amostra: 881
+TempoDecorrido: 90.159912109375ms
+TempoTotal: 127509.24560546875ms
+
+Amostra: 882
+TempoDecorrido: 80.842041015625ms
+TempoTotal: 127640.58935546875ms
+
+Amostra: 883
+TempoDecorrido: 94.056640625ms
+TempoTotal: 127785.09130859375ms
+
+Amostra: 884
+TempoDecorrido: 87.025634765625ms
+TempoTotal: 127922.52978515625ms
+
+Amostra: 885
+TempoDecorrido: 91.087646484375ms
+TempoTotal: 128064.02905273438ms
+
+Amostra: 886
+TempoDecorrido: 103.167236328125ms
+TempoTotal: 128217.58447265625ms
+
+Amostra: 887
+TempoDecorrido: 97.501220703125ms
+TempoTotal: 128365.50463867188ms
+
+Amostra: 888
+TempoDecorrido: 100.479736328125ms
+TempoTotal: 128516.38037109375ms
+
+Amostra: 889
+TempoDecorrido: 99.75390625ms
+TempoTotal: 128666.54345703125ms
+
+Amostra: 890
+TempoDecorrido: 98.906494140625ms
+TempoTotal: 128815.8427734375ms
+
+Amostra: 891
+TempoDecorrido: 100.662353515625ms
+TempoTotal: 128966.927734375ms
+
+Amostra: 892
+TempoDecorrido: 98.6142578125ms
+TempoTotal: 129115.95556640625ms
+
+Amostra: 893
+TempoDecorrido: 99.46435546875ms
+TempoTotal: 129265.822265625ms
+
+Amostra: 894
+TempoDecorrido: 100.300048828125ms
+TempoTotal: 129416.51806640625ms
+
+Amostra: 895
+TempoDecorrido: 97.672119140625ms
+TempoTotal: 129564.59594726562ms
+
+Amostra: 0
+TempoDecorrido: 63.611572265625ms
+TempoTotal: 63.648193359375ms
+
+Amostra: 1
+TempoDecorrido: 83.07958984375ms
+TempoTotal: 197.42431640625ms
+
+Amostra: 2
+TempoDecorrido: 74.963623046875ms
+TempoTotal: 322.889404296875ms
+
+Amostra: 3
+TempoDecorrido: 81.517578125ms
+TempoTotal: 454.8134765625ms
+
+Amostra: 4
+TempoDecorrido: 102.264892578125ms
+TempoTotal: 607.401611328125ms
+
+Amostra: 5
+TempoDecorrido: 107.930908203125ms
+TempoTotal: 765.652099609375ms
+
+Amostra: 6
+TempoDecorrido: 116.348388671875ms
+TempoTotal: 932.343017578125ms
+
+Amostra: 7
+TempoDecorrido: 114.2333984375ms
+TempoTotal: 1096.896728515625ms
+
+Amostra: 8
+TempoDecorrido: 116.30712890625ms
+TempoTotal: 1263.52734375ms
+
+Amostra: 9
+TempoDecorrido: 110.46630859375ms
+TempoTotal: 1424.29541015625ms
+
+Amostra: 10
+TempoDecorrido: 107.72607421875ms
+TempoTotal: 1582.450439453125ms
+
+Amostra: 11
+TempoDecorrido: 118.3818359375ms
+TempoTotal: 1751.300048828125ms
+
+Amostra: 12
+TempoDecorrido: 120.2392578125ms
+TempoTotal: 1922.020751953125ms
+
+Amostra: 13
+TempoDecorrido: 128.70068359375ms
+TempoTotal: 2101.226318359375ms
+
+Amostra: 14
+TempoDecorrido: 119.71240234375ms
+TempoTotal: 2271.453857421875ms
+
+Amostra: 15
+TempoDecorrido: 107.62939453125ms
+TempoTotal: 2429.5625ms
+
+Amostra: 16
+TempoDecorrido: 101.648193359375ms
+TempoTotal: 2581.67822265625ms
+
+Amostra: 17
+TempoDecorrido: 91.640625ms
+TempoTotal: 2723.784912109375ms
+
+Amostra: 18
+TempoDecorrido: 92.721923828125ms
+TempoTotal: 2867.19921875ms
+
+Amostra: 19
+TempoDecorrido: 88.693359375ms
+TempoTotal: 3006.353515625ms
+
+Amostra: 20
+TempoDecorrido: 75.79931640625ms
+TempoTotal: 3132.648193359375ms
+
+Amostra: 21
+TempoDecorrido: 88.041259765625ms
+TempoTotal: 3271.079345703125ms
+
+Amostra: 22
+TempoDecorrido: 90.263427734375ms
+TempoTotal: 3411.77294921875ms
+
+Amostra: 23
+TempoDecorrido: 104.0673828125ms
+TempoTotal: 3566.200927734375ms
+
+Amostra: 24
+TempoDecorrido: 94.908447265625ms
+TempoTotal: 3711.523193359375ms
+
+Amostra: 25
+TempoDecorrido: 102.737548828125ms
+TempoTotal: 3864.64794921875ms
+
+Amostra: 26
+TempoDecorrido: 88.390625ms
+TempoTotal: 4003.466064453125ms
+
+Amostra: 27
+TempoDecorrido: 92.45703125ms
+TempoTotal: 4146.357421875ms
+
+Amostra: 28
+TempoDecorrido: 103.06884765625ms
+TempoTotal: 4299.8486328125ms
+
+Amostra: 29
+TempoDecorrido: 99.421142578125ms
+TempoTotal: 4449.758544921875ms
+
+Amostra: 30
+TempoDecorrido: 99.40234375ms
+TempoTotal: 4599.60791015625ms
+
+Amostra: 31
+TempoDecorrido: 89.860595703125ms
+TempoTotal: 4739.98095703125ms
+
+Amostra: 32
+TempoDecorrido: 92.501220703125ms
+TempoTotal: 4882.92578125ms
+
+Amostra: 33
+TempoDecorrido: 88.87939453125ms
+TempoTotal: 5022.243896484375ms
+
+Amostra: 34
+TempoDecorrido: 79.806640625ms
+TempoTotal: 5152.4755859375ms
+
+Amostra: 35
+TempoDecorrido: 93.84765625ms
+TempoTotal: 5296.71923828125ms
+
+Amostra: 36
+TempoDecorrido: 102.491455078125ms
+TempoTotal: 5449.6240234375ms
+
+Amostra: 37
+TempoDecorrido: 85.919921875ms
+TempoTotal: 5585.9921875ms
+
+Amostra: 38
+TempoDecorrido: 93.852783203125ms
+TempoTotal: 5730.278076171875ms
+
+Amostra: 39
+TempoDecorrido: 101.71826171875ms
+TempoTotal: 5882.46142578125ms
+
+Amostra: 40
+TempoDecorrido: 97.403076171875ms
+TempoTotal: 6030.3125ms
+
+Amostra: 41
+TempoDecorrido: 89.018798828125ms
+TempoTotal: 6169.76904296875ms
+
+Amostra: 42
+TempoDecorrido: 95.6435546875ms
+TempoTotal: 6315.863525390625ms
+
+Amostra: 43
+TempoDecorrido: 88.99755859375ms
+TempoTotal: 6455.32763671875ms
+
+Amostra: 44
+TempoDecorrido: 92.154541015625ms
+TempoTotal: 6597.8955078125ms
+
+Amostra: 45
+TempoDecorrido: 90.615966796875ms
+TempoTotal: 6738.9580078125ms
+
+Amostra: 46
+TempoDecorrido: 91.0126953125ms
+TempoTotal: 6880.384033203125ms
+
+Amostra: 47
+TempoDecorrido: 92.557861328125ms
+TempoTotal: 7023.40234375ms
+
+Amostra: 48
+TempoDecorrido: 87.884033203125ms
+TempoTotal: 7161.752685546875ms
+
+Amostra: 49
+TempoDecorrido: 80.85400390625ms
+TempoTotal: 7293.04248046875ms
+
+Amostra: 50
+TempoDecorrido: 94.23291015625ms
+TempoTotal: 7437.691162109375ms
+
+Amostra: 51
+TempoDecorrido: 88.154052734375ms
+TempoTotal: 7576.238037109375ms
+
+Amostra: 52
+TempoDecorrido: 92.937744140625ms
+TempoTotal: 7719.569091796875ms
+
+Amostra: 53
+TempoDecorrido: 103.1845703125ms
+TempoTotal: 7873.187744140625ms
+
+Amostra: 54
+TempoDecorrido: 86.41845703125ms
+TempoTotal: 8010.04345703125ms
+
+Amostra: 55
+TempoDecorrido: 82.81787109375ms
+TempoTotal: 8143.298095703125ms
+
+Amostra: 56
+TempoDecorrido: 95.726806640625ms
+TempoTotal: 8289.451416015625ms
+
+Amostra: 57
+TempoDecorrido: 87.159912109375ms
+TempoTotal: 8427.048828125ms
+
+Amostra: 58
+TempoDecorrido: 93.857421875ms
+TempoTotal: 8571.326416015625ms
+
+Amostra: 59
+TempoDecorrido: 87.273681640625ms
+TempoTotal: 8709.024658203125ms
+
+Amostra: 60
+TempoDecorrido: 91.58642578125ms
+TempoTotal: 8851.023681640625ms
+
+Amostra: 61
+TempoDecorrido: 91.672119140625ms
+TempoTotal: 8993.09619140625ms
+
+Amostra: 62
+TempoDecorrido: 104.0009765625ms
+TempoTotal: 9147.50390625ms
+
+Amostra: 63
+TempoDecorrido: 96.81298828125ms
+TempoTotal: 9294.74169921875ms
+
+Amostra: 64
+TempoDecorrido: 117.79443359375ms
+TempoTotal: 9462.9990234375ms
+
+Amostra: 65
+TempoDecorrido: 78.66943359375ms
+TempoTotal: 9592.3564453125ms
+
+Amostra: 66
+TempoDecorrido: 82.869384765625ms
+TempoTotal: 9725.725341796875ms
+
+Amostra: 67
+TempoDecorrido: 91.627197265625ms
+TempoTotal: 9867.751708984375ms
+
+Amostra: 68
+TempoDecorrido: 95.11962890625ms
+TempoTotal: 10013.35107421875ms
+
+Amostra: 69
+TempoDecorrido: 86.2333984375ms
+TempoTotal: 10150.01416015625ms
+
+Amostra: 70
+TempoDecorrido: 91.805908203125ms
+TempoTotal: 10292.20703125ms
+
+Amostra: 71
+TempoDecorrido: 86.782470703125ms
+TempoTotal: 10429.395751953125ms
+
+Amostra: 72
+TempoDecorrido: 95.424560546875ms
+TempoTotal: 10575.222412109375ms
+
+Amostra: 73
+TempoDecorrido: 91.235595703125ms
+TempoTotal: 10716.944580078125ms
+
+Amostra: 74
+TempoDecorrido: 91.481201171875ms
+TempoTotal: 10858.89501953125ms
+
+Amostra: 75
+TempoDecorrido: 103.9287109375ms
+TempoTotal: 11013.25048828125ms
+
+Amostra: 76
+TempoDecorrido: 98.16845703125ms
+TempoTotal: 11161.856201171875ms
+
+Amostra: 77
+TempoDecorrido: 100.71875ms
+TempoTotal: 11313.018310546875ms
+
+Amostra: 78
+TempoDecorrido: 99.567138671875ms
+TempoTotal: 11463.04052734375ms
+
+Amostra: 79
+TempoDecorrido: 89.3193359375ms
+TempoTotal: 11602.805908203125ms
+
+Amostra: 80
+TempoDecorrido: 93.111083984375ms
+TempoTotal: 11746.360107421875ms
+
+Amostra: 81
+TempoDecorrido: 87.179931640625ms
+TempoTotal: 11883.98779296875ms
+
+Amostra: 82
+TempoDecorrido: 92.10498046875ms
+TempoTotal: 12026.529541015625ms
+
+Amostra: 83
+TempoDecorrido: 84.810302734375ms
+TempoTotal: 12161.843505859375ms
+
+Amostra: 84
+TempoDecorrido: 86.720703125ms
+TempoTotal: 12298.968994140625ms
+
+Amostra: 85
+TempoDecorrido: 99.480224609375ms
+TempoTotal: 12449.13525390625ms
+
+Amostra: 86
+TempoDecorrido: 91.49169921875ms
+TempoTotal: 12591.036376953125ms
+
+Amostra: 87
+TempoDecorrido: 90.41845703125ms
+TempoTotal: 12731.87255859375ms
+
+Amostra: 88
+TempoDecorrido: 87.270751953125ms
+TempoTotal: 12869.5537109375ms
+
+Amostra: 89
+TempoDecorrido: 96.683349609375ms
+TempoTotal: 13016.6591796875ms
+
+Amostra: 90
+TempoDecorrido: 102.91552734375ms
+TempoTotal: 13169.998779296875ms
+
+Amostra: 91
+TempoDecorrido: 97.715576171875ms
+TempoTotal: 13318.185546875ms
+
+Amostra: 92
+TempoDecorrido: 99.197265625ms
+TempoTotal: 13467.83642578125ms
+
+Amostra: 93
+TempoDecorrido: 88.9443359375ms
+TempoTotal: 13607.220703125ms
+
+Amostra: 94
+TempoDecorrido: 82.351318359375ms
+TempoTotal: 13740.0234375ms
+
+Amostra: 95
+TempoDecorrido: 93.5654296875ms
+TempoTotal: 13884.0126953125ms
+
+Amostra: 96
+TempoDecorrido: 89.5966796875ms
+TempoTotal: 14024.025634765625ms
+
+Amostra: 97
+TempoDecorrido: 92.64111328125ms
+TempoTotal: 14167.084228515625ms
+
+Amostra: 98
+TempoDecorrido: 88.547607421875ms
+TempoTotal: 14306.05517578125ms
+
+Amostra: 99
+TempoDecorrido: 104.534912109375ms
+TempoTotal: 14461.01416015625ms
+
+Amostra: 100
+TempoDecorrido: 95.501708984375ms
+TempoTotal: 14606.951904296875ms
+
+Amostra: 101
+TempoDecorrido: 93.339599609375ms
+TempoTotal: 14750.724853515625ms
+
+Amostra: 102
+TempoDecorrido: 90.71044921875ms
+TempoTotal: 14891.875244140625ms
+
+Amostra: 103
+TempoDecorrido: 80.596435546875ms
+TempoTotal: 15022.9169921875ms
+
+Amostra: 104
+TempoDecorrido: 91.8828125ms
+TempoTotal: 15165.232421875ms
+
+Amostra: 105
+TempoDecorrido: 90.10693359375ms
+TempoTotal: 15305.7880859375ms
+
+Amostra: 106
+TempoDecorrido: 103.474365234375ms
+TempoTotal: 15459.73388671875ms
+
+Amostra: 107
+TempoDecorrido: 97.977783203125ms
+TempoTotal: 15608.11767578125ms
+
+Amostra: 108
+TempoDecorrido: 99.430908203125ms
+TempoTotal: 15757.99462890625ms
+
+Amostra: 109
+TempoDecorrido: 88.494384765625ms
+TempoTotal: 15896.959228515625ms
+
+Amostra: 110
+TempoDecorrido: 95.61279296875ms
+TempoTotal: 16043.04248046875ms
+
+Amostra: 111
+TempoDecorrido: 89.007568359375ms
+TempoTotal: 16182.515625ms
+
+Amostra: 112
+TempoDecorrido: 92.29931640625ms
+TempoTotal: 16325.45556640625ms
+
+Amostra: 113
+TempoDecorrido: 89.794189453125ms
+TempoTotal: 16465.71875ms
+
+Amostra: 114
+TempoDecorrido: 90.056884765625ms
+TempoTotal: 16606.196044921875ms
+
+Amostra: 115
+TempoDecorrido: 91.542724609375ms
+TempoTotal: 16748.19189453125ms
+
+Amostra: 116
+TempoDecorrido: 84.828369140625ms
+TempoTotal: 16883.41748046875ms
+
+Amostra: 117
+TempoDecorrido: 87.75634765625ms
+TempoTotal: 17021.57470703125ms
+
+Amostra: 118
+TempoDecorrido: 99.651611328125ms
+TempoTotal: 17171.619873046875ms
+
+Amostra: 119
+TempoDecorrido: 98.2294921875ms
+TempoTotal: 17320.242919921875ms
+
+Amostra: 120
+TempoDecorrido: 99.254150390625ms
+TempoTotal: 17469.89990234375ms
+
+Amostra: 121
+TempoDecorrido: 104.044921875ms
+TempoTotal: 17624.327392578125ms
+
+Amostra: 122
+TempoDecorrido: 95.564697265625ms
+TempoTotal: 17770.350341796875ms
+
+Amostra: 123
+TempoDecorrido: 95.8017578125ms
+TempoTotal: 17916.5751953125ms
+
+Amostra: 124
+TempoDecorrido: 87.42919921875ms
+TempoTotal: 18054.474853515625ms
+
+Amostra: 125
+TempoDecorrido: 81.599609375ms
+TempoTotal: 18186.484130859375ms
+
+Amostra: 126
+TempoDecorrido: 94.340576171875ms
+TempoTotal: 18331.28369140625ms
+
+Amostra: 127
+TempoDecorrido: 87.79833984375ms
+TempoTotal: 18469.54345703125ms
+
+Amostra: 128
+TempoDecorrido: 94.8623046875ms
+TempoTotal: 18614.790771484375ms
+
+Amostra: 129
+TempoDecorrido: 87.63427734375ms
+TempoTotal: 18752.85791015625ms
+
+Amostra: 130
+TempoDecorrido: 94.246337890625ms
+TempoTotal: 18897.523193359375ms
+
+Amostra: 131
+TempoDecorrido: 87.824462890625ms
+TempoTotal: 19035.82470703125ms
+
+Amostra: 132
+TempoDecorrido: 91.379638671875ms
+TempoTotal: 19177.64501953125ms
+
+Amostra: 133
+TempoDecorrido: 90.63037109375ms
+TempoTotal: 19318.709228515625ms
+
+Amostra: 134
+TempoDecorrido: 94.05419921875ms
+TempoTotal: 19463.20654296875ms
+
+Amostra: 135
+TempoDecorrido: 92.515625ms
+TempoTotal: 19606.16796875ms
+
+Amostra: 136
+TempoDecorrido: 90.289794921875ms
+TempoTotal: 19746.91357421875ms
+
+Amostra: 137
+TempoDecorrido: 90.779296875ms
+TempoTotal: 19888.12255859375ms
+
+Amostra: 138
+TempoDecorrido: 91.35302734375ms
+TempoTotal: 20029.9013671875ms
+
+Amostra: 139
+TempoDecorrido: 90.8916015625ms
+TempoTotal: 20171.2431640625ms
+
+Amostra: 140
+TempoDecorrido: 89.143310546875ms
+TempoTotal: 20310.811767578125ms
+
+Amostra: 141
+TempoDecorrido: 90.58447265625ms
+TempoTotal: 20451.82373046875ms
+
+Amostra: 142
+TempoDecorrido: 93.1865234375ms
+TempoTotal: 20595.44287109375ms
+
+Amostra: 143
+TempoDecorrido: 88.239990234375ms
+TempoTotal: 20734.21240234375ms
+
+Amostra: 144
+TempoDecorrido: 91.63916015625ms
+TempoTotal: 20876.2822265625ms
+
+Amostra: 145
+TempoDecorrido: 90.529052734375ms
+TempoTotal: 21017.243408203125ms
+
+Amostra: 146
+TempoDecorrido: 91.96240234375ms
+TempoTotal: 21159.647216796875ms
+
+Amostra: 147
+TempoDecorrido: 94.960693359375ms
+TempoTotal: 21305.06494140625ms
+
+Amostra: 148
+TempoDecorrido: 89.216552734375ms
+TempoTotal: 21444.73486328125ms
+
+Amostra: 149
+TempoDecorrido: 91.54541015625ms
+TempoTotal: 21586.7177734375ms
+
+Amostra: 150
+TempoDecorrido: 91.258544921875ms
+TempoTotal: 21728.39697265625ms
+
+Amostra: 151
+TempoDecorrido: 90.301025390625ms
+TempoTotal: 21869.152587890625ms
+
+Amostra: 152
+TempoDecorrido: 79.608154296875ms
+TempoTotal: 21999.198974609375ms
+
+Amostra: 153
+TempoDecorrido: 93.8056640625ms
+TempoTotal: 22143.417236328125ms
+
+Amostra: 154
+TempoDecorrido: 83.87353515625ms
+TempoTotal: 22282.06494140625ms
+
+Amostra: 155
+TempoDecorrido: 96.405517578125ms
+TempoTotal: 22428.873046875ms
+
+Amostra: 156
+TempoDecorrido: 85.977294921875ms
+TempoTotal: 22565.29638671875ms
+
+Amostra: 157
+TempoDecorrido: 91.05859375ms
+TempoTotal: 22706.7900390625ms
+
+Amostra: 158
+TempoDecorrido: 91.612548828125ms
+TempoTotal: 22848.8173828125ms
+
+Amostra: 159
+TempoDecorrido: 90.6533203125ms
+TempoTotal: 22989.959716796875ms
+
+Amostra: 160
+TempoDecorrido: 104.532470703125ms
+TempoTotal: 23144.909423828125ms
+
+Amostra: 161
+TempoDecorrido: 86.522705078125ms
+TempoTotal: 23281.896484375ms
+
+Amostra: 162
+TempoDecorrido: 93.505126953125ms
+TempoTotal: 23425.88232421875ms
+
+Amostra: 163
+TempoDecorrido: 88.58544921875ms
+TempoTotal: 23564.907958984375ms
+
+Amostra: 164
+TempoDecorrido: 93.857421875ms
+TempoTotal: 23709.185546875ms
+
+Amostra: 165
+TempoDecorrido: 101.52587890625ms
+TempoTotal: 23861.185791015625ms
+
+Amostra: 166
+TempoDecorrido: 107.356689453125ms
+TempoTotal: 24018.99951171875ms
+
+Amostra: 167
+TempoDecorrido: 107.883056640625ms
+TempoTotal: 24177.37451171875ms
+
+Amostra: 168
+TempoDecorrido: 96.72998046875ms
+TempoTotal: 24324.570556640625ms
+
+Amostra: 169
+TempoDecorrido: 102.11279296875ms
+TempoTotal: 24477.14794921875ms
+
+Amostra: 170
+TempoDecorrido: 95.72509765625ms
+TempoTotal: 24623.33154296875ms
+
+Amostra: 171
+TempoDecorrido: 93.452880859375ms
+TempoTotal: 24767.22998046875ms
+
+Amostra: 172
+TempoDecorrido: 92.47216796875ms
+TempoTotal: 24910.152587890625ms
+
+Amostra: 173
+TempoDecorrido: 91.05419921875ms
+TempoTotal: 25051.671142578125ms
+
+Amostra: 174
+TempoDecorrido: 77.391845703125ms
+TempoTotal: 25179.524169921875ms
+
+Amostra: 175
+TempoDecorrido: 94.0302734375ms
+TempoTotal: 25323.946044921875ms
+
+Amostra: 176
+TempoDecorrido: 88.362060546875ms
+TempoTotal: 25462.732177734375ms
+
+Amostra: 177
+TempoDecorrido: 104.1767578125ms
+TempoTotal: 25617.307861328125ms
+
+Amostra: 178
+TempoDecorrido: 96.145263671875ms
+TempoTotal: 25763.951171875ms
+
+Amostra: 179
+TempoDecorrido: 101.591552734375ms
+TempoTotal: 25915.969970703125ms
+
+Amostra: 180
+TempoDecorrido: 96.17236328125ms
+TempoTotal: 26062.5908203125ms
+
+Amostra: 181
+TempoDecorrido: 104.22265625ms
+TempoTotal: 26217.26953125ms
+
+Amostra: 182
+TempoDecorrido: 94.835693359375ms
+TempoTotal: 26362.558837890625ms
+
+Amostra: 183
+TempoDecorrido: 82.78125ms
+TempoTotal: 26495.80078125ms
+
+Amostra: 184
+TempoDecorrido: 82.91015625ms
+TempoTotal: 26629.14013671875ms
+
+Amostra: 185
+TempoDecorrido: 82.1279296875ms
+TempoTotal: 26761.706787109375ms
+
+Amostra: 186
+TempoDecorrido: 94.02197265625ms
+TempoTotal: 26906.138671875ms
+
+Amostra: 187
+TempoDecorrido: 90.811767578125ms
+TempoTotal: 27047.36376953125ms
+
+Amostra: 188
+TempoDecorrido: 88.7333984375ms
+TempoTotal: 27186.521728515625ms
+
+Amostra: 189
+TempoDecorrido: 104.4208984375ms
+TempoTotal: 27341.4228515625ms
+
+Amostra: 190
+TempoDecorrido: 99.088134765625ms
+TempoTotal: 27490.974609375ms
+
+Amostra: 191
+TempoDecorrido: 87.278564453125ms
+TempoTotal: 27628.692138671875ms
+
+Amostra: 192
+TempoDecorrido: 94.96728515625ms
+TempoTotal: 27774.1220703125ms
+
+Amostra: 193
+TempoDecorrido: 88.967529296875ms
+TempoTotal: 27913.50634765625ms
+
+Amostra: 194
+TempoDecorrido: 79.73974609375ms
+TempoTotal: 28043.694091796875ms
+
+Amostra: 195
+TempoDecorrido: 94.194091796875ms
+TempoTotal: 28188.36083984375ms
+
+Amostra: 196
+TempoDecorrido: 91.044921875ms
+TempoTotal: 28329.80126953125ms
+
+Amostra: 197
+TempoDecorrido: 88.352783203125ms
+TempoTotal: 28468.586669921875ms
+
+Amostra: 198
+TempoDecorrido: 91.265869140625ms
+TempoTotal: 28610.24755859375ms
+
+Amostra: 199
+TempoDecorrido: 92.110107421875ms
+TempoTotal: 28752.76806640625ms
+
+Amostra: 200
+TempoDecorrido: 103.413330078125ms
+TempoTotal: 28906.60986328125ms
+
+Amostra: 201
+TempoDecorrido: 99.356201171875ms
+TempoTotal: 29056.432861328125ms
+
+Amostra: 202
+TempoDecorrido: 99.293701171875ms
+TempoTotal: 29206.18310546875ms
+
+Amostra: 203
+TempoDecorrido: 86.6943359375ms
+TempoTotal: 29343.330078125ms
+
+Amostra: 204
+TempoDecorrido: 83.603515625ms
+TempoTotal: 29477.38916015625ms
+
+Amostra: 205
+TempoDecorrido: 81.2431640625ms
+TempoTotal: 29609.0654296875ms
+
+Amostra: 206
+TempoDecorrido: 93.695068359375ms
+TempoTotal: 29753.17724609375ms
+
+Amostra: 207
+TempoDecorrido: 88.6142578125ms
+TempoTotal: 29892.18408203125ms
+
+Amostra: 208
+TempoDecorrido: 100.63818359375ms
+TempoTotal: 30043.21044921875ms
+
+Amostra: 209
+TempoDecorrido: 98.44873046875ms
+TempoTotal: 30192.03955078125ms
+
+Amostra: 210
+TempoDecorrido: 103.014892578125ms
+TempoTotal: 30345.455078125ms
+
+Amostra: 211
+TempoDecorrido: 96.176513671875ms
+TempoTotal: 30492.094482421875ms
+
+Amostra: 212
+TempoDecorrido: 91.697509765625ms
+TempoTotal: 30634.212890625ms
+
+Amostra: 213
+TempoDecorrido: 90.5771484375ms
+TempoTotal: 30775.3037109375ms
+
+Amostra: 214
+TempoDecorrido: 94.272216796875ms
+TempoTotal: 30920.04248046875ms
+
+Amostra: 215
+TempoDecorrido: 88.03173828125ms
+TempoTotal: 31058.560302734375ms
+
+Amostra: 216
+TempoDecorrido: 85.693603515625ms
+TempoTotal: 31194.7490234375ms
+
+Amostra: 217
+TempoDecorrido: 79.08154296875ms
+TempoTotal: 31324.255615234375ms
+
+Amostra: 218
+TempoDecorrido: 104.235107421875ms
+TempoTotal: 31478.89697265625ms
+
+Amostra: 219
+TempoDecorrido: 97.466552734375ms
+TempoTotal: 31626.76220703125ms
+
+Amostra: 220
+TempoDecorrido: 89.500244140625ms
+TempoTotal: 31766.707275390625ms
+
+Amostra: 221
+TempoDecorrido: 101.19091796875ms
+TempoTotal: 31918.35791015625ms
+
+Amostra: 222
+TempoDecorrido: 100.231689453125ms
+TempoTotal: 32069.004638671875ms
+
+Amostra: 223
+TempoDecorrido: 97.20849609375ms
+TempoTotal: 32216.627685546875ms
+
+Amostra: 224
+TempoDecorrido: 105.6103515625ms
+TempoTotal: 32376.97265625ms
+
+Amostra: 225
+TempoDecorrido: 96.6337890625ms
+TempoTotal: 32524.0673828125ms
+
+Amostra: 226
+TempoDecorrido: 100.091064453125ms
+TempoTotal: 32674.614990234375ms
+
+Amostra: 227
+TempoDecorrido: 99.005126953125ms
+TempoTotal: 32824.076416015625ms
+
+Amostra: 228
+TempoDecorrido: 99.419921875ms
+TempoTotal: 32973.94287109375ms
+
+Amostra: 229
+TempoDecorrido: 93.688232421875ms
+TempoTotal: 33118.07421875ms
+
+Amostra: 230
+TempoDecorrido: 93.233154296875ms
+TempoTotal: 33261.752197265625ms
+
+Amostra: 231
+TempoDecorrido: 89.35986328125ms
+TempoTotal: 33401.56689453125ms
+
+Amostra: 232
+TempoDecorrido: 92.704833984375ms
+TempoTotal: 33544.792724609375ms
+
+Amostra: 233
+TempoDecorrido: 86.877197265625ms
+TempoTotal: 33682.1259765625ms
+
+Amostra: 234
+TempoDecorrido: 92.287841796875ms
+TempoTotal: 33824.83203125ms
+
+Amostra: 235
+TempoDecorrido: 89.0302734375ms
+TempoTotal: 33964.2744140625ms
+
+Amostra: 236
+TempoDecorrido: 91.772216796875ms
+TempoTotal: 34106.437744140625ms
+
+Amostra: 237
+TempoDecorrido: 90.6142578125ms
+TempoTotal: 34247.44873046875ms
+
+Amostra: 238
+TempoDecorrido: 93.385498046875ms
+TempoTotal: 34391.2646484375ms
+
+Amostra: 239
+TempoDecorrido: 90.82568359375ms
+TempoTotal: 34532.5087890625ms
+
+Amostra: 240
+TempoDecorrido: 90.18896484375ms
+TempoTotal: 34673.2021484375ms
+
+Amostra: 241
+TempoDecorrido: 93.48828125ms
+TempoTotal: 34817.107177734375ms
+
+Amostra: 242
+TempoDecorrido: 101.416748046875ms
+TempoTotal: 34968.9638671875ms
+
+Amostra: 243
+TempoDecorrido: 97.276123046875ms
+TempoTotal: 35116.693603515625ms
+
+Amostra: 244
+TempoDecorrido: 84.721923828125ms
+TempoTotal: 35251.889404296875ms
+
+Amostra: 245
+TempoDecorrido: 89.912353515625ms
+TempoTotal: 35392.262451171875ms
+
+Amostra: 246
+TempoDecorrido: 91.6298828125ms
+TempoTotal: 35534.31640625ms
+
+Amostra: 247
+TempoDecorrido: 90.974853515625ms
+TempoTotal: 35675.78515625ms
+
+Amostra: 248
+TempoDecorrido: 88.650390625ms
+TempoTotal: 35814.87158203125ms
+
+Amostra: 249
+TempoDecorrido: 91.4130859375ms
+TempoTotal: 35956.731689453125ms
+
+Amostra: 250
+TempoDecorrido: 90.090087890625ms
+TempoTotal: 36097.275634765625ms
+
+Amostra: 251
+TempoDecorrido: 91.67822265625ms
+TempoTotal: 36239.391845703125ms
+
+Amostra: 252
+TempoDecorrido: 103.86181640625ms
+TempoTotal: 36393.70166015625ms
+
+Amostra: 253
+TempoDecorrido: 98.8134765625ms
+TempoTotal: 36542.953369140625ms
+
+Amostra: 254
+TempoDecorrido: 100.087890625ms
+TempoTotal: 36693.498291015625ms
+
+Amostra: 255
+TempoDecorrido: 99.027587890625ms
+TempoTotal: 36842.985107421875ms
+
+Amostra: 256
+TempoDecorrido: 91.54541015625ms
+TempoTotal: 36984.990234375ms
+
+Amostra: 257
+TempoDecorrido: 78.373779296875ms
+TempoTotal: 37113.814208984375ms
+
+Amostra: 258
+TempoDecorrido: 95.456787109375ms
+TempoTotal: 37259.6787109375ms
+
+Amostra: 259
+TempoDecorrido: 92.676025390625ms
+TempoTotal: 37408.32275390625ms
+
+Amostra: 260
+TempoDecorrido: 101.42431640625ms
+TempoTotal: 37560.1904296875ms
+
+Amostra: 261
+TempoDecorrido: 96.846435546875ms
+TempoTotal: 37707.48974609375ms
+
+Amostra: 262
+TempoDecorrido: 90.514892578125ms
+TempoTotal: 37848.438720703125ms
+
+Amostra: 263
+TempoDecorrido: 94.6044921875ms
+TempoTotal: 37993.5029296875ms
+
+Amostra: 264
+TempoDecorrido: 87.990234375ms
+TempoTotal: 38131.935302734375ms
+
+Amostra: 265
+TempoDecorrido: 94.266845703125ms
+TempoTotal: 38276.66552734375ms
+
+Amostra: 266
+TempoDecorrido: 89.822998046875ms
+TempoTotal: 38416.945068359375ms
+
+Amostra: 267
+TempoDecorrido: 92.12939453125ms
+TempoTotal: 38559.5791015625ms
+
+Amostra: 268
+TempoDecorrido: 88.521240234375ms
+TempoTotal: 38698.5234375ms
+
+Amostra: 269
+TempoDecorrido: 89.45849609375ms
+TempoTotal: 38838.412841796875ms
+
+Amostra: 270
+TempoDecorrido: 90.852783203125ms
+TempoTotal: 38979.721923828125ms
+
+Amostra: 271
+TempoDecorrido: 92.350341796875ms
+TempoTotal: 39122.468994140625ms
+
+Amostra: 272
+TempoDecorrido: 92.163330078125ms
+TempoTotal: 39265.0537109375ms
+
+Amostra: 273
+TempoDecorrido: 91.49267578125ms
+TempoTotal: 39407.037353515625ms
+
+Amostra: 274
+TempoDecorrido: 89.821533203125ms
+TempoTotal: 39547.341064453125ms
+
+Amostra: 275
+TempoDecorrido: 93.412353515625ms
+TempoTotal: 39691.27392578125ms
+
+Amostra: 276
+TempoDecorrido: 101.802734375ms
+TempoTotal: 39843.509521484375ms
+
+Amostra: 277
+TempoDecorrido: 97.697998046875ms
+TempoTotal: 39991.669677734375ms
+
+Amostra: 278
+TempoDecorrido: 89.135009765625ms
+TempoTotal: 40131.262451171875ms
+
+Amostra: 279
+TempoDecorrido: 95.057861328125ms
+TempoTotal: 40276.7734375ms
+
+Amostra: 280
+TempoDecorrido: 80.427734375ms
+TempoTotal: 40407.6513671875ms
+
+Amostra: 281
+TempoDecorrido: 82.699951171875ms
+TempoTotal: 40540.775634765625ms
+
+Amostra: 282
+TempoDecorrido: 93.210205078125ms
+TempoTotal: 40684.41162109375ms
+
+Amostra: 283
+TempoDecorrido: 86.864013671875ms
+TempoTotal: 40821.66845703125ms
+
+Amostra: 284
+TempoDecorrido: 99.8076171875ms
+TempoTotal: 40971.843994140625ms
+
+Amostra: 285
+TempoDecorrido: 114.7529296875ms
+TempoTotal: 41136.955078125ms
+
+Amostra: 286
+TempoDecorrido: 100.94775390625ms
+TempoTotal: 41288.4375ms
+
+Amostra: 287
+TempoDecorrido: 120.981689453125ms
+TempoTotal: 41459.744384765625ms
+
+Amostra: 288
+TempoDecorrido: 122.769287109375ms
+TempoTotal: 41632.89501953125ms
+
+Amostra: 289
+TempoDecorrido: 124.520751953125ms
+TempoTotal: 41807.807861328125ms
+
+Amostra: 290
+TempoDecorrido: 113.617431640625ms
+TempoTotal: 41971.70361328125ms
+
+Amostra: 291
+TempoDecorrido: 120.880615234375ms
+TempoTotal: 42142.96826171875ms
+
+Amostra: 292
+TempoDecorrido: 105.995849609375ms
+TempoTotal: 42299.281005859375ms
+
+Amostra: 293
+TempoDecorrido: 110.239013671875ms
+TempoTotal: 42459.997802734375ms
+
+Amostra: 294
+TempoDecorrido: 96.11962890625ms
+TempoTotal: 42606.490966796875ms
+
+Amostra: 295
+TempoDecorrido: 102.956298828125ms
+TempoTotal: 42759.83984375ms
+
+Amostra: 296
+TempoDecorrido: 82.579345703125ms
+TempoTotal: 42892.820556640625ms
+
+Amostra: 297
+TempoDecorrido: 90.281982421875ms
+TempoTotal: 43033.53271484375ms
+
+Amostra: 298
+TempoDecorrido: 92.944091796875ms
+TempoTotal: 43176.952880859375ms
+
+Amostra: 299
+TempoDecorrido: 88.736083984375ms
+TempoTotal: 43316.120849609375ms
+
+Amostra: 300
+TempoDecorrido: 80.36865234375ms
+TempoTotal: 43446.87060546875ms
+
+Amostra: 301
+TempoDecorrido: 83.033203125ms
+TempoTotal: 43580.2958984375ms
+
+Amostra: 302
+TempoDecorrido: 93.891845703125ms
+TempoTotal: 43724.584228515625ms
+
+Amostra: 303
+TempoDecorrido: 89.174560546875ms
+TempoTotal: 43864.147705078125ms
+
+Amostra: 304
+TempoDecorrido: 92.96728515625ms
+TempoTotal: 44007.491943359375ms
+
+Amostra: 305
+TempoDecorrido: 89.407958984375ms
+TempoTotal: 44147.28955078125ms
+
+Amostra: 306
+TempoDecorrido: 93.269287109375ms
+TempoTotal: 44290.96240234375ms
+
+Amostra: 307
+TempoDecorrido: 84.220703125ms
+TempoTotal: 44425.5673828125ms
+
+Amostra: 308
+TempoDecorrido: 100.330810546875ms
+TempoTotal: 44576.262939453125ms
+
+Amostra: 309
+TempoDecorrido: 87.43896484375ms
+TempoTotal: 44714.10693359375ms
+
+Amostra: 310
+TempoDecorrido: 93.619140625ms
+TempoTotal: 44858.140869140625ms
+
+Amostra: 311
+TempoDecorrido: 92.7197265625ms
+TempoTotal: 45001.248046875ms
+
+Amostra: 312
+TempoDecorrido: 92.35107421875ms
+TempoTotal: 45143.99560546875ms
+
+Amostra: 313
+TempoDecorrido: 78.427734375ms
+TempoTotal: 45272.84716796875ms
+
+Amostra: 314
+TempoDecorrido: 82.4765625ms
+TempoTotal: 45405.717529296875ms
+
+Amostra: 315
+TempoDecorrido: 90.9892578125ms
+TempoTotal: 45547.0830078125ms
+
+Amostra: 316
+TempoDecorrido: 113.014404296875ms
+TempoTotal: 45710.4375ms
+
+Amostra: 317
+TempoDecorrido: 95.874755859375ms
+TempoTotal: 45856.677978515625ms
+
+Amostra: 318
+TempoDecorrido: 98.865966796875ms
+TempoTotal: 46005.928466796875ms
+
+Amostra: 319
+TempoDecorrido: 101.958740234375ms
+TempoTotal: 46158.280517578125ms
+
+Amostra: 320
+TempoDecorrido: 109.810546875ms
+TempoTotal: 46318.5751953125ms
+
+Amostra: 321
+TempoDecorrido: 95.16796875ms
+TempoTotal: 46464.11669921875ms
+
+Amostra: 322
+TempoDecorrido: 93.057861328125ms
+TempoTotal: 46607.58984375ms
+
+Amostra: 323
+TempoDecorrido: 81.152099609375ms
+TempoTotal: 46739.117919921875ms
+
+Amostra: 324
+TempoDecorrido: 82.879150390625ms
+TempoTotal: 46872.416259765625ms
+
+Amostra: 325
+TempoDecorrido: 104.498291015625ms
+TempoTotal: 47027.28759765625ms
+
+Amostra: 326
+TempoDecorrido: 97.558837890625ms
+TempoTotal: 47175.228271484375ms
+
+Amostra: 327
+TempoDecorrido: 101.50048828125ms
+TempoTotal: 47327.209228515625ms
+
+Amostra: 328
+TempoDecorrido: 78.158447265625ms
+TempoTotal: 47455.85400390625ms
+
+Amostra: 329
+TempoDecorrido: 82.77197265625ms
+TempoTotal: 47589.04150390625ms
+
+Amostra: 330
+TempoDecorrido: 104.431396484375ms
+TempoTotal: 47743.86669921875ms
+
+Amostra: 331
+TempoDecorrido: 89.107177734375ms
+TempoTotal: 47883.41650390625ms
+
+Amostra: 332
+TempoDecorrido: 80.278076171875ms
+TempoTotal: 48014.080322265625ms
+
+Amostra: 333
+TempoDecorrido: 96.080322265625ms
+TempoTotal: 48160.55322265625ms
+
+Amostra: 334
+TempoDecorrido: 90.701904296875ms
+TempoTotal: 48301.6572265625ms
+
+Amostra: 335
+TempoDecorrido: 92.287353515625ms
+TempoTotal: 48444.321533203125ms
+
+Amostra: 336
+TempoDecorrido: 77.93359375ms
+TempoTotal: 48572.679443359375ms
+
+Amostra: 337
+TempoDecorrido: 91.53173828125ms
+TempoTotal: 48714.6005859375ms
+
+Amostra: 338
+TempoDecorrido: 103.388671875ms
+TempoTotal: 48868.34130859375ms
+
+Amostra: 339
+TempoDecorrido: 123.56591796875ms
+TempoTotal: 49042.297119140625ms
+
+Amostra: 340
+TempoDecorrido: 101.367431640625ms
+TempoTotal: 49194.08740234375ms
+
+Amostra: 341
+TempoDecorrido: 99.956787109375ms
+TempoTotal: 49344.47900390625ms
+
+Amostra: 342
+TempoDecorrido: 78.099609375ms
+TempoTotal: 49473.024658203125ms
+
+Amostra: 343
+TempoDecorrido: 87.739990234375ms
+TempoTotal: 49611.18310546875ms
+
+Amostra: 344
+TempoDecorrido: 77.588134765625ms
+TempoTotal: 49739.25ms
+
+Amostra: 345
+TempoDecorrido: 93.855224609375ms
+TempoTotal: 49883.4912109375ms
+
+Amostra: 346
+TempoDecorrido: 88.2392578125ms
+TempoTotal: 50022.107177734375ms
+
+Amostra: 347
+TempoDecorrido: 100.552978515625ms
+TempoTotal: 50172.978271484375ms
+
+Amostra: 348
+TempoDecorrido: 98.946533203125ms
+TempoTotal: 50322.28271484375ms
+
+Amostra: 349
+TempoDecorrido: 99.647216796875ms
+TempoTotal: 50472.25732421875ms
+
+Amostra: 350
+TempoDecorrido: 100.755615234375ms
+TempoTotal: 50623.360595703125ms
+
+Amostra: 351
+TempoDecorrido: 98.666015625ms
+TempoTotal: 50772.38037109375ms
+
+Amostra: 352
+TempoDecorrido: 100.272216796875ms
+TempoTotal: 50923.015625ms
+
+Amostra: 353
+TempoDecorrido: 99.982177734375ms
+TempoTotal: 51073.36279296875ms
+
+Amostra: 354
+TempoDecorrido: 99.329833984375ms
+TempoTotal: 51223.075927734375ms
+
+Amostra: 355
+TempoDecorrido: 92.003662109375ms
+TempoTotal: 51365.475830078125ms
+
+Amostra: 356
+TempoDecorrido: 100.968017578125ms
+TempoTotal: 51516.869873046875ms
+
+Amostra: 357
+TempoDecorrido: 88.49755859375ms
+TempoTotal: 51655.739990234375ms
+
+Amostra: 358
+TempoDecorrido: 94.628662109375ms
+TempoTotal: 51800.776611328125ms
+
+Amostra: 359
+TempoDecorrido: 93.349853515625ms
+TempoTotal: 51944.5146484375ms
+
+Amostra: 360
+TempoDecorrido: 77.518798828125ms
+TempoTotal: 52072.460693359375ms
+
+Amostra: 361
+TempoDecorrido: 83.219482421875ms
+TempoTotal: 52206.06396484375ms
+
+Amostra: 362
+TempoDecorrido: 91.390380859375ms
+TempoTotal: 52347.8486328125ms
+
+Amostra: 363
+TempoDecorrido: 103.731689453125ms
+TempoTotal: 52501.972900390625ms
+
+Amostra: 364
+TempoDecorrido: 99.67724609375ms
+TempoTotal: 52652.037353515625ms
+
+Amostra: 365
+TempoDecorrido: 86.76513671875ms
+TempoTotal: 52789.201904296875ms
+
+Amostra: 366
+TempoDecorrido: 83.41943359375ms
+TempoTotal: 52923.01318359375ms
+
+Amostra: 367
+TempoDecorrido: 82.409912109375ms
+TempoTotal: 53055.815673828125ms
+
+Amostra: 368
+TempoDecorrido: 82.765380859375ms
+TempoTotal: 53188.9599609375ms
+
+Amostra: 369
+TempoDecorrido: 93.844482421875ms
+TempoTotal: 53333.18896484375ms
+
+Amostra: 370
+TempoDecorrido: 89.07763671875ms
+TempoTotal: 53472.62890625ms
+
+Amostra: 371
+TempoDecorrido: 93.213623046875ms
+TempoTotal: 53616.2392578125ms
+
+Amostra: 372
+TempoDecorrido: 89.16455078125ms
+TempoTotal: 53755.80615234375ms
+
+Amostra: 373
+TempoDecorrido: 103.5478515625ms
+TempoTotal: 53909.78955078125ms
+
+Amostra: 374
+TempoDecorrido: 96.052734375ms
+TempoTotal: 54056.230224609375ms
+
+Amostra: 375
+TempoDecorrido: 90.5595703125ms
+TempoTotal: 54197.20361328125ms
+
+Amostra: 376
+TempoDecorrido: 91.32861328125ms
+TempoTotal: 54338.983154296875ms
+
+Amostra: 377
+TempoDecorrido: 91.405517578125ms
+TempoTotal: 54480.78662109375ms
+
+Amostra: 378
+TempoDecorrido: 91.210205078125ms
+TempoTotal: 54622.381103515625ms
+
+Amostra: 379
+TempoDecorrido: 91.09326171875ms
+TempoTotal: 54763.847412109375ms
+
+Amostra: 380
+TempoDecorrido: 91.136474609375ms
+TempoTotal: 54905.40478515625ms
+
+Amostra: 381
+TempoDecorrido: 91.387939453125ms
+TempoTotal: 55047.19677734375ms
+
+Amostra: 382
+TempoDecorrido: 91.296142578125ms
+TempoTotal: 55188.92236328125ms
+
+Amostra: 383
+TempoDecorrido: 104.318115234375ms
+TempoTotal: 55343.603759765625ms
+
+Amostra: 384
+TempoDecorrido: 89.853271484375ms
+TempoTotal: 55483.840087890625ms
+
+Amostra: 385
+TempoDecorrido: 91.09619140625ms
+TempoTotal: 55625.34912109375ms
+
+Amostra: 386
+TempoDecorrido: 93.343505859375ms
+TempoTotal: 55769.114990234375ms
+
+Amostra: 387
+TempoDecorrido: 91.40966796875ms
+TempoTotal: 55910.969970703125ms
+
+Amostra: 388
+TempoDecorrido: 77.471923828125ms
+TempoTotal: 56038.85595703125ms
+
+Amostra: 389
+TempoDecorrido: 93.0498046875ms
+TempoTotal: 56182.290283203125ms
+
+Amostra: 390
+TempoDecorrido: 89.228515625ms
+TempoTotal: 56321.93701171875ms
+
+Amostra: 391
+TempoDecorrido: 99.50390625ms
+TempoTotal: 56471.761474609375ms
+
+Amostra: 392
+TempoDecorrido: 100.04345703125ms
+TempoTotal: 56622.124267578125ms
+
+Amostra: 393
+TempoDecorrido: 110.350341796875ms
+TempoTotal: 56782.82763671875ms
+
+Amostra: 394
+TempoDecorrido: 97.130126953125ms
+TempoTotal: 56930.33740234375ms
+
+Amostra: 395
+TempoDecorrido: 99.53076171875ms
+TempoTotal: 57080.236328125ms
+
+Amostra: 396
+TempoDecorrido: 110.7578125ms
+TempoTotal: 57241.334716796875ms
+
+Amostra: 397
+TempoDecorrido: 108.8642578125ms
+TempoTotal: 57400.560791015625ms
+
+Amostra: 398
+TempoDecorrido: 99.185791015625ms
+TempoTotal: 57550.11328125ms
+
+Amostra: 399
+TempoDecorrido: 89.494384765625ms
+TempoTotal: 57690.065673828125ms
+
+Amostra: 400
+TempoDecorrido: 86.576904296875ms
+TempoTotal: 57827.084228515625ms
+
+Amostra: 401
+TempoDecorrido: 77.74462890625ms
+TempoTotal: 57955.32568359375ms
+
+Amostra: 402
+TempoDecorrido: 82.65283203125ms
+TempoTotal: 58088.421630859375ms
+
+Amostra: 403
+TempoDecorrido: 104.429443359375ms
+TempoTotal: 58243.225830078125ms
+
+Amostra: 404
+TempoDecorrido: 98.133056640625ms
+TempoTotal: 58391.730712890625ms
+
+Amostra: 405
+TempoDecorrido: 87.96142578125ms
+TempoTotal: 58530.06787109375ms
+
+Amostra: 406
+TempoDecorrido: 99.5146484375ms
+TempoTotal: 58679.910400390625ms
+
+Amostra: 407
+TempoDecorrido: 112.848876953125ms
+TempoTotal: 58843.108642578125ms
+
+Amostra: 408
+TempoDecorrido: 95.863037109375ms
+TempoTotal: 58989.358642578125ms
+
+Amostra: 409
+TempoDecorrido: 103.31396484375ms
+TempoTotal: 59143.06640625ms
+
+Amostra: 410
+TempoDecorrido: 97.795654296875ms
+TempoTotal: 59291.24658203125ms
+
+Amostra: 411
+TempoDecorrido: 89.12451171875ms
+TempoTotal: 59430.751220703125ms
+
+Amostra: 412
+TempoDecorrido: 82.04443359375ms
+TempoTotal: 59563.187744140625ms
+
+Amostra: 413
+TempoDecorrido: 96.564453125ms
+TempoTotal: 59710.14794921875ms
+
+Amostra: 414
+TempoDecorrido: 91.379638671875ms
+TempoTotal: 59851.94873046875ms
+
+Amostra: 415
+TempoDecorrido: 90.9208984375ms
+TempoTotal: 59993.29736328125ms
+
+Amostra: 416
+TempoDecorrido: 88.531005859375ms
+TempoTotal: 60132.24560546875ms
+
+Amostra: 417
+TempoDecorrido: 101.447265625ms
+TempoTotal: 60284.080810546875ms
+
+Amostra: 418
+TempoDecorrido: 108.377197265625ms
+TempoTotal: 60442.863525390625ms
+
+Amostra: 419
+TempoDecorrido: 95.4296875ms
+TempoTotal: 60588.671142578125ms
+
+Amostra: 420
+TempoDecorrido: 90.58154296875ms
+TempoTotal: 60729.6015625ms
+
+Amostra: 421
+TempoDecorrido: 91.1904296875ms
+TempoTotal: 60871.18701171875ms
+
+Amostra: 422
+TempoDecorrido: 91.3359375ms
+TempoTotal: 61012.91650390625ms
+
+Amostra: 423
+TempoDecorrido: 91.445556640625ms
+TempoTotal: 61154.740478515625ms
+
+Amostra: 424
+TempoDecorrido: 102.8779296875ms
+TempoTotal: 61307.974609375ms
+
+Amostra: 425
+TempoDecorrido: 96.11328125ms
+TempoTotal: 61454.4638671875ms
+
+Amostra: 426
+TempoDecorrido: 103.32470703125ms
+TempoTotal: 61608.129638671875ms
+
+Amostra: 427
+TempoDecorrido: 101.065185546875ms
+TempoTotal: 61759.60400390625ms
+
+Amostra: 428
+TempoDecorrido: 99.497314453125ms
+TempoTotal: 61909.611328125ms
+
+Amostra: 429
+TempoDecorrido: 86.93798828125ms
+TempoTotal: 62047.013916015625ms
+
+Amostra: 430
+TempoDecorrido: 86.80029296875ms
+TempoTotal: 62184.2685546875ms
+
+Amostra: 431
+TempoDecorrido: 91.46435546875ms
+TempoTotal: 62326.236083984375ms
+
+Amostra: 432
+TempoDecorrido: 77.455322265625ms
+TempoTotal: 62454.12646484375ms
+
+Amostra: 433
+TempoDecorrido: 93.310546875ms
+TempoTotal: 62597.908203125ms
+
+Amostra: 434
+TempoDecorrido: 102.215087890625ms
+TempoTotal: 62750.517578125ms
+
+Amostra: 435
+TempoDecorrido: 97.86328125ms
+TempoTotal: 62898.76806640625ms
+
+Amostra: 436
+TempoDecorrido: 99.517578125ms
+TempoTotal: 63048.740478515625ms
+
+Amostra: 437
+TempoDecorrido: 99.785888671875ms
+TempoTotal: 63198.91064453125ms
+
+Amostra: 438
+TempoDecorrido: 88.65478515625ms
+TempoTotal: 63337.9462890625ms
+
+Amostra: 439
+TempoDecorrido: 98.36669921875ms
+TempoTotal: 63486.643798828125ms
+
+Amostra: 440
+TempoDecorrido: 99.9775390625ms
+TempoTotal: 63636.95166015625ms
+
+Amostra: 441
+TempoDecorrido: 111.360107421875ms
+TempoTotal: 63798.6640625ms
+
+Amostra: 442
+TempoDecorrido: 105.124755859375ms
+TempoTotal: 63954.13671875ms
+
+Amostra: 443
+TempoDecorrido: 107.98046875ms
+TempoTotal: 64112.43994140625ms
+
+Amostra: 444
+TempoDecorrido: 107.377685546875ms
+TempoTotal: 64270.150390625ms
+
+Amostra: 445
+TempoDecorrido: 108.397705078125ms
+TempoTotal: 64428.869873046875ms
+
+Amostra: 446
+TempoDecorrido: 107.704345703125ms
+TempoTotal: 64587.058349609375ms
+
+Amostra: 447
+TempoDecorrido: 110.477294921875ms
+TempoTotal: 64748.042724609375ms
+
+Amostra: 448
+TempoDecorrido: 99.724853515625ms
+TempoTotal: 64898.27099609375ms
+
+Amostra: 449
+TempoDecorrido: 88.916748046875ms
+TempoTotal: 65037.66064453125ms
+
+Amostra: 450
+TempoDecorrido: 82.36181640625ms
+TempoTotal: 65170.483642578125ms
+
+Amostra: 451
+TempoDecorrido: 83.95703125ms
+TempoTotal: 65304.9072265625ms
+
+Amostra: 452
+TempoDecorrido: 80.7939453125ms
+TempoTotal: 65436.125244140625ms
+
+Amostra: 453
+TempoDecorrido: 104.376220703125ms
+TempoTotal: 65590.94311523438ms
+
+Amostra: 454
+TempoDecorrido: 99.42236328125ms
+TempoTotal: 65740.78930664062ms
+
+Amostra: 455
+TempoDecorrido: 100.239501953125ms
+TempoTotal: 65891.435546875ms
+
+Amostra: 456
+TempoDecorrido: 97.907958984375ms
+TempoTotal: 66039.783203125ms
+
+Amostra: 457
+TempoDecorrido: 88.007080078125ms
+TempoTotal: 66178.2431640625ms
+
+Amostra: 458
+TempoDecorrido: 95.739990234375ms
+TempoTotal: 66324.4375ms
+
+Amostra: 459
+TempoDecorrido: 86.887939453125ms
+TempoTotal: 66461.7822265625ms
+
+Amostra: 460
+TempoDecorrido: 85.7880859375ms
+TempoTotal: 66598.00024414062ms
+
+Amostra: 461
+TempoDecorrido: 89.752685546875ms
+TempoTotal: 66738.18872070312ms
+
+Amostra: 462
+TempoDecorrido: 88.524169921875ms
+TempoTotal: 66877.11059570312ms
+
+Amostra: 463
+TempoDecorrido: 91.45947265625ms
+TempoTotal: 67018.990234375ms
+
+Amostra: 464
+TempoDecorrido: 91.531982421875ms
+TempoTotal: 67160.9296875ms
+
+Amostra: 465
+TempoDecorrido: 92.2294921875ms
+TempoTotal: 67303.552734375ms
+
+Amostra: 466
+TempoDecorrido: 93.092529296875ms
+TempoTotal: 67447.0869140625ms
+
+Amostra: 467
+TempoDecorrido: 89.114501953125ms
+TempoTotal: 67586.65112304688ms
+
+Amostra: 468
+TempoDecorrido: 90.80517578125ms
+TempoTotal: 67727.9013671875ms
+
+Amostra: 469
+TempoDecorrido: 89.951904296875ms
+TempoTotal: 67868.26245117188ms
+
+Amostra: 470
+TempoDecorrido: 92.792236328125ms
+TempoTotal: 68011.4794921875ms
+
+Amostra: 471
+TempoDecorrido: 93.216064453125ms
+TempoTotal: 68155.14111328125ms
+
+Amostra: 472
+TempoDecorrido: 87.941650390625ms
+TempoTotal: 68293.51635742188ms
+
+Amostra: 473
+TempoDecorrido: 94.25ms
+TempoTotal: 68438.20703125ms
+
+Amostra: 474
+TempoDecorrido: 101.162841796875ms
+TempoTotal: 68589.79833984375ms
+
+Amostra: 475
+TempoDecorrido: 96.932861328125ms
+TempoTotal: 68737.18359375ms
+
+Amostra: 476
+TempoDecorrido: 89.84765625ms
+TempoTotal: 68877.4716796875ms
+
+Amostra: 477
+TempoDecorrido: 82.079345703125ms
+TempoTotal: 69010.00854492188ms
+
+Amostra: 478
+TempoDecorrido: 94.002685546875ms
+TempoTotal: 69154.45703125ms
+
+Amostra: 479
+TempoDecorrido: 101.19189453125ms
+TempoTotal: 69306.06884765625ms
+
+Amostra: 480
+TempoDecorrido: 95.826171875ms
+TempoTotal: 69452.333984375ms
+
+Amostra: 481
+TempoDecorrido: 100.053466796875ms
+TempoTotal: 69602.81713867188ms
+
+Amostra: 482
+TempoDecorrido: 97.8388671875ms
+TempoTotal: 69751.15356445312ms
+
+Amostra: 483
+TempoDecorrido: 99.393798828125ms
+TempoTotal: 69901.0458984375ms
+
+Amostra: 484
+TempoDecorrido: 104.14794921875ms
+TempoTotal: 70055.70532226562ms
+
+Amostra: 485
+TempoDecorrido: 107.5439453125ms
+TempoTotal: 70213.7373046875ms
+
+Amostra: 486
+TempoDecorrido: 96.658203125ms
+TempoTotal: 70360.84741210938ms
+
+Amostra: 487
+TempoDecorrido: 102.218505859375ms
+TempoTotal: 70513.55859375ms
+
+Amostra: 488
+TempoDecorrido: 86.242431640625ms
+TempoTotal: 70650.25903320312ms
+
+Amostra: 489
+TempoDecorrido: 95.0078125ms
+TempoTotal: 70795.7568359375ms
+
+Amostra: 490
+TempoDecorrido: 88.531005859375ms
+TempoTotal: 70934.74340820312ms
+
+Amostra: 491
+TempoDecorrido: 94.07080078125ms
+TempoTotal: 71079.25390625ms
+
+Amostra: 492
+TempoDecorrido: 86.8525390625ms
+TempoTotal: 71216.55883789062ms
+
+Amostra: 493
+TempoDecorrido: 95.801513671875ms
+TempoTotal: 71362.81787109375ms
+
+Amostra: 494
+TempoDecorrido: 99.63916015625ms
+TempoTotal: 71512.90014648438ms
+
+Amostra: 495
+TempoDecorrido: 86.881103515625ms
+TempoTotal: 71650.22607421875ms
+
+Amostra: 496
+TempoDecorrido: 82.13623046875ms
+TempoTotal: 71782.7900390625ms
+
+Amostra: 497
+TempoDecorrido: 82.643798828125ms
+TempoTotal: 71915.88330078125ms
+
+Amostra: 498
+TempoDecorrido: 82.294677734375ms
+TempoTotal: 72048.6005859375ms
+
+Amostra: 499
+TempoDecorrido: 91.6220703125ms
+TempoTotal: 72190.6220703125ms
+
+Amostra: 500
+TempoDecorrido: 110.63623046875ms
+TempoTotal: 72351.66625976562ms
+
+Amostra: 501
+TempoDecorrido: 106.9970703125ms
+TempoTotal: 72509.06298828125ms
+
+Amostra: 502
+TempoDecorrido: 108.573486328125ms
+TempoTotal: 72668.00146484375ms
+
+Amostra: 503
+TempoDecorrido: 108.86279296875ms
+TempoTotal: 72827.27661132812ms
+
+Amostra: 504
+TempoDecorrido: 108.812744140625ms
+TempoTotal: 72986.5439453125ms
+
+Amostra: 505
+TempoDecorrido: 104.8330078125ms
+TempoTotal: 73141.845703125ms
+
+Amostra: 506
+TempoDecorrido: 108.119873046875ms
+TempoTotal: 73300.48510742188ms
+
+Amostra: 507
+TempoDecorrido: 108.356689453125ms
+TempoTotal: 73459.328125ms
+
+Amostra: 508
+TempoDecorrido: 105.83056640625ms
+TempoTotal: 73615.61474609375ms
+
+Amostra: 509
+TempoDecorrido: 89.95751953125ms
+TempoTotal: 73756.03857421875ms
+
+Amostra: 510
+TempoDecorrido: 83.569580078125ms
+TempoTotal: 73890.06372070312ms
+
+Amostra: 511
+TempoDecorrido: 82.7021484375ms
+TempoTotal: 74023.22338867188ms
+
+Amostra: 512
+TempoDecorrido: 81.442138671875ms
+TempoTotal: 74155.08422851562ms
+
+Amostra: 513
+TempoDecorrido: 91.129150390625ms
+TempoTotal: 74296.5966796875ms
+
+Amostra: 514
+TempoDecorrido: 102.763427734375ms
+TempoTotal: 74449.75390625ms
+
+Amostra: 515
+TempoDecorrido: 96.970458984375ms
+TempoTotal: 74597.095703125ms
+
+Amostra: 516
+TempoDecorrido: 103.77392578125ms
+TempoTotal: 74751.25073242188ms
+
+Amostra: 517
+TempoDecorrido: 99.23974609375ms
+TempoTotal: 74900.91064453125ms
+
+Amostra: 518
+TempoDecorrido: 98.345703125ms
+TempoTotal: 75049.71533203125ms
+
+Amostra: 519
+TempoDecorrido: 87.64208984375ms
+TempoTotal: 75187.80932617188ms
+
+Amostra: 520
+TempoDecorrido: 93.26806640625ms
+TempoTotal: 75331.56176757812ms
+
+Amostra: 521
+TempoDecorrido: 88.940673828125ms
+TempoTotal: 75470.99243164062ms
+
+Amostra: 522
+TempoDecorrido: 95.49853515625ms
+TempoTotal: 75616.94091796875ms
+
+Amostra: 523
+TempoDecorrido: 89.469970703125ms
+TempoTotal: 75756.87426757812ms
+
+Amostra: 524
+TempoDecorrido: 92.25244140625ms
+TempoTotal: 75899.568359375ms
+
+Amostra: 525
+TempoDecorrido: 89.136474609375ms
+TempoTotal: 76039.14501953125ms
+
+Amostra: 526
+TempoDecorrido: 79.971435546875ms
+TempoTotal: 76169.52587890625ms
+
+Amostra: 527
+TempoDecorrido: 91.20166015625ms
+TempoTotal: 76311.19921875ms
+
+Amostra: 528
+TempoDecorrido: 104.091796875ms
+TempoTotal: 76465.677734375ms
+
+Amostra: 529
+TempoDecorrido: 97.31298828125ms
+TempoTotal: 76613.37451171875ms
+
+Amostra: 530
+TempoDecorrido: 101.91845703125ms
+TempoTotal: 76765.72705078125ms
+
+Amostra: 531
+TempoDecorrido: 96.972900390625ms
+TempoTotal: 76913.12719726562ms
+
+Amostra: 532
+TempoDecorrido: 89.962646484375ms
+TempoTotal: 77053.53344726562ms
+
+Amostra: 533
+TempoDecorrido: 92.94384765625ms
+TempoTotal: 77196.90942382812ms
+
+Amostra: 534
+TempoDecorrido: 92.408203125ms
+TempoTotal: 77339.79174804688ms
+
+Amostra: 535
+TempoDecorrido: 91.598876953125ms
+TempoTotal: 77481.84423828125ms
+
+Amostra: 536
+TempoDecorrido: 88.075927734375ms
+TempoTotal: 77620.37475585938ms
+
+Amostra: 537
+TempoDecorrido: 93.8662109375ms
+TempoTotal: 77764.7373046875ms
+
+Amostra: 538
+TempoDecorrido: 79.12451171875ms
+TempoTotal: 77894.30249023438ms
+
+Amostra: 539
+TempoDecorrido: 102.674072265625ms
+TempoTotal: 78047.388671875ms
+
+Amostra: 540
+TempoDecorrido: 97.90087890625ms
+TempoTotal: 78195.70581054688ms
+
+Amostra: 541
+TempoDecorrido: 90.295654296875ms
+TempoTotal: 78336.42724609375ms
+
+Amostra: 542
+TempoDecorrido: 88.84033203125ms
+TempoTotal: 78475.67163085938ms
+
+Amostra: 543
+TempoDecorrido: 90.77685546875ms
+TempoTotal: 78616.84521484375ms
+
+Amostra: 544
+TempoDecorrido: 91.611328125ms
+TempoTotal: 78758.86157226562ms
+
+Amostra: 545
+TempoDecorrido: 90.630615234375ms
+TempoTotal: 78899.88110351562ms
+
+Amostra: 546
+TempoDecorrido: 91.493408203125ms
+TempoTotal: 79041.78295898438ms
+
+Amostra: 547
+TempoDecorrido: 86.93310546875ms
+TempoTotal: 79179.11767578125ms
+
+Amostra: 548
+TempoDecorrido: 95.605712890625ms
+TempoTotal: 79325.09692382812ms
+
+Amostra: 549
+TempoDecorrido: 91.113037109375ms
+TempoTotal: 79466.62646484375ms
+
+Amostra: 550
+TempoDecorrido: 91.801025390625ms
+TempoTotal: 79608.85302734375ms
+
+Amostra: 551
+TempoDecorrido: 103.230712890625ms
+TempoTotal: 79762.5439453125ms
+
+Amostra: 552
+TempoDecorrido: 94.5400390625ms
+TempoTotal: 79907.529296875ms
+
+Amostra: 553
+TempoDecorrido: 104.17431640625ms
+TempoTotal: 80062.15234375ms
+
+Amostra: 554
+TempoDecorrido: 94.764892578125ms
+TempoTotal: 80207.357421875ms
+
+Amostra: 555
+TempoDecorrido: 91.286376953125ms
+TempoTotal: 80349.10327148438ms
+
+Amostra: 556
+TempoDecorrido: 90.66259765625ms
+TempoTotal: 80490.232421875ms
+
+Amostra: 557
+TempoDecorrido: 95.752197265625ms
+TempoTotal: 80636.42431640625ms
+
+Amostra: 558
+TempoDecorrido: 87.64111328125ms
+TempoTotal: 80774.55615234375ms
+
+Amostra: 559
+TempoDecorrido: 84.689453125ms
+TempoTotal: 80909.68310546875ms
+
+Amostra: 560
+TempoDecorrido: 90.43798828125ms
+TempoTotal: 81050.560546875ms
+
+Amostra: 561
+TempoDecorrido: 88.18798828125ms
+TempoTotal: 81189.15600585938ms
+
+Amostra: 562
+TempoDecorrido: 104.883056640625ms
+TempoTotal: 81344.44287109375ms
+
+Amostra: 563
+TempoDecorrido: 99.192626953125ms
+TempoTotal: 81494.08227539062ms
+
+Amostra: 564
+TempoDecorrido: 97.819580078125ms
+TempoTotal: 81642.3525390625ms
+
+Amostra: 565
+TempoDecorrido: 87.841064453125ms
+TempoTotal: 81780.6337890625ms
+
+Amostra: 566
+TempoDecorrido: 96.018798828125ms
+TempoTotal: 81927.09326171875ms
+
+Amostra: 567
+TempoDecorrido: 89.22998046875ms
+TempoTotal: 82066.7763671875ms
+
+Amostra: 568
+TempoDecorrido: 91.990234375ms
+TempoTotal: 82209.19970703125ms
+
+Amostra: 569
+TempoDecorrido: 82.680419921875ms
+TempoTotal: 82342.31860351562ms
+
+Amostra: 570
+TempoDecorrido: 100.29443359375ms
+TempoTotal: 82493.00561523438ms
+
+Amostra: 571
+TempoDecorrido: 99.583984375ms
+TempoTotal: 82643.0107421875ms
+
+Amostra: 572
+TempoDecorrido: 96.955322265625ms
+TempoTotal: 82790.44116210938ms
+
+Amostra: 573
+TempoDecorrido: 89.70703125ms
+TempoTotal: 82930.59887695312ms
+
+Amostra: 574
+TempoDecorrido: 94.125244140625ms
+TempoTotal: 83075.18139648438ms
+
+Amostra: 575
+TempoDecorrido: 90.361328125ms
+TempoTotal: 83216.08081054688ms
+
+Amostra: 576
+TempoDecorrido: 90.48291015625ms
+TempoTotal: 83357.02099609375ms
+
+Amostra: 577
+TempoDecorrido: 79.270751953125ms
+TempoTotal: 83486.736328125ms
+
+Amostra: 578
+TempoDecorrido: 93.429443359375ms
+TempoTotal: 83630.59106445312ms
+
+Amostra: 579
+TempoDecorrido: 101.6513671875ms
+TempoTotal: 83782.6953125ms
+
+Amostra: 580
+TempoDecorrido: 99.35400390625ms
+TempoTotal: 83932.44555664062ms
+
+Amostra: 581
+TempoDecorrido: 87.915771484375ms
+TempoTotal: 84070.85009765625ms
+
+Amostra: 582
+TempoDecorrido: 92.33447265625ms
+TempoTotal: 84213.62109375ms
+
+Amostra: 583
+TempoDecorrido: 102.074462890625ms
+TempoTotal: 84366.125ms
+
+Amostra: 584
+TempoDecorrido: 97.085205078125ms
+TempoTotal: 84513.64038085938ms
+
+Amostra: 585
+TempoDecorrido: 98.422607421875ms
+TempoTotal: 84662.51440429688ms
+
+Amostra: 586
+TempoDecorrido: 102.548095703125ms
+TempoTotal: 84815.51220703125ms
+
+Amostra: 587
+TempoDecorrido: 107.758544921875ms
+TempoTotal: 84973.71728515625ms
+
+Amostra: 588
+TempoDecorrido: 95.391845703125ms
+TempoTotal: 85119.57641601562ms
+
+Amostra: 589
+TempoDecorrido: 82.207763671875ms
+TempoTotal: 85252.2451171875ms
+
+Amostra: 590
+TempoDecorrido: 74.3720703125ms
+TempoTotal: 85377.0615234375ms
+
+Amostra: 591
+TempoDecorrido: 95.284912109375ms
+TempoTotal: 85522.77734375ms
+
+Amostra: 592
+TempoDecorrido: 107.22998046875ms
+TempoTotal: 85680.4638671875ms
+
+Amostra: 593
+TempoDecorrido: 86.955078125ms
+TempoTotal: 85817.84741210938ms
+
+Amostra: 594
+TempoDecorrido: 102.787109375ms
+TempoTotal: 85971.0380859375ms
+
+Amostra: 595
+TempoDecorrido: 96.00732421875ms
+TempoTotal: 86117.42456054688ms
+
+Amostra: 596
+TempoDecorrido: 99.693359375ms
+TempoTotal: 86267.51538085938ms
+
+Amostra: 597
+TempoDecorrido: 102.090087890625ms
+TempoTotal: 86419.99829101562ms
+
+Amostra: 598
+TempoDecorrido: 89.044921875ms
+TempoTotal: 86559.4833984375ms
+
+Amostra: 599
+TempoDecorrido: 90.9775390625ms
+TempoTotal: 86700.90576171875ms
+
+Amostra: 600
+TempoDecorrido: 94.031005859375ms
+TempoTotal: 86845.37939453125ms
+
+Amostra: 601
+TempoDecorrido: 101.24951171875ms
+TempoTotal: 86997.12866210938ms
+
+Amostra: 602
+TempoDecorrido: 86.431396484375ms
+TempoTotal: 87134.015625ms
+
+Amostra: 603
+TempoDecorrido: 83.43798828125ms
+TempoTotal: 87267.900390625ms
+
+Amostra: 604
+TempoDecorrido: 81.330810546875ms
+TempoTotal: 87399.66674804688ms
+
+Amostra: 605
+TempoDecorrido: 94.20458984375ms
+TempoTotal: 87544.27758789062ms
+
+Amostra: 606
+TempoDecorrido: 101.63916015625ms
+TempoTotal: 87696.31176757812ms
+
+Amostra: 607
+TempoDecorrido: 96.669189453125ms
+TempoTotal: 87843.40185546875ms
+
+Amostra: 608
+TempoDecorrido: 101.91357421875ms
+TempoTotal: 87995.77563476562ms
+
+Amostra: 609
+TempoDecorrido: 95.880126953125ms
+TempoTotal: 88142.10302734375ms
+
+Amostra: 610
+TempoDecorrido: 90.68896484375ms
+TempoTotal: 88283.27270507812ms
+
+Amostra: 611
+TempoDecorrido: 103.998779296875ms
+TempoTotal: 88437.71118164062ms
+
+Amostra: 612
+TempoDecorrido: 99.546875ms
+TempoTotal: 88587.72412109375ms
+
+Amostra: 613
+TempoDecorrido: 99.173828125ms
+TempoTotal: 88737.35693359375ms
+
+Amostra: 614
+TempoDecorrido: 88.998779296875ms
+TempoTotal: 88876.81127929688ms
+
+Amostra: 615
+TempoDecorrido: 93.198486328125ms
+TempoTotal: 89020.45166015625ms
+
+Amostra: 616
+TempoDecorrido: 87.684814453125ms
+TempoTotal: 89158.58056640625ms
+
+Amostra: 617
+TempoDecorrido: 91.3779296875ms
+TempoTotal: 89300.39135742188ms
+
+Amostra: 618
+TempoDecorrido: 88.83544921875ms
+TempoTotal: 89439.64868164062ms
+
+Amostra: 619
+TempoDecorrido: 91.74609375ms
+TempoTotal: 89581.7763671875ms
+
+Amostra: 620
+TempoDecorrido: 90.7001953125ms
+TempoTotal: 89722.87036132812ms
+
+Amostra: 621
+TempoDecorrido: 87.31298828125ms
+TempoTotal: 89860.58227539062ms
+
+Amostra: 622
+TempoDecorrido: 87.2373046875ms
+TempoTotal: 89998.26586914062ms
+
+Amostra: 623
+TempoDecorrido: 93.743408203125ms
+TempoTotal: 90142.458984375ms
+
+Amostra: 624
+TempoDecorrido: 88.465087890625ms
+TempoTotal: 90281.3603515625ms
+
+Amostra: 625
+TempoDecorrido: 91.021240234375ms
+TempoTotal: 90422.79272460938ms
+
+Amostra: 626
+TempoDecorrido: 92.159912109375ms
+TempoTotal: 90565.40161132812ms
+
+Amostra: 627
+TempoDecorrido: 103.0908203125ms
+TempoTotal: 90718.98510742188ms
+
+Amostra: 628
+TempoDecorrido: 99.243896484375ms
+TempoTotal: 90868.71313476562ms
+
+Amostra: 629
+TempoDecorrido: 91.091796875ms
+TempoTotal: 91010.30639648438ms
+
+Amostra: 630
+TempoDecorrido: 78.140869140625ms
+TempoTotal: 91138.91528320312ms
+
+Amostra: 631
+TempoDecorrido: 82.185302734375ms
+TempoTotal: 91271.5380859375ms
+
+Amostra: 632
+TempoDecorrido: 91.01806640625ms
+TempoTotal: 91412.94653320312ms
+
+Amostra: 633
+TempoDecorrido: 100.22900390625ms
+TempoTotal: 91563.5849609375ms
+
+Amostra: 634
+TempoDecorrido: 98.84033203125ms
+TempoTotal: 91712.81030273438ms
+
+Amostra: 635
+TempoDecorrido: 102.44970703125ms
+TempoTotal: 91865.72680664062ms
+
+Amostra: 636
+TempoDecorrido: 99.79443359375ms
+TempoTotal: 92015.93579101562ms
+
+Amostra: 637
+TempoDecorrido: 97.108154296875ms
+TempoTotal: 92163.50048828125ms
+
+Amostra: 638
+TempoDecorrido: 90.988037109375ms
+TempoTotal: 92304.94067382812ms
+
+Amostra: 639
+TempoDecorrido: 94.078857421875ms
+TempoTotal: 92449.46240234375ms
+
+Amostra: 640
+TempoDecorrido: 90.729736328125ms
+TempoTotal: 92590.64916992188ms
+
+Amostra: 641
+TempoDecorrido: 74.016357421875ms
+TempoTotal: 92715.1123046875ms
+
+Amostra: 642
+TempoDecorrido: 79.644775390625ms
+TempoTotal: 92845.1513671875ms
+
+Amostra: 643
+TempoDecorrido: 103.34619140625ms
+TempoTotal: 92998.92529296875ms
+
+Amostra: 644
+TempoDecorrido: 96.131591796875ms
+TempoTotal: 93145.43725585938ms
+
+Amostra: 645
+TempoDecorrido: 99.17919921875ms
+TempoTotal: 93295.00463867188ms
+
+Amostra: 646
+TempoDecorrido: 118.773681640625ms
+TempoTotal: 93464.13671875ms
+
+Amostra: 647
+TempoDecorrido: 97.0771484375ms
+TempoTotal: 93611.61596679688ms
+
+Amostra: 648
+TempoDecorrido: 103.308837890625ms
+TempoTotal: 93765.32788085938ms
+
+Amostra: 649
+TempoDecorrido: 97.40283203125ms
+TempoTotal: 93913.10302734375ms
+
+Amostra: 650
+TempoDecorrido: 100.780517578125ms
+TempoTotal: 94064.33447265625ms
+
+Amostra: 651
+TempoDecorrido: 99.73193359375ms
+TempoTotal: 94214.53833007812ms
+
+Amostra: 652
+TempoDecorrido: 98.86669921875ms
+TempoTotal: 94363.85620117188ms
+
+Amostra: 653
+TempoDecorrido: 100.0517578125ms
+TempoTotal: 94514.35693359375ms
+
+Amostra: 654
+TempoDecorrido: 97.27099609375ms
+TempoTotal: 94662.06079101562ms
+
+Amostra: 655
+TempoDecorrido: 90.36572265625ms
+TempoTotal: 94802.89526367188ms
+
+Amostra: 656
+TempoDecorrido: 91.255126953125ms
+TempoTotal: 94944.57739257812ms
+
+Amostra: 657
+TempoDecorrido: 94.77978515625ms
+TempoTotal: 95089.81787109375ms
+
+Amostra: 658
+TempoDecorrido: 89.9951171875ms
+TempoTotal: 95230.28393554688ms
+
+Amostra: 659
+TempoDecorrido: 84.965087890625ms
+TempoTotal: 95365.72802734375ms
+
+Amostra: 660
+TempoDecorrido: 89.03271484375ms
+TempoTotal: 95505.2177734375ms
+
+Amostra: 661
+TempoDecorrido: 88.32177734375ms
+TempoTotal: 95643.95825195312ms
+
+Amostra: 662
+TempoDecorrido: 103.790283203125ms
+TempoTotal: 95798.19311523438ms
+
+Amostra: 663
+TempoDecorrido: 99.653076171875ms
+TempoTotal: 95948.23510742188ms
+
+Amostra: 664
+TempoDecorrido: 99.57861328125ms
+TempoTotal: 96098.27514648438ms
+
+Amostra: 665
+TempoDecorrido: 98.978271484375ms
+TempoTotal: 96247.69287109375ms
+
+Amostra: 666
+TempoDecorrido: 87.22412109375ms
+TempoTotal: 96385.369140625ms
+
+Amostra: 667
+TempoDecorrido: 82.81005859375ms
+TempoTotal: 96518.64379882812ms
+
+Amostra: 668
+TempoDecorrido: 82.07470703125ms
+TempoTotal: 96651.17138671875ms
+
+Amostra: 669
+TempoDecorrido: 94.179443359375ms
+TempoTotal: 96795.763671875ms
+
+Amostra: 670
+TempoDecorrido: 88.201416015625ms
+TempoTotal: 96934.34765625ms
+
+Amostra: 671
+TempoDecorrido: 92.06689453125ms
+TempoTotal: 97076.82153320312ms
+
+Amostra: 672
+TempoDecorrido: 90.36767578125ms
+TempoTotal: 97217.58984375ms
+
+Amostra: 673
+TempoDecorrido: 92.656005859375ms
+TempoTotal: 97360.64672851562ms
+
+Amostra: 674
+TempoDecorrido: 103.52880859375ms
+TempoTotal: 97514.60327148438ms
+
+Amostra: 675
+TempoDecorrido: 97.842041015625ms
+TempoTotal: 97662.89868164062ms
+
+Amostra: 676
+TempoDecorrido: 100.78173828125ms
+TempoTotal: 97814.15795898438ms
+
+Amostra: 677
+TempoDecorrido: 99.520263671875ms
+TempoTotal: 97964.14721679688ms
+
+Amostra: 678
+TempoDecorrido: 99.3251953125ms
+TempoTotal: 98113.93725585938ms
+
+Amostra: 679
+TempoDecorrido: 99.522705078125ms
+TempoTotal: 98263.89794921875ms
+
+Amostra: 680
+TempoDecorrido: 98.0ms
+TempoTotal: 98412.369140625ms
+
+Amostra: 681
+TempoDecorrido: 87.781494140625ms
+TempoTotal: 98550.66040039062ms
+
+Amostra: 682
+TempoDecorrido: 95.840087890625ms
+TempoTotal: 98696.95581054688ms
+
+Amostra: 683
+TempoDecorrido: 87.35595703125ms
+TempoTotal: 98834.79736328125ms
+
+Amostra: 684
+TempoDecorrido: 81.244873046875ms
+TempoTotal: 98966.54174804688ms
+
+Amostra: 685
+TempoDecorrido: 94.01416015625ms
+TempoTotal: 99110.98413085938ms
+
+Amostra: 686
+TempoDecorrido: 88.554443359375ms
+TempoTotal: 99249.92651367188ms
+
+Amostra: 687
+TempoDecorrido: 90.923828125ms
+TempoTotal: 99391.26928710938ms
+
+Amostra: 688
+TempoDecorrido: 104.387939453125ms
+TempoTotal: 99546.10473632812ms
+
+Amostra: 689
+TempoDecorrido: 98.847900390625ms
+TempoTotal: 99695.43969726562ms
+
+Amostra: 690
+TempoDecorrido: 100.2314453125ms
+TempoTotal: 99846.13989257812ms
+
+Amostra: 691
+TempoDecorrido: 98.961181640625ms
+TempoTotal: 99995.56103515625ms
+
+Amostra: 692
+TempoDecorrido: 95.690185546875ms
+TempoTotal: 100141.71044921875ms
+
+Amostra: 693
+TempoDecorrido: 86.827880859375ms
+TempoTotal: 100279.046875ms
+
+Amostra: 694
+TempoDecorrido: 81.0927734375ms
+TempoTotal: 100410.5927734375ms
+
+Amostra: 695
+TempoDecorrido: 79.96435546875ms
+TempoTotal: 100540.96850585938ms
+
+Amostra: 696
+TempoDecorrido: 104.052490234375ms
+TempoTotal: 100695.431640625ms
+
+Amostra: 697
+TempoDecorrido: 90.909423828125ms
+TempoTotal: 100836.74780273438ms
+
+Amostra: 698
+TempoDecorrido: 108.897216796875ms
+TempoTotal: 100996.0478515625ms
+
+Amostra: 699
+TempoDecorrido: 99.6220703125ms
+TempoTotal: 101146.06811523438ms
+
+Amostra: 700
+TempoDecorrido: 95.919921875ms
+TempoTotal: 101292.6220703125ms
+
+Amostra: 701
+TempoDecorrido: 102.451416015625ms
+TempoTotal: 101445.55615234375ms
+
+Amostra: 702
+TempoDecorrido: 99.662109375ms
+TempoTotal: 101595.6796875ms
+
+Amostra: 703
+TempoDecorrido: 89.256103515625ms
+TempoTotal: 101735.39477539062ms
+
+Amostra: 704
+TempoDecorrido: 93.1845703125ms
+TempoTotal: 101879.05249023438ms
+
+Amostra: 705
+TempoDecorrido: 77.299072265625ms
+TempoTotal: 102006.82543945312ms
+
+Amostra: 706
+TempoDecorrido: 93.921630859375ms
+TempoTotal: 102151.1474609375ms
+
+Amostra: 707
+TempoDecorrido: 101.201416015625ms
+TempoTotal: 102302.7578125ms
+
+Amostra: 708
+TempoDecorrido: 87.1484375ms
+TempoTotal: 102440.34375ms
+
+Amostra: 709
+TempoDecorrido: 94.2314453125ms
+TempoTotal: 102585.02490234375ms
+
+Amostra: 710
+TempoDecorrido: 88.231689453125ms
+TempoTotal: 102723.68090820312ms
+
+Amostra: 711
+TempoDecorrido: 94.2119140625ms
+TempoTotal: 102868.31176757812ms
+
+Amostra: 712
+TempoDecorrido: 88.310791015625ms
+TempoTotal: 103007.07299804688ms
+
+Amostra: 713
+TempoDecorrido: 90.8291015625ms
+TempoTotal: 103148.3974609375ms
+
+Amostra: 714
+TempoDecorrido: 92.2587890625ms
+TempoTotal: 103291.1171875ms
+
+Amostra: 715
+TempoDecorrido: 103.039794921875ms
+TempoTotal: 103444.60473632812ms
+
+Amostra: 716
+TempoDecorrido: 86.3857421875ms
+TempoTotal: 103581.4384765625ms
+
+Amostra: 717
+TempoDecorrido: 94.728271484375ms
+TempoTotal: 103726.60717773438ms
+
+Amostra: 718
+TempoDecorrido: 90.207763671875ms
+TempoTotal: 103867.27270507812ms
+
+Amostra: 719
+TempoDecorrido: 91.100341796875ms
+TempoTotal: 104008.82177734375ms
+
+Amostra: 720
+TempoDecorrido: 91.197021484375ms
+TempoTotal: 104150.4384765625ms
+
+Amostra: 721
+TempoDecorrido: 89.55517578125ms
+TempoTotal: 104290.44287109375ms
+
+Amostra: 722
+TempoDecorrido: 81.246826171875ms
+TempoTotal: 104422.14526367188ms
+
+Amostra: 723
+TempoDecorrido: 82.872314453125ms
+TempoTotal: 104555.42065429688ms
+
+Amostra: 724
+TempoDecorrido: 91.01953125ms
+TempoTotal: 104696.845703125ms
+
+Amostra: 725
+TempoDecorrido: 104.356201171875ms
+TempoTotal: 104851.568359375ms
+
+Amostra: 726
+TempoDecorrido: 98.467529296875ms
+TempoTotal: 105000.4619140625ms
+
+Amostra: 727
+TempoDecorrido: 101.057373046875ms
+TempoTotal: 105151.92431640625ms
+
+Amostra: 728
+TempoDecorrido: 97.9833984375ms
+TempoTotal: 105300.35400390625ms
+
+Amostra: 729
+TempoDecorrido: 88.37060546875ms
+TempoTotal: 105439.18041992188ms
+
+Amostra: 730
+TempoDecorrido: 82.388427734375ms
+TempoTotal: 105572.0400390625ms
+
+Amostra: 731
+TempoDecorrido: 82.23046875ms
+TempoTotal: 105704.69580078125ms
+
+Amostra: 732
+TempoDecorrido: 84.523193359375ms
+TempoTotal: 105839.61059570312ms
+
+Amostra: 733
+TempoDecorrido: 102.974365234375ms
+TempoTotal: 105992.99682617188ms
+
+Amostra: 734
+TempoDecorrido: 98.770263671875ms
+TempoTotal: 106142.1396484375ms
+
+Amostra: 735
+TempoDecorrido: 99.909912109375ms
+TempoTotal: 106292.486328125ms
+
+Amostra: 736
+TempoDecorrido: 95.5791015625ms
+TempoTotal: 106438.52587890625ms
+
+Amostra: 737
+TempoDecorrido: 104.0615234375ms
+TempoTotal: 106593.07275390625ms
+
+Amostra: 738
+TempoDecorrido: 86.946044921875ms
+TempoTotal: 106730.5048828125ms
+
+Amostra: 739
+TempoDecorrido: 95.507080078125ms
+TempoTotal: 106876.4765625ms
+
+Amostra: 740
+TempoDecorrido: 99.501708984375ms
+TempoTotal: 107026.43505859375ms
+
+Amostra: 741
+TempoDecorrido: 82.5830078125ms
+TempoTotal: 107159.4833984375ms
+
+Amostra: 742
+TempoDecorrido: 87.55322265625ms
+TempoTotal: 107297.49853515625ms
+
+Amostra: 743
+TempoDecorrido: 81.002197265625ms
+TempoTotal: 107428.98706054688ms
+
+Amostra: 744
+TempoDecorrido: 93.989501953125ms
+TempoTotal: 107573.41748046875ms
+
+Amostra: 745
+TempoDecorrido: 102.4052734375ms
+TempoTotal: 107726.21508789062ms
+
+Amostra: 746
+TempoDecorrido: 85.936279296875ms
+TempoTotal: 107862.56005859375ms
+
+Amostra: 747
+TempoDecorrido: 96.21484375ms
+TempoTotal: 108009.22338867188ms
+
+Amostra: 748
+TempoDecorrido: 86.678466796875ms
+TempoTotal: 108146.35034179688ms
+
+Amostra: 749
+TempoDecorrido: 93.728271484375ms
+TempoTotal: 108290.52368164062ms
+
+Amostra: 750
+TempoDecorrido: 88.3125ms
+TempoTotal: 108429.25805664062ms
+
+Amostra: 751
+TempoDecorrido: 93.996337890625ms
+TempoTotal: 108573.67919921875ms
+
+Amostra: 752
+TempoDecorrido: 101.789794921875ms
+TempoTotal: 108725.91455078125ms
+
+Amostra: 753
+TempoDecorrido: 95.2470703125ms
+TempoTotal: 108871.59521484375ms
+
+Amostra: 754
+TempoDecorrido: 99.42529296875ms
+TempoTotal: 109021.47241210938ms
+
+Amostra: 755
+TempoDecorrido: 101.121337890625ms
+TempoTotal: 109173.111328125ms
+
+Amostra: 756
+TempoDecorrido: 100.2158203125ms
+TempoTotal: 109323.7880859375ms
+
+Amostra: 757
+TempoDecorrido: 90.146240234375ms
+TempoTotal: 109464.37231445312ms
+
+Amostra: 758
+TempoDecorrido: 93.447265625ms
+TempoTotal: 109608.28442382812ms
+
+Amostra: 759
+TempoDecorrido: 78.48095703125ms
+TempoTotal: 109737.1982421875ms
+
+Amostra: 760
+TempoDecorrido: 82.119384765625ms
+TempoTotal: 109869.75341796875ms
+
+Amostra: 761
+TempoDecorrido: 91.087890625ms
+TempoTotal: 110011.23168945312ms
+
+Amostra: 762
+TempoDecorrido: 100.6064453125ms
+TempoTotal: 110162.224609375ms
+
+Amostra: 763
+TempoDecorrido: 98.71142578125ms
+TempoTotal: 110311.32641601562ms
+
+Amostra: 764
+TempoDecorrido: 102.969970703125ms
+TempoTotal: 110464.6875ms
+
+Amostra: 765
+TempoDecorrido: 97.649169921875ms
+TempoTotal: 110612.80004882812ms
+
+Amostra: 766
+TempoDecorrido: 101.459716796875ms
+TempoTotal: 110764.69140625ms
+
+Amostra: 767
+TempoDecorrido: 98.030029296875ms
+TempoTotal: 110913.177734375ms
+
+Amostra: 768
+TempoDecorrido: 102.116943359375ms
+TempoTotal: 111065.75732421875ms
+
+Amostra: 769
+TempoDecorrido: 108.455810546875ms
+TempoTotal: 111224.66381835938ms
+
+Amostra: 770
+TempoDecorrido: 96.23583984375ms
+TempoTotal: 111371.35913085938ms
+
+Amostra: 771
+TempoDecorrido: 92.96728515625ms
+TempoTotal: 111514.76440429688ms
+
+Amostra: 772
+TempoDecorrido: 83.411376953125ms
+TempoTotal: 111648.65649414062ms
+
+Amostra: 773
+TempoDecorrido: 78.365478515625ms
+TempoTotal: 111777.46533203125ms
+
+Amostra: 774
+TempoDecorrido: 104.194580078125ms
+TempoTotal: 111932.03271484375ms
+
+Amostra: 775
+TempoDecorrido: 86.76904296875ms
+TempoTotal: 112069.19140625ms
+
+Amostra: 776
+TempoDecorrido: 91.0712890625ms
+TempoTotal: 112210.67016601562ms
+
+Amostra: 777
+TempoDecorrido: 102.34521484375ms
+TempoTotal: 112363.392578125ms
+
+Amostra: 778
+TempoDecorrido: 100.827392578125ms
+TempoTotal: 112514.62646484375ms
+
+Amostra: 779
+TempoDecorrido: 87.555419921875ms
+TempoTotal: 112652.60107421875ms
+
+Amostra: 780
+TempoDecorrido: 91.6015625ms
+TempoTotal: 112794.65942382812ms
+
+Amostra: 781
+TempoDecorrido: 91.3125ms
+TempoTotal: 112936.40942382812ms
+
+Amostra: 782
+TempoDecorrido: 90.654296875ms
+TempoTotal: 113077.49829101562ms
+
+Amostra: 783
+TempoDecorrido: 91.63134765625ms
+TempoTotal: 113219.59594726562ms
+
+Amostra: 784
+TempoDecorrido: 95.22119140625ms
+TempoTotal: 113365.23046875ms
+
+Amostra: 785
+TempoDecorrido: 99.818115234375ms
+TempoTotal: 113515.53515625ms
+
+Amostra: 786
+TempoDecorrido: 95.89697265625ms
+TempoTotal: 113661.85913085938ms
+
+Amostra: 787
+TempoDecorrido: 101.445556640625ms
+TempoTotal: 113813.75854492188ms
+
+Amostra: 788
+TempoDecorrido: 98.38623046875ms
+TempoTotal: 113962.59130859375ms
+
+Amostra: 789
+TempoDecorrido: 100.192626953125ms
+TempoTotal: 114113.27905273438ms
+
+Amostra: 790
+TempoDecorrido: 97.10302734375ms
+TempoTotal: 114260.84619140625ms
+
+Amostra: 791
+TempoDecorrido: 103.86767578125ms
+TempoTotal: 114415.205078125ms
+
+Amostra: 792
+TempoDecorrido: 107.916015625ms
+TempoTotal: 114573.62377929688ms
+
+Amostra: 793
+TempoDecorrido: 95.017333984375ms
+TempoTotal: 114719.1025390625ms
+
+Amostra: 794
+TempoDecorrido: 82.61767578125ms
+TempoTotal: 114852.20385742188ms
+
+Amostra: 795
+TempoDecorrido: 87.410888671875ms
+TempoTotal: 114990.11083984375ms
+
+Amostra: 796
+TempoDecorrido: 89.4677734375ms
+TempoTotal: 115130.07373046875ms
+
+Amostra: 797
+TempoDecorrido: 91.248779296875ms
+TempoTotal: 115271.796875ms
+
+Amostra: 798
+TempoDecorrido: 99.935546875ms
+TempoTotal: 115422.13793945312ms
+
+Amostra: 799
+TempoDecorrido: 98.50830078125ms
+TempoTotal: 115571.029296875ms
+
+Amostra: 800
+TempoDecorrido: 88.058349609375ms
+TempoTotal: 115709.49780273438ms
+
+Amostra: 801
+TempoDecorrido: 102.13037109375ms
+TempoTotal: 115862.02001953125ms
+
+Amostra: 802
+TempoDecorrido: 97.562744140625ms
+TempoTotal: 116009.9794921875ms
+
+Amostra: 803
+TempoDecorrido: 102.472900390625ms
+TempoTotal: 116162.83374023438ms
+
+Amostra: 804
+TempoDecorrido: 88.22705078125ms
+TempoTotal: 116301.51342773438ms
+
+Amostra: 805
+TempoDecorrido: 82.286865234375ms
+TempoTotal: 116434.23046875ms
+
+Amostra: 806
+TempoDecorrido: 82.966552734375ms
+TempoTotal: 116567.60107421875ms
+
+Amostra: 807
+TempoDecorrido: 91.120849609375ms
+TempoTotal: 116709.11596679688ms
+
+Amostra: 808
+TempoDecorrido: 91.05126953125ms
+TempoTotal: 116850.67456054688ms
+
+Amostra: 809
+TempoDecorrido: 91.469970703125ms
+TempoTotal: 116992.56909179688ms
+
+Amostra: 810
+TempoDecorrido: 112.6904296875ms
+TempoTotal: 117155.61791992188ms
+
+Amostra: 811
+TempoDecorrido: 107.85986328125ms
+TempoTotal: 117313.88793945312ms
+
+Amostra: 812
+TempoDecorrido: 87.066650390625ms
+TempoTotal: 117451.34838867188ms
+
+Amostra: 813
+TempoDecorrido: 91.660888671875ms
+TempoTotal: 117593.46459960938ms
+
+Amostra: 814
+TempoDecorrido: 103.65185546875ms
+TempoTotal: 117747.55346679688ms
+
+Amostra: 815
+TempoDecorrido: 107.79736328125ms
+TempoTotal: 117905.80322265625ms
+
+Amostra: 816
+TempoDecorrido: 103.02685546875ms
+TempoTotal: 118059.3330078125ms
+
+Amostra: 817
+TempoDecorrido: 112.56201171875ms
+TempoTotal: 118222.36865234375ms
+
+Amostra: 818
+TempoDecorrido: 116.177978515625ms
+TempoTotal: 118389.01904296875ms
+
+Amostra: 819
+TempoDecorrido: 116.09716796875ms
+TempoTotal: 118555.57788085938ms
+
+Amostra: 820
+TempoDecorrido: 103.1591796875ms
+TempoTotal: 118709.19604492188ms
+
+Amostra: 821
+TempoDecorrido: 112.408203125ms
+TempoTotal: 118872.07641601562ms
+
+Amostra: 822
+TempoDecorrido: 115.86181640625ms
+TempoTotal: 119038.39819335938ms
+
+Amostra: 823
+TempoDecorrido: 111.246826171875ms
+TempoTotal: 119199.96240234375ms
+
+Amostra: 824
+TempoDecorrido: 120.009033203125ms
+TempoTotal: 119370.32006835938ms
+
+Amostra: 825
+TempoDecorrido: 105.202880859375ms
+TempoTotal: 119525.89599609375ms
+
+Amostra: 826
+TempoDecorrido: 101.552490234375ms
+TempoTotal: 119677.83178710938ms
+
+Amostra: 827
+TempoDecorrido: 88.87060546875ms
+TempoTotal: 119817.12670898438ms
+
+Amostra: 828
+TempoDecorrido: 84.289306640625ms
+TempoTotal: 119951.84716796875ms
+
+Amostra: 829
+TempoDecorrido: 80.817626953125ms
+TempoTotal: 120083.12377929688ms
+
+Amostra: 830
+TempoDecorrido: 93.80810546875ms
+TempoTotal: 120227.34448242188ms
+
+Amostra: 831
+TempoDecorrido: 91.848876953125ms
+TempoTotal: 120369.58203125ms
+
+Amostra: 832
+TempoDecorrido: 90.462646484375ms
+TempoTotal: 120510.45922851562ms
+
+Amostra: 833
+TempoDecorrido: 91.678466796875ms
+TempoTotal: 120652.525390625ms
+
+Amostra: 834
+TempoDecorrido: 100.36669921875ms
+TempoTotal: 120803.3203125ms
+
+Amostra: 835
+TempoDecorrido: 88.57177734375ms
+TempoTotal: 120942.28833007812ms
+
+Amostra: 836
+TempoDecorrido: 91.79150390625ms
+TempoTotal: 121084.48266601562ms
+
+Amostra: 837
+TempoDecorrido: 92.31494140625ms
+TempoTotal: 121227.228515625ms
+
+Amostra: 838
+TempoDecorrido: 88.9912109375ms
+TempoTotal: 121366.62426757812ms
+
+Amostra: 839
+TempoDecorrido: 82.225341796875ms
+TempoTotal: 121499.26953125ms
+
+Amostra: 840
+TempoDecorrido: 87.821044921875ms
+TempoTotal: 121637.4794921875ms
+
+Amostra: 841
+TempoDecorrido: 107.8349609375ms
+TempoTotal: 121795.7001953125ms
+
+Amostra: 842
+TempoDecorrido: 98.647216796875ms
+TempoTotal: 121944.80346679688ms
+
+Amostra: 843
+TempoDecorrido: 87.31787109375ms
+TempoTotal: 122082.52465820312ms
+
+Amostra: 844
+TempoDecorrido: 94.705322265625ms
+TempoTotal: 122227.67456054688ms
+
+Amostra: 845
+TempoDecorrido: 93.347900390625ms
+TempoTotal: 122371.46240234375ms
+
+Amostra: 846
+TempoDecorrido: 79.76611328125ms
+TempoTotal: 122501.67651367188ms
+
+Amostra: 847
+TempoDecorrido: 80.457275390625ms
+TempoTotal: 122632.60498046875ms
+
+Amostra: 848
+TempoDecorrido: 92.634765625ms
+TempoTotal: 122775.7998046875ms
+
+Amostra: 849
+TempoDecorrido: 97.64453125ms
+TempoTotal: 122923.84350585938ms
+
+Amostra: 850
+TempoDecorrido: 91.20263671875ms
+TempoTotal: 123065.43017578125ms
+
+Amostra: 851
+TempoDecorrido: 102.307861328125ms
+TempoTotal: 123218.1513671875ms
+
+Amostra: 852
+TempoDecorrido: 99.693359375ms
+TempoTotal: 123368.23095703125ms
+
+Amostra: 853
+TempoDecorrido: 101.479736328125ms
+TempoTotal: 123520.1220703125ms
+
+Amostra: 854
+TempoDecorrido: 86.4140625ms
+TempoTotal: 123656.94140625ms
+
+Amostra: 855
+TempoDecorrido: 83.304443359375ms
+TempoTotal: 123790.666015625ms
+
+Amostra: 856
+TempoDecorrido: 84.3818359375ms
+TempoTotal: 123925.47021484375ms
+
+Amostra: 857
+TempoDecorrido: 94.373779296875ms
+TempoTotal: 124070.24780273438ms
+
+Amostra: 858
+TempoDecorrido: 77.640380859375ms
+TempoTotal: 124198.34228515625ms
+
+Amostra: 859
+TempoDecorrido: 93.39892578125ms
+TempoTotal: 124342.12280273438ms
+
+Amostra: 860
+TempoDecorrido: 88.92626953125ms
+TempoTotal: 124481.42529296875ms
+
+Amostra: 861
+TempoDecorrido: 110.4140625ms
+TempoTotal: 124642.3173828125ms
+
+Amostra: 862
+TempoDecorrido: 107.61572265625ms
+TempoTotal: 124800.26000976562ms
+
+Amostra: 863
+TempoDecorrido: 107.850341796875ms
+TempoTotal: 124958.44775390625ms
+
+Amostra: 864
+TempoDecorrido: 105.54736328125ms
+TempoTotal: 125114.34130859375ms
+
+Amostra: 865
+TempoDecorrido: 107.8984375ms
+TempoTotal: 125272.55395507812ms
+
+Amostra: 866
+TempoDecorrido: 112.119384765625ms
+TempoTotal: 125434.96923828125ms
+
+Amostra: 867
+TempoDecorrido: 104.1015625ms
+TempoTotal: 125589.39184570312ms
+
+Amostra: 868
+TempoDecorrido: 108.575439453125ms
+TempoTotal: 125748.32543945312ms
+
+Amostra: 869
+TempoDecorrido: 120.39501953125ms
+TempoTotal: 125919.06787109375ms
+
+Amostra: 870
+TempoDecorrido: 111.32373046875ms
+TempoTotal: 126080.75024414062ms
+
+Amostra: 871
+TempoDecorrido: 110.281494140625ms
+TempoTotal: 126241.44189453125ms
+
+Amostra: 872
+TempoDecorrido: 100.7236328125ms
+TempoTotal: 126392.560546875ms
+
+Amostra: 873
+TempoDecorrido: 100.326416015625ms
+TempoTotal: 126543.32421875ms
+
+Amostra: 874
+TempoDecorrido: 87.18408203125ms
+TempoTotal: 126680.93017578125ms
+
+Amostra: 875
+TempoDecorrido: 84.391845703125ms
+TempoTotal: 126815.76904296875ms
+
+Amostra: 876
+TempoDecorrido: 77.33740234375ms
+TempoTotal: 126943.54467773438ms
+
+Amostra: 877
+TempoDecorrido: 86.261474609375ms
+TempoTotal: 127080.19506835938ms
+
+Amostra: 878
+TempoDecorrido: 92.037353515625ms
+TempoTotal: 127222.64868164062ms
+
+Amostra: 879
+TempoDecorrido: 103.286376953125ms
+TempoTotal: 127376.31298828125ms
+
+Amostra: 880
+TempoDecorrido: 86.690185546875ms
+TempoTotal: 127513.41723632812ms
+
+Amostra: 881
+TempoDecorrido: 104.2607421875ms
+TempoTotal: 127668.0634765625ms
+
+Amostra: 882
+TempoDecorrido: 86.1572265625ms
+TempoTotal: 127804.66333007812ms
+
+Amostra: 883
+TempoDecorrido: 83.456298828125ms
+TempoTotal: 127938.52807617188ms
+
+Amostra: 884
+TempoDecorrido: 83.837158203125ms
+TempoTotal: 128072.76220703125ms
+
+Amostra: 885
+TempoDecorrido: 81.283447265625ms
+TempoTotal: 128204.44580078125ms
+
+Amostra: 886
+TempoDecorrido: 93.6845703125ms
+TempoTotal: 128348.59375ms
+
+Amostra: 887
+TempoDecorrido: 88.863037109375ms
+TempoTotal: 128487.83081054688ms
+
+Amostra: 888
+TempoDecorrido: 92.208740234375ms
+TempoTotal: 128630.44140625ms
+
+Amostra: 889
+TempoDecorrido: 90.6220703125ms
+TempoTotal: 128771.46801757812ms
+
+Amostra: 890
+TempoDecorrido: 91.316162109375ms
+TempoTotal: 128913.1796875ms
+
+Amostra: 891
+TempoDecorrido: 101.564453125ms
+TempoTotal: 129065.13305664062ms
+
+Amostra: 892
+TempoDecorrido: 88.344970703125ms
+TempoTotal: 129203.87280273438ms
+
+Amostra: 893
+TempoDecorrido: 91.6708984375ms
+TempoTotal: 129345.94360351562ms
+
+Amostra: 894
+TempoDecorrido: 103.9052734375ms
+TempoTotal: 129500.24536132812ms
+
+Amostra: 895
+TempoDecorrido: 89.375732421875ms
+TempoTotal: 129640.11547851562ms
+
