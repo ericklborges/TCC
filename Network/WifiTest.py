@@ -18,8 +18,15 @@ urls = [
     "http://dummy.restapiexample.com/api/v1/employee/1",
     "https://api.chew.pro/trbmb",
     "https://uzby.com/api.php?min=3&max=8",
-    "https://api.randomuser.me"
-    ]
+    "https://api.randomuser.me",
+    "https://uselessfacts.jsph.pl/random.json",
+    "https://api.kanye.rest",
+    "https://opinionated-quotes-api.gigalixirapp.com/v1/quotes",
+    "http://uinames.com/api/",
+    "https://geek-jokes.sameerkumar.website/api",
+    "https://corporatebs-generator.sameerkumar.website",
+    "https://www.poemist.com/api/v1"
+]
         
 def startLedBlinking():
     led.blink(0.5,0.5,None,True)
