@@ -1,4 +1,5 @@
 from gpiozero import LED, Button
+from datetime import datetime
 from random import randint
 from urllib import request
 from signal import pause
@@ -14,6 +15,7 @@ firstTime = 0
 failTime = 0
 failCount = 0
 passedHours = 0
+lastUsedUrl = ""
 
 urls = [
     "https://jsonplaceholder.typicode.com/todos/1",
@@ -26,6 +28,10 @@ urls = [
         
 # Main Loop
 def run():
+    startDate = datetime.now()
+    startDate.strftime("%H:%M:%S")
+    text = "\n\n==========\tTest Started at: {}\t==========\n"
+    log(message = text.format(startDate.time()))
     global firstTime
     firstTime = time()
     while 1:
@@ -41,8 +47,11 @@ def run():
             log(message = text.format(passedHours))
             
         if elapsedTime > oneDayInSeconds:
-            log(message = "\nDone")
             startVeryFastLedBlinking()
+            endDate = datetime.now()
+            endDate.strftime("%H:%M:%S")
+            text = "\n\n==========\tTest Ended at: {}\t==========\n"
+            log(message = text.format(endDate.time()))
             system("sudo shutdown")
             break
         elif not(isConnectedToTheInternet()):
@@ -50,20 +59,27 @@ def run():
             failTime = time()
             global failCount
             failCount += 1
-            text = "\n\nDisonnected:{}" 
-            log(message = text.format(failCount))
+            global lastUsedUrl
+            failDate = datetime.now()
+            failDate.strftime("%H:%M:%S")
+            text = "\n\nDisonnected:{}"
+            text += "\nTest url:{}"
+            text += "\nTime:{}"
+            log(message = text.format(failCount,lastUsedUrl,failDate.time()))
             reconnect()   
         sleep(10)
 
 # Log
 def log(message):
-    log = open('/home/pi/Git/TCC/Logs/Wifi_Test.txt', 'a')
+    log = open('/home/pi/Git/TCC/Logs/Log_Wifi_Test.txt', 'a')
     log.write(message)
     log.close()
 
 # Reachability
 def isConnectedToTheInternet():
+    global lastUsedUrl
     url = urls[randint(0,len(urls)-1)]
+    lastUsedUrl = url
     try:
         request.urlopen(url)
         return True
@@ -87,7 +103,7 @@ def reconnect():
             reconnect()
         else:
             log(message = '.')
-        sleep(2)
+        sleep(0.1)
 
 # LED Blinking Patterns
 def startLedBlinking():
@@ -105,3 +121,4 @@ button.when_pressed = run
 
 pause()
     
+
