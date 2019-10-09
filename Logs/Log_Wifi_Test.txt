@@ -1,10 +1,10 @@
-==========	Test Started at: 16:56:57.383542	==========
+==========	Test Started at: 01:41:57.961265	==========
 
 Disonnected:1
-Test url:https://jsonplaceholder.typicode.com/todos/1
-Time:16:56:57.416772
-reconnecting............................................................
-Reconnection delay:6.466763019561768
+Test url:https://uzby.com/api.php?min=3&max=8
+Time:01:41:58.008894
+reconnecting................................................................
+Reconnection delay:249.5528872013092
 
 Passed Hours:1
 
@@ -12,53 +12,11 @@ Passed Hours:2
 
 Passed Hours:3
 
-Disonnected:2
-Test url:https://uzby.com/api.php?min=3&max=8
-Time:20:04:09.151549
-reconnecting.............................................................................................................
-Reconnection delay:11.530711650848389
-
 Passed Hours:4
 
 Passed Hours:5
 
-Disonnected:3
-Test url:https://jsonplaceholder.typicode.com/todos/1
-Time:22:35:48.137084
-reconnecting
-Reconnection delay:0.6227948665618896
-
-Disonnected:4
-Test url:https://jsonplaceholder.typicode.com/todos/1
-Time:22:55:05.320972
-reconnecting
-Reconnection delay:2.1331329345703125
-
-Disonnected:5
-Test url:https://uselessfacts.jsph.pl/random.json
-Time:22:56:14.918727
-reconnecting
-Reconnection delay:47.37583637237549
-
 Passed Hours:6
-
-Disonnected:6
-Test url:https://jsonplaceholder.typicode.com/todos/1
-Time:23:10:01.256771
-reconnecting
-Reconnection delay:1.0877561569213867
-
-Disonnected:7
-Test url:https://opinionated-quotes-api.gigalixirapp.com/v1/quotes
-Time:23:27:20.617107
-reconnecting
-Reconnection delay:0.6223635673522949
-
-Disonnected:8
-Test url:https://uselessfacts.jsph.pl/random.json
-Time:23:45:31.177082
-reconnecting
-Reconnection delay:0.7311403751373291
 
 Passed Hours:7
 
@@ -70,13 +28,13 @@ Passed Hours:10
 
 Passed Hours:11
 
-Disonnected:9
-Test url:https://uselessfacts.jsph.pl/random.json
-Time:04:30:06.376796
-reconnecting
-Reconnection delay:0.16416120529174805
-
 Passed Hours:12
+
+Disonnected:2
+Test url:https://jsonplaceholder.typicode.com/todos/1
+Time:13:46:04.804434
+reconnecting..........
+Reconnection delay:2.304492950439453
 
 Passed Hours:13
 
@@ -88,28 +46,28 @@ Passed Hours:16
 
 Passed Hours:17
 
+Disonnected:3
+Test url:https://uselessfacts.jsph.pl/random.json
+Time:19:09:16.308224
+reconnecting
+Reconnection delay:0.5295538902282715
+
+Disonnected:4
+Test url:https://jsonplaceholder.typicode.com/todos/1
+Time:19:25:48.625004
+reconnecting
+Reconnection delay:0.7644636631011963
+
 Passed Hours:18
 
 Passed Hours:19
 
 Passed Hours:20
 
-Disonnected:10
-Test url:https://jsonplaceholder.typicode.com/todos/1
-Time:13:09:41.918575
-reconnecting
-Reconnection delay:1.0362975597381592
-
 Passed Hours:21
-
-Disonnected:11
-Test url:https://uselessfacts.jsph.pl/random.json
-Time:14:23:51.336753
-reconnecting
-Reconnection delay:1.0290884971618652
 
 Passed Hours:22
 
 Passed Hours:23
 
-==========	Test Ended at: 16:57:01.151542	==========
+==========	Test Ended at: 01:48:35.752148	==========
