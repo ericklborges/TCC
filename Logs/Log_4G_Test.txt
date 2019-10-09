@@ -1,0 +1,73 @@
+==========	Test Started at: 01:41:57.961265	==========
+
+Disonnected:1
+Test url:https://uzby.com/api.php?min=3&max=8
+Time:01:41:58.008894
+reconnecting................................................................
+Reconnection delay:249.5528872013092
+
+Passed Hours:1
+
+Passed Hours:2
+
+Passed Hours:3
+
+Passed Hours:4
+
+Passed Hours:5
+
+Passed Hours:6
+
+Passed Hours:7
+
+Passed Hours:8
+
+Passed Hours:9
+
+Passed Hours:10
+
+Passed Hours:11
+
+Passed Hours:12
+
+Disonnected:2
+Test url:https://jsonplaceholder.typicode.com/todos/1
+Time:13:46:04.804434
+reconnecting..........
+Reconnection delay:2.304492950439453
+
+Passed Hours:13
+
+Passed Hours:14
+
+Passed Hours:15
+
+Passed Hours:16
+
+Passed Hours:17
+
+Disonnected:3
+Test url:https://uselessfacts.jsph.pl/random.json
+Time:19:09:16.308224
+reconnecting
+Reconnection delay:0.5295538902282715
+
+Disonnected:4
+Test url:https://jsonplaceholder.typicode.com/todos/1
+Time:19:25:48.625004
+reconnecting
+Reconnection delay:0.7644636631011963
+
+Passed Hours:18
+
+Passed Hours:19
+
+Passed Hours:20
+
+Passed Hours:21
+
+Passed Hours:22
+
+Passed Hours:23
+
+==========	Test Ended at: 01:48:35.752148	==========
